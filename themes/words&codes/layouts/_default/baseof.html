@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+
+  <head>
+    {{ partial "head-meta.html" . }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}css/latex.css" rel="stylesheet">
+
+    {{ if .RSSLink }}
+    {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
+  </head>
+
+  <body>
+    <header>
+     <!-- <h1>{{ .Site.Title | safeHTML }}</h1> -->
+
+     <nav>
+        <ul class="navbar">
+            <li class="logo">
+              <a href="/">
+                <img src="/logo/logoWC.svg" alt="Words & Codes"/>
+              </a>
+            </li>
+            <li class="nav-first"><a href="#" class="nav-link">Práca</a></li>
+            <li><a href="#" class="nav-link">Blog</a></li>
+            <li><a href="#" class="nav-link">Kontakt</a></li>
+        </ul>
+    </nav>
+      
+      {{ if .Site.Params.description }}<p class="subtitle">{{ .Site.Params.description | markdownify }}</p>{{ end }}
+    </header>
+
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+
+    <footer>
+
+    </footer>
+
+
+
+  </body>
+
+</html>
+
+{{- /* vim: set ts=2 sw=2 et: */}}

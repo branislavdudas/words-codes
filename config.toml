@@ -1,0 +1,4 @@
+baseURL = "https://words.codes/"
+languageCode = "sk-sk"
+title = "Words & Codes"
+theme = "words&codes"

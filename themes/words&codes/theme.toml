@@ -1,0 +1,12 @@
+name = "words&codes"
+license = "MIT"
+licenselink = ""
+description = "Súkromná téma pre words & codes"
+homepage = "https://words.codes"
+tags = ["blog"]
+features = ["responsive", "blog"]
+min_version = 0.1
+
+[author]
+  name = "Branislav Dudáš"
+  homepage = "https://words.codes"
