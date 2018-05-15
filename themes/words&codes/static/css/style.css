@@ -524,7 +524,66 @@ figcaption {
 
 
 
-/* Responsivness */
+
+/* Footer */
+
+  article > footer > .newsletter, .recommended  > h3 {
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 90px;
+  }
+  
+  article > footer > .newsletter, .recommended  > p {
+    width: 42%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .readnext-flexbox {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .readnext-flexbox > li {
+    width: 220px;
+    font-size: 67%;
+    text-align: center;
+    box-sizing: border-box;
+    list-style-type: none;
+  }
+  
+  .recommended > a:hover {
+    color: #bd0000;
+  }
+
+  
+  @media all and (max-width:520px) {
+    .readnext-flexbox > li {
+      width: 50%;
+      font-size: 80%;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    article > footer > .newsletter, .recommended  > p {
+      width: 80%;
+    }
+
+  }
+
+.copyright {
+  font-size: 67%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #999
+}
+
+/* Additional Responsivness */
 
 @media all and (max-width:520px) {
   body > * {
