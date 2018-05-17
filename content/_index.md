@@ -24,4 +24,4 @@ Volám sa Braňo Dudáš a&nbsp;s&nbsp;**Words & Codes** pomáham jednotlivcom a
 [**O2&nbsp;Business Services**](https://www.google.com),
 [**Sapie**](https://www.google.com)
 či
-[**Zľava&nbsp;dňa**](https://www.google.com).
+[**Zľava&nbsp;dňa**](https://www.google.com).a
