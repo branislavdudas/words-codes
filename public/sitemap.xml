@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://words.codes/</loc>
-    <lastmod>2017-01-05T18:19:52+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://words.codes/magicky-marakes/</loc>
     <lastmod>2016-11-07T09:38:22+00:00</lastmod>
   </url>
@@ -350,6 +345,16 @@
   <url>
     <loc>https://words.codes/</loc>
     <lastmod>2012-01-05T18:19:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/blog/_blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/blog/</loc>
+    <lastmod>2017-06-20T18:43:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

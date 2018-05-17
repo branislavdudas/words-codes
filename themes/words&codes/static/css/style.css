@@ -316,7 +316,7 @@ section > aside {
 }
 
 body {
-  font-family: "Source Serif Pro";
+  font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
   color: #111;
   text-rendering: optimizeLegibility;
   -moz-font-feature-settings: 'kern=1';
@@ -386,12 +386,28 @@ h2, h3, h4, h5, h6 {
   padding-bottom: 0.3em;
 }
 
+.homepage > blockquote {
+  width: 60vw;
+  font-size: 3vw;
+  line-height: 1.5;
+  padding-bottom: 0.3em;
+  margin: auto;
+}
+
 @media all and (max-width:520px) {
   .homepage > p {
     font-size: 5vw;
-    line-height: 1.5;
+
     padding-bottom: 1em;
   }
+
+  .homepage > blockquote {
+    width: 60vw;
+    font-size: 5vw;
+    padding-bottom: 0.3em;
+    margin: auto;
+  }
+
 }
 
 /* Hanging Punctuation */
@@ -457,12 +473,14 @@ aside {
 ol, ul {
   padding-left: 0;
   list-style-position: outside;
+  line-height: 1.5;
 }
 
 ol li {
   list-style-type: lower-roman }
 
-
+li {
+  padding-bottom: 1em;}
 
 
 
@@ -486,9 +504,8 @@ p > a:hover {
 
 p > a:after {
   position: relative;
-  content: "†";
+  content: "※";
   margin-left: 0.10em;
-  top: -0.10em;
   color: #bd0000;
 }
 
@@ -601,6 +618,37 @@ figcaption {
   margin-top: 30px;
   margin-bottom: 30px;
   color: #999
+}
+
+
+
+
+
+/* Archive */
+
+.archive {
+  width: 60vw;
+  margin: auto;
+  font-size: 2vw;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.archive > ul {
+
+}
+
+@media all and (max-width:520px) {
+  .archive {
+    width: 70vw;
+    margin: auto;
+    font-size: 4vw;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+
+
+
 }
 
 /* Additional Responsivness */
