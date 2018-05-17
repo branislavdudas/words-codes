@@ -9,7 +9,6 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}css/latex.css" rel="stylesheet">
 
     {{ if .RSSLink }}
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
@@ -28,8 +27,8 @@
                 <img src="/logo/logoWC.svg" alt="Words & Codes"/>
               </a>
             </li>
-            <li class="nav-first"><a href="#" class="nav-link">Práca</a></li>
-            <li><a href="#" class="nav-link">Blog</a></li>
+            <li class="nav-first"><a href="/" class="nav-link">Domov</a></li>
+            <li><a href="/blog" class="nav-link">Blog</a></li>
             <li><a href="#" class="nav-link">Kontakt</a></li>
         </ul>
     </nav>

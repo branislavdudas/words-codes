@@ -256,8 +256,6 @@ section > aside {
 
 /* Basic Typography */
 
-
-/* source-serif-pro-regular - latin-ext_latin */
 @font-face {
   font-family: 'Source Serif Pro';
   font-style: normal;
@@ -373,6 +371,28 @@ h2, h3, h4, h5, h6 {
 
 
 
+
+/* Homepage */
+
+.homepage {
+  width: 80vw;
+  margin: auto;
+  padding-top: 2em;
+}
+
+.homepage > p {
+  font-size: 3vw;
+  line-height: 1.5;
+  padding-bottom: 0.3em;
+}
+
+@media all and (max-width:520px) {
+  .homepage > p {
+    font-size: 5vw;
+    line-height: 1.5;
+    padding-bottom: 1em;
+  }
+}
 
 /* Hanging Punctuation */
 
@@ -524,7 +544,66 @@ figcaption {
 
 
 
-/* Responsivness */
+
+/* Footer */
+
+  article > footer > .newsletter, .recommended  > h3 {
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 90px;
+  }
+  
+  article > footer > .newsletter, .recommended  > p {
+    width: 42%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .readnext-flexbox {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .readnext-flexbox > li {
+    width: 220px;
+    font-size: 67%;
+    text-align: center;
+    box-sizing: border-box;
+    list-style-type: none;
+  }
+  
+  .recommended > a:hover {
+    color: #bd0000;
+  }
+
+  
+  @media all and (max-width:520px) {
+    .readnext-flexbox > li {
+      width: 50%;
+      font-size: 80%;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    article > footer > .newsletter, .recommended  > p {
+      width: 80%;
+    }
+
+  }
+
+.copyright {
+  font-size: 67%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #999
+}
+
+/* Additional Responsivness */
 
 @media all and (max-width:520px) {
   body > * {
@@ -559,3 +638,27 @@ figcaption {
     grid-column: 2;
   }
 }
+
+
+
+
+/* LaTeX */
+
+.latex-sub, .latex-sup { text-transform: uppercase;
+  font-size: smaller;
+  position: relative; }
+
+.latex-sub { top: 0.2rem;
+margin-left: -0.1667rem;
+margin-right: -0.125rem; }
+
+.latex-sup { top: -0.2rem;
+margin-left: -0.36rem;
+margin-right: -0.15rem;
+text-shadow: none; }
+
+.latex::selection, .latex span:not(.latex-sup)::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+background: #b4d5fe; }
+
+.latex::-moz-selection, .latex span:not(.latex-sup)::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+  background: #b4d5fe; }
