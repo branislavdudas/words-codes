@@ -26,11 +26,6 @@ Volám sa Braňo Dudáš a&nbsp;s&nbsp;**Words & Codes** pomáham jednotlivcom a
 či
 [**Zľava&nbsp;dňa**](https://www.zlavadna.sk).
 
-Aké príbehy hovoria oni o mne?
-
->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-> <footer>Peter Pokojný</footer>
-
 Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A ja napíšem vám — čo budete chcieť.
 
 Na Words & Codes nájdete aj **„nekomerčné texty.“** Píšem o príbehoch, ktoré si hovoríme, o mýtoch, v ktorých žijeme a o tom, ako slová ovplyvňujú naše myšlienky a naopak. Zoznam článkov nájdete v [**archíve**](/blog) a budúce články môžete dostať poštou.
