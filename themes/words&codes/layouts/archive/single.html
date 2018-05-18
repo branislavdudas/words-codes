@@ -1,0 +1,45 @@
+{{ define "title" }}{{ .Title | markdownify }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+
+<article>
+  <header>
+    <h1>{{ .Title | markdownify }}</h1>
+  </header>
+
+  <div class="archive">
+
+    <div id="main">
+        <div id="content">
+          <div>
+
+
+              <div id="blog-archives" class="category" class="archive">
+                {{ range (where .Site.Pages "Type" "post") }}
+
+
+                   <ul>
+                       <li><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
+                   </ul> 
+
+
+                    <!-- if you want pages summary you can print it here {{ .Summary }} -->
+
+                {{ end }}
+              </div>
+
+          </div>
+
+        </div>
+      </div>
+
+  </div>
+
+
+
+</article>
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}
