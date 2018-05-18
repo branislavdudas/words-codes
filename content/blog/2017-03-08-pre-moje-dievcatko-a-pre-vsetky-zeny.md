@@ -3,7 +3,7 @@ title: Pre moje dievčatko (a pre všetky a ženy)
 author: Branislav Dudáš
 type: post
 date: 2017-03-08T05:15:16+00:00
-url: /pre-moje-dievcatko-a-pre-vsetky-zeny/
+url: /blog/pre-moje-dievcatko-a-pre-vsetky-zeny/
 categories:
   - Nezaradené
 

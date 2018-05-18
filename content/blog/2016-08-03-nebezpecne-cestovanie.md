@@ -3,7 +3,7 @@ title: Nebezpečné cestovanie
 author: Branislav Dudáš
 type: post
 date: 2016-08-03T10:00:24+00:00
-url: /nebezpecne-cestovanie/
+url: /blog/nebezpecne-cestovanie/
 categories:
   - Nezaradené
 

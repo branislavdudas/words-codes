@@ -3,7 +3,7 @@ title: Stručná história takmer všetkého
 author: Branislav Dudáš
 type: post
 date: 2012-02-05T14:26:48+00:00
-url: /strucna-historia-takmer-vsetkeho/
+url: /blog/strucna-historia-takmer-vsetkeho/
 categories:
   - Nezaradené
 

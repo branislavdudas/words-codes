@@ -3,7 +3,7 @@ title: Ako si stanoviť ciele, ak neviete, čo so životom
 author: Branislav Dudáš
 type: post
 date: 2015-10-12T05:10:29+00:00
-url: /ako-si-stanovit-ciele-ak-neviete-co-so-zivotom/
+url: /blog/ako-si-stanovit-ciele-ak-neviete-co-so-zivotom/
 categories:
   - Nezaradené
 

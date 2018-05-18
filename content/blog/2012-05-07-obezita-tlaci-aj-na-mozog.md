@@ -3,7 +3,7 @@ title: Obezita tlačí aj na mozog
 author: Branislav Dudáš
 type: post
 date: 2012-05-07T16:58:17+00:00
-url: /obezita-tlaci-aj-na-mozog/
+url: /blog/obezita-tlaci-aj-na-mozog/
 categories:
   - Nezaradené
 

@@ -3,7 +3,7 @@ title: Najúžasnejšia vedomosť
 author: Branislav Dudáš
 type: post
 date: 2012-03-20T21:07:03+00:00
-url: /toto-je-moje-nabozenstvo/
+url: /blog/toto-je-moje-nabozenstvo/
 categories:
   - Nezaradené
 

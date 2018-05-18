@@ -3,7 +3,7 @@ title: Hejno bez ptáků
 author: Branislav Dudáš
 type: post
 date: 2013-02-22T06:32:28+00:00
-url: /hejno-bez-ptaku/
+url: /blog/hejno-bez-ptaku/
 categories:
   - Nezaradené
 

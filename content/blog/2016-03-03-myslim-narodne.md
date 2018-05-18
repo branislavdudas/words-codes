@@ -3,7 +3,7 @@ title: Myslím národne
 author: Branislav Dudáš
 type: post
 date: 2016-03-03T13:07:44+00:00
-url: /myslim-narodne/
+url: /blog/myslim-narodne/
 categories:
   - Nezaradené
 

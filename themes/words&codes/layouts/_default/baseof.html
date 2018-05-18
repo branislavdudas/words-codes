@@ -14,6 +14,18 @@
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
+
+    <link rel="author" href="/humans.txt">
+
+    <link rel="me" href="https://words.codes" type="text/html">
+    <link rel="me" href="mailto:branislav.dudas@gmail.com">
+    <link rel="me" href="sms:+00421948238327">
+
+    <link rel="archives" href="https://words.codes/blog/">
+
+    
+
+
   </head>
 
   <body>
@@ -29,7 +41,7 @@
             </li>
             <li class="nav-first"><a href="/" class="nav-link">Domov</a></li>
             <li><a href="/blog" class="nav-link">Blog</a></li>
-            <li><a href="#" class="nav-link">Kontakt</a></li>
+            <li><a href="/index.xml" class="nav-link">RSS</a></li>
         </ul>
     </nav>
       

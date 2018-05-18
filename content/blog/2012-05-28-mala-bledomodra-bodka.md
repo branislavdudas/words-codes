@@ -3,7 +3,7 @@ title: Malá bledomodrá bodka
 author: Branislav Dudáš
 type: post
 date: 2012-05-28T16:29:03+00:00
-url: /mala-bledomodra-bodka/
+url: /blog/mala-bledomodra-bodka/
 categories:
   - Nezaradené
 

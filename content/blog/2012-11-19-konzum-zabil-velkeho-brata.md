@@ -3,7 +3,7 @@ title: Konzum zabil Veľkého Brata
 author: Branislav Dudáš
 type: post
 date: 2012-11-19T07:20:28+00:00
-url: /konzum-zabil-velkeho-brata/
+url: /blog/konzum-zabil-velkeho-brata/
 categories:
   - Nezaradené
 

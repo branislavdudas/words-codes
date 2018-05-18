@@ -3,7 +3,7 @@ title: Zvláštny pocit, držať v ruke pero
 author: Branislav Dudáš
 type: post
 date: 2013-01-07T07:12:55+00:00
-url: /zvlastny-pocit-drzat-v-ruke-pero/
+url: /blog/zvlastny-pocit-drzat-v-ruke-pero/
 categories:
   - Nezaradené
 

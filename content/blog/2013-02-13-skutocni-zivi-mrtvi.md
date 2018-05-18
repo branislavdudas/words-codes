@@ -3,7 +3,7 @@ title: Skutoční živí mŕtvi
 author: Branislav Dudáš
 type: post
 date: 2013-02-13T06:49:44+00:00
-url: /skutocni-zivi-mrtvi/
+url: /blog/skutocni-zivi-mrtvi/
 categories:
   - Nezaradené
 

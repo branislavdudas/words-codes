@@ -3,7 +3,7 @@ title: Prečo som ateista
 author: Branislav Dudáš
 type: post
 date: 2014-06-10T05:01:50+00:00
-url: /preco-som-ateista/
+url: /blog/preco-som-ateista/
 categories:
   - Nezaradené
 

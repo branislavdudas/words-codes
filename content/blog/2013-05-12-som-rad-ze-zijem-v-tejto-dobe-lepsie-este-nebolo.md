@@ -3,7 +3,7 @@ title: Som rád, že žijem v tejto dobe, lepšie ešte nebolo
 author: Branislav Dudáš
 type: post
 date: 2013-05-12T08:33:45+00:00
-url: /som-rad-ze-zijem-v-tejto-dobe-lepsie-este-nebolo/
+url: /blog/som-rad-ze-zijem-v-tejto-dobe-lepsie-este-nebolo/
 categories:
   - Nezaradené
 

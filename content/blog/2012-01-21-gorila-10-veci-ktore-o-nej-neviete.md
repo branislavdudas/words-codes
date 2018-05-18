@@ -3,7 +3,7 @@ title: 'Gorila: 10 vecí, ktoré o nej neviete'
 author: Branislav Dudáš
 type: post
 date: 2012-01-21T19:28:05+00:00
-url: /gorila-10-veci-ktore-o-nej-neviete/
+url: /blog/gorila-10-veci-ktore-o-nej-neviete/
 categories:
   - Nezaradené
 

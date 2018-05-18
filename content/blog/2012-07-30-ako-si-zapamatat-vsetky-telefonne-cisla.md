@@ -3,7 +3,7 @@ title: Ako si zapamätať všetky telefónne čísla
 author: Branislav Dudáš
 type: post
 date: 2012-07-30T07:57:34+00:00
-url: /ako-si-zapamatat-vsetky-telefonne-cisla/
+url: /blog/ako-si-zapamatat-vsetky-telefonne-cisla/
 categories:
   - Nezaradené
 

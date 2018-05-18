@@ -3,7 +3,7 @@ title: O pôvode životnej filozofie prirodzeným výberom
 author: Branislav Dudáš
 type: post
 date: 2015-09-30T05:47:43+00:00
-url: /o-povode-zivotnej-filozofie-prirodzenym-vyberom/
+url: /blog/o-povode-zivotnej-filozofie-prirodzenym-vyberom/
 categories:
   - Nezaradené
 

@@ -3,7 +3,7 @@ title: Evolúcia zdravého stravovania a paleo diéty
 author: Branislav Dudáš
 type: post
 date: 2016-08-13T09:08:09+00:00
-url: /evolucia-zdraveho-stravovania-paleo/
+url: /blog/evolucia-zdraveho-stravovania-paleo/
 categories:
   - Nezaradené
 

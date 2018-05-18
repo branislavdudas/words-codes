@@ -3,7 +3,7 @@ title: Môžete vziať ľudí zo savany, ale nie savanu z ľudí
 author: Branislav Dudáš
 type: post
 date: 2012-07-09T08:57:45+00:00
-url: /mozete-vziat-ludi-zo-savany-ale-nie-savanu-z-ludi/
+url: /blog/mozete-vziat-ludi-zo-savany-ale-nie-savanu-z-ludi/
 categories:
   - Nezaradené
 

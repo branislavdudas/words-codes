@@ -3,7 +3,7 @@ title: Váš mozog sa dokáže zmeniť
 author: Branislav Dudáš
 type: post
 date: 2012-08-06T06:27:55+00:00
-url: /vas-mozog-sa-dokaze-zmenit/
+url: /blog/vas-mozog-sa-dokaze-zmenit/
 categories:
   - Nezaradené
 

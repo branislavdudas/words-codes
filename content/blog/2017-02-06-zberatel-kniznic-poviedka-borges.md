@@ -3,7 +3,7 @@ title: Zberateľ knižníc – poviedka o tom, ako v mojej knižnici pribudol Jo
 author: Branislav Dudáš
 type: post
 date: 2017-02-06T16:09:19+00:00
-url: /zberatel-kniznic-poviedka-borges/
+url: /blog/zberatel-kniznic-poviedka-borges/
 categories:
   - Nezaradené
 

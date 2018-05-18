@@ -3,7 +3,7 @@ title: Utečenci a mémy
 author: Branislav Dudáš
 type: post
 date: 2015-09-15T07:08:09+00:00
-url: /utecenci-a-memy/
+url: /blog/utecenci-a-memy/
 categories:
   - Nezaradené
 

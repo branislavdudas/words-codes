@@ -3,7 +3,7 @@ title: Najväčšia show pod Slnkom
 author: Branislav Dudáš
 type: post
 date: 2012-03-07T18:49:22+00:00
-url: /najvacsia-show-pod-slnkom/
+url: /blog/najvacsia-show-pod-slnkom/
 categories:
   - Nezaradené
 

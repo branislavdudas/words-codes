@@ -3,7 +3,7 @@ title: Osobný kurz MBA
 author: Branislav Dudáš
 type: post
 date: 2012-05-21T17:53:48+00:00
-url: /osobny-kurz-mba/
+url: /blog/osobny-kurz-mba/
 categories:
   - Nezaradené
 

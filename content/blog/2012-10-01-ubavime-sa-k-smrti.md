@@ -3,7 +3,7 @@ title: Ubavíme sa k smrti
 author: Branislav Dudáš
 type: post
 date: 2012-10-01T06:23:11+00:00
-url: /ubavime-sa-k-smrti/
+url: /blog/ubavime-sa-k-smrti/
 categories:
   - Nezaradené
 

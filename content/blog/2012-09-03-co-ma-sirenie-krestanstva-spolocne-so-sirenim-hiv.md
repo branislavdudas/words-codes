@@ -3,7 +3,7 @@ title: Čo má šírenie kresťanstva spoločné so šírením HIV?
 author: Branislav Dudáš
 type: post
 date: 2012-09-03T06:21:49+00:00
-url: /co-ma-sirenie-krestanstva-spolocne-so-sirenim-hiv/
+url: /blog/co-ma-sirenie-krestanstva-spolocne-so-sirenim-hiv/
 categories:
   - Nezaradené
 

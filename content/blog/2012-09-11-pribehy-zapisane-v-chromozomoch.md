@@ -3,7 +3,7 @@ title: Príbehy zapísané v chromozómoch
 author: Branislav Dudáš
 type: post
 date: 2012-09-11T06:16:20+00:00
-url: /pribehy-zapisane-v-chromozomoch/
+url: /blog/pribehy-zapisane-v-chromozomoch/
 categories:
   - Nezaradené
 

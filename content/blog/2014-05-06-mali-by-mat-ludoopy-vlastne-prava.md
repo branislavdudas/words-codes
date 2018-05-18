@@ -3,7 +3,7 @@ title: Mali by mať ľudoopy vlastné práva?
 author: Branislav Dudáš
 type: post
 date: 2014-05-06T04:38:27+00:00
-url: /mali-by-mat-ludoopy-vlastne-prava/
+url: /blog/mali-by-mat-ludoopy-vlastne-prava/
 categories:
   - Nezaradené
 

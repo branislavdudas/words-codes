@@ -3,7 +3,7 @@ title: Poďte so mnou hľadať mimozemšťanov!
 author: Branislav Dudáš
 type: post
 date: 2012-05-01T19:50:56+00:00
-url: /podte-so-mnou-hladat-mimozemstanov/
+url: /blog/podte-so-mnou-hladat-mimozemstanov/
 categories:
   - Nezaradené
 

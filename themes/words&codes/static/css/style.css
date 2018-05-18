@@ -571,7 +571,7 @@ figcaption {
   }
   
   article > footer > .newsletter, .recommended  > p {
-    width: 42%;
+    width: 33%;
     margin: auto;
     text-align: center;
   }
@@ -597,7 +597,11 @@ figcaption {
     color: #bd0000;
   }
 
-  
+  .recommended-image {
+    height: 250px;
+  }
+
+
   @media all and (max-width:520px) {
     .readnext-flexbox > li {
       width: 50%;

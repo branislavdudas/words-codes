@@ -3,7 +3,7 @@ title: Podpísané myšlienky
 author: Branislav Dudáš
 type: post
 date: 2012-04-30T21:31:04+00:00
-url: /podpisane-myslienky/
+url: /blog/podpisane-myslienky/
 categories:
   - Nezaradené
 

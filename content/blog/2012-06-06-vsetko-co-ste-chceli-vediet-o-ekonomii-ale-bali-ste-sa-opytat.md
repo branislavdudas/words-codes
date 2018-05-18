@@ -3,7 +3,7 @@ title: Všetko, čo ste chceli vedieť o ekonómii, ale báli ste sa opýtať
 author: Branislav Dudáš
 type: post
 date: 2012-06-06T09:37:09+00:00
-url: /vsetko-co-ste-chceli-vediet-o-ekonomii-ale-bali-ste-sa-opytat/
+url: /blog/vsetko-co-ste-chceli-vediet-o-ekonomii-ale-bali-ste-sa-opytat/
 categories:
   - Nezaradené
 

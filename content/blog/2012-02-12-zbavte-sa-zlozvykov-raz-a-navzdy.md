@@ -3,7 +3,7 @@ title: Zbavte sa zlozvykov raz a navždy
 author: Branislav Dudáš
 type: post
 date: 2012-02-12T15:23:24+00:00
-url: /zbavte-sa-zlozvykov-raz-a-navzdy/
+url: /blog/zbavte-sa-zlozvykov-raz-a-navzdy/
 categories:
   - Nezaradené
 

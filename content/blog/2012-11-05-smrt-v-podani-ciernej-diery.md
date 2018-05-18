@@ -3,7 +3,7 @@ title: Smrť v podaní čiernej diery
 author: Branislav Dudáš
 type: post
 date: 2012-11-05T07:15:25+00:00
-url: /smrt-v-podani-ciernej-diery/
+url: /blog/smrt-v-podani-ciernej-diery/
 categories:
   - Nezaradené
 

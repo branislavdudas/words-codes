@@ -3,7 +3,7 @@ title: Médiá – zmanipulovaný manipulátor?
 author: Branislav Dudáš
 type: post
 date: 2012-08-13T06:37:25+00:00
-url: /media-zmanipulovany-manipulator/
+url: /blog/media-zmanipulovany-manipulator/
 categories:
   - Nezaradené
 

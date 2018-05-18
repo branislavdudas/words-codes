@@ -3,7 +3,7 @@ title: Ako ubehať k smrti antilopu
 author: Branislav Dudáš
 type: post
 date: 2012-01-15T16:59:00+00:00
-url: /ako-ubehat-k-smrti-antilopu/
+url: /blog/ako-ubehat-k-smrti-antilopu/
 categories:
   - Nezaradené
 

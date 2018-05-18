@@ -3,7 +3,7 @@ title: Motivačná literatúra je jedno veľké klamstvo
 author: Branislav Dudáš
 type: post
 date: 2014-04-10T05:00:05+00:00
-url: /motivacna-literatura-je-jedno-velke-klamstvo/
+url: /blog/motivacna-literatura-je-jedno-velke-klamstvo/
 categories:
   - Nezaradené
 

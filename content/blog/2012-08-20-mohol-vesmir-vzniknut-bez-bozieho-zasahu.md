@@ -3,7 +3,7 @@ title: Mohol vesmír vzniknúť bez božieho zásahu?
 author: Branislav Dudáš
 type: post
 date: 2012-08-20T06:16:30+00:00
-url: /mohol-vesmir-vzniknut-bez-bozieho-zasahu/
+url: /blog/mohol-vesmir-vzniknut-bez-bozieho-zasahu/
 categories:
   - Nezaradené
 

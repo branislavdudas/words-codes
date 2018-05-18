@@ -3,7 +3,7 @@ title: Plávanie proti prúdu
 author: Branislav Dudáš
 type: post
 date: 2012-09-24T06:17:16+00:00
-url: /plavanie-proti-prudu/
+url: /blog/plavanie-proti-prudu/
 categories:
   - Nezaradené
 

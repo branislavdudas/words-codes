@@ -3,7 +3,7 @@ title: Dosť bolo jednosmernej multikulturality
 author: Branislav Dudáš
 type: post
 date: 2014-02-06T06:10:37+00:00
-url: /dost-bolo-jednosmernej-multikulturality/
+url: /blog/dost-bolo-jednosmernej-multikulturality/
 categories:
   - Nezaradené
 

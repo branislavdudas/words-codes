@@ -3,7 +3,7 @@ title: Priviesť dieťa do tohto sveta?
 author: Branislav Dudáš
 type: post
 date: 2016-01-20T09:56:49+00:00
-url: /priviest-dieta-do-tohto-sveta/
+url: /blog/priviest-dieta-do-tohto-sveta/
 categories:
   - Nezaradené
 

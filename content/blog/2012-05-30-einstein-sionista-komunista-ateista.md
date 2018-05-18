@@ -3,7 +3,7 @@ title: 'Einstein: Sionista, komunista, ateista?'
 author: Branislav Dudáš
 type: post
 date: 2012-05-30T18:01:20+00:00
-url: /einstein-sionista-komunista-ateista/
+url: /blog/einstein-sionista-komunista-ateista/
 categories:
   - Nezaradené
 

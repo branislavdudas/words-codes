@@ -3,7 +3,7 @@ title: Gödel, Escher, Bach
 author: Branislav Dudáš
 type: post
 date: 2012-10-15T06:16:04+00:00
-url: /godel-escher-bach/
+url: /blog/godel-escher-bach/
 categories:
   - Nezaradené
 

@@ -3,7 +3,7 @@ title: Prečo nechcem byť politikom
 author: Branislav Dudáš
 type: post
 date: 2012-02-06T19:36:23+00:00
-url: /preco-nechcem-byt-politikom/
+url: /blog/preco-nechcem-byt-politikom/
 categories:
   - Nezaradené
 

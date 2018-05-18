@@ -3,7 +3,7 @@ title: Kto vchádza skratkami do vašej mysle?
 author: Branislav Dudáš
 type: post
 date: 2012-09-17T12:49:07+00:00
-url: /kto-vchadza-skratkami-do-vasej-mysle/
+url: /blog/kto-vchadza-skratkami-do-vasej-mysle/
 categories:
   - Nezaradené
 

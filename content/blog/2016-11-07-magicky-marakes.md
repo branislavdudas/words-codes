@@ -3,7 +3,7 @@ title: Ako islam formoval magický Marakéš
 author: Branislav Dudáš
 type: post
 date: 2016-11-07T09:38:22+00:00
-url: /magicky-marakes/
+url: /blog/magicky-marakes/
 categories:
   - Nezaradené
 

@@ -3,7 +3,7 @@ title: Beriem to osobne
 author: Branislav Dudáš
 type: post
 date: 2012-04-14T10:58:44+00:00
-url: /beriem-to-osobne/
+url: /blog/beriem-to-osobne/
 categories:
   - Nezaradené
 

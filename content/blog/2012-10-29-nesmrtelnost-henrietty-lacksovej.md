@@ -3,7 +3,7 @@ title: Nesmrteľnosť Henrietty Lacksovej
 author: Branislav Dudáš
 type: post
 date: 2012-10-29T07:20:09+00:00
-url: /nesmrtelnost-henrietty-lacksovej/
+url: /blog/nesmrtelnost-henrietty-lacksovej/
 categories:
   - Nezaradené
 

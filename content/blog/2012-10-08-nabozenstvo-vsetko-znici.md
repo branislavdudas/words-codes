@@ -3,7 +3,7 @@ title: Náboženstvo všetko zničí
 author: Branislav Dudáš
 type: post
 date: 2012-10-08T06:00:32+00:00
-url: /nabozenstvo-vsetko-znici/
+url: /blog/nabozenstvo-vsetko-znici/
 categories:
   - Nezaradené
 

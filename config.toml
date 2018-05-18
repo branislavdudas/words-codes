@@ -1,4 +1,5 @@
 baseURL = "https://words.codes/"
 languageCode = "sk-sk"
+DefaultContentLanguage = "sk"
 title = "Words & Codes"
 theme = "words&codes"

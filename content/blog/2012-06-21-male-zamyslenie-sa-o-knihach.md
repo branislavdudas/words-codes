@@ -3,7 +3,7 @@ title: Malé zamyslenie sa o knihách
 author: Branislav Dudáš
 type: post
 date: 2012-06-21T17:05:05+00:00
-url: /male-zamyslenie-sa-o-knihach/
+url: /blog/male-zamyslenie-sa-o-knihach/
 categories:
   - Nezaradené
 

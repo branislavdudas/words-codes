@@ -3,7 +3,7 @@ title: Jedlo je umenie a treba ho chrániť
 author: Branislav Dudáš
 type: post
 date: 2013-03-04T06:55:06+00:00
-url: /jedlo-je-umenie-a-treba-ho-chranit/
+url: /blog/jedlo-je-umenie-a-treba-ho-chranit/
 categories:
   - Nezaradené
 

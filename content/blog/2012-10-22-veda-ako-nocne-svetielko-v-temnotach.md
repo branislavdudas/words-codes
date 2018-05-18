@@ -3,7 +3,7 @@ title: Veda ako nočné svetielko v temnotách
 author: Branislav Dudáš
 type: post
 date: 2012-10-22T06:16:23+00:00
-url: /veda-ako-nocne-svetielko-v-temnotach/
+url: /blog/veda-ako-nocne-svetielko-v-temnotach/
 categories:
   - Nezaradené
 

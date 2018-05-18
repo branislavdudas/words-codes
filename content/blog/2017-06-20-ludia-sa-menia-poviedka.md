@@ -3,7 +3,7 @@ title: Ľudia sa menia (poviedka)
 author: Branislav Dudáš
 type: post
 date: 2017-06-20T18:43:54+00:00
-url: /ludia-sa-menia-poviedka/
+url: /blog/ludia-sa-menia-poviedka/
 categories:
   - Nezaradené
 

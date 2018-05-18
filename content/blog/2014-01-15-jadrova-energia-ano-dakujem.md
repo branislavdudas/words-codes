@@ -3,7 +3,7 @@ title: Jadrová energia? Áno, ďakujem!
 author: Branislav Dudáš
 type: post
 date: 2014-01-15T21:07:08+00:00
-url: /jadrova-energia-ano-dakujem/
+url: /blog/jadrova-energia-ano-dakujem/
 categories:
   - Nezaradené
 

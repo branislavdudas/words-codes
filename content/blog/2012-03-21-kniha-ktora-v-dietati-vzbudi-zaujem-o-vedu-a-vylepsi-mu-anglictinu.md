@@ -3,7 +3,7 @@ title: Kniha, ktorá v dieťati vzbudí záujem o vedu a vylepší mu angličtin
 author: Branislav Dudáš
 type: post
 date: 2012-03-21T12:52:59+00:00
-url: /kniha-ktora-v-dietati-vzbudi-zaujem-o-vedu-a-vylepsi-mu-anglictinu/
+url: /blog/kniha-ktora-v-dietati-vzbudi-zaujem-o-vedu-a-vylepsi-mu-anglictinu/
 categories:
   - Nezaradené
 

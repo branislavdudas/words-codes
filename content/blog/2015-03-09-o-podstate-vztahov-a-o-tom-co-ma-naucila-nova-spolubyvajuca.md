@@ -3,7 +3,7 @@ title: O podstate vzťahov a o tom, čo ma naučila nová spolubývajúca
 author: Branislav Dudáš
 type: post
 date: 2015-03-09T14:01:59+00:00
-url: /o-podstate-vztahov-a-o-tom-co-ma-naucila-nova-spolubyvajuca/
+url: /blog/o-podstate-vztahov-a-o-tom-co-ma-naucila-nova-spolubyvajuca/
 categories:
   - Nezaradené
 

@@ -3,7 +3,7 @@ title: Dnes sci-fi, zajtra realita
 author: Branislav Dudáš
 type: post
 date: 2012-08-27T06:05:18+00:00
-url: /dnes-sci-fi-zajtra-realita/
+url: /blog/dnes-sci-fi-zajtra-realita/
 categories:
   - Nezaradené
 

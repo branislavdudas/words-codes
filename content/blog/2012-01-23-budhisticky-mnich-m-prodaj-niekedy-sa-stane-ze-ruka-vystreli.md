@@ -3,7 +3,7 @@ title: 'Budhistický mních M. Prodaj: “Niekedy sa stane, že ruka vystrelí�
 author: Branislav Dudáš
 type: post
 date: 2012-01-23T18:16:08+00:00
-url: /budhisticky-mnich-m-prodaj-niekedy-sa-stane-ze-ruka-vystreli/
+url: /blog/budhisticky-mnich-m-prodaj-niekedy-sa-stane-ze-ruka-vystreli/
 categories:
   - Nezaradené
 

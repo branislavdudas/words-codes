@@ -3,7 +3,7 @@ title: Prečo to boli Európania, kto dobyl svet?
 author: Branislav Dudáš
 type: post
 date: 2012-07-06T11:25:09+00:00
-url: /preco-to-boli-europania-kto-dobyl-svet/
+url: /blog/preco-to-boli-europania-kto-dobyl-svet/
 categories:
   - Nezaradené
 
