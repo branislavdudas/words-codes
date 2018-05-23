@@ -28,7 +28,7 @@ Volám sa Braňo Dudáš a&nbsp;s&nbsp;**Words & Codes** pomáham jednotlivcom a
 
 Aké príbehy hovoria oni o mne?
 
->Braňo je šikovký kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumitelné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
+>Braňo je šikovný kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumitelné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
 > <footer>Peter Pokojný – Sales Manager, Pelikan Group</footer>
 
 Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A ja napíšem vám — čo budete chcieť.
