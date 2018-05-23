@@ -26,6 +26,11 @@ Volám sa Braňo Dudáš a&nbsp;s&nbsp;**Words & Codes** pomáham jednotlivcom a
 či
 [**Zľava&nbsp;dňa**](https://www.zlavadna.sk).
 
+Aké príbehy hovoria oni o mne?
+
+>Braňo je šikovký kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumitelné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
+> <footer>Peter Pokojný – Sales Manager, Pelikan Group</footer>
+
 Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A ja napíšem vám — čo budete chcieť.
 
 Na Words & Codes nájdete aj **„nekomerčné texty.“** Píšem o príbehoch, ktoré si hovoríme, o mýtoch, v ktorých žijeme a o tom, ako slová ovplyvňujú naše myšlienky a naopak. Zoznam článkov nájdete v [**archíve**](/blog) a budúce články môžete dostať poštou.
