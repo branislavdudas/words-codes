@@ -37,4 +37,4 @@ Aké príbehy hovoria klienti o mne?
 
 Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A ja napíšem vám — čo budete chcieť.
 
-Na Words & Codes nájdete aj **„nekomerčné texty.“** Píšem o príbehoch, ktoré si hovoríme, o mýtoch, v ktorých žijeme a o tom, ako slová ovplyvňujú naše myšlienky a naopak. Zoznam článkov nájdete v [**archíve**](/blog) a budúce články môžete dostať poštou.
+Na Words & Codes nájdete aj **„nekomerčné texty.“** Píšem o príbehoch, ktoré si hovoríme, o mýtoch, v ktorých žijeme a o tom, ako slová ovplyvňujú naše myšlienky a naopak. Zoznam článkov nájdete v [**archíve**](/blog/index.html) a budúce články môžete dostať poštou.
