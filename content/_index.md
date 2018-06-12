@@ -1,5 +1,5 @@
 ---
-title: Words & Codes – Kreatívny copywriting a inteligentný content pre vašu značku
+title: Words & Codes – Kreatívny content a copywriting pre vašu značku
 author: Branislav Dudáš
 type: index
 date: 2012-01-05T18:19:52+00:00
