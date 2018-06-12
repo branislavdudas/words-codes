@@ -8,9 +8,9 @@ categories:
   - Nezaradené
 
 ---
-Existuje vo vesmíre iný život ako na Zemi? Alebo sme v tomto šialene veľkom priestore sami? Tieto otázky si často kladú vedci aj autori sci-fi. Odpoveď zatiaľ nepoznáme. Aké sú naše šance ho objaviť?<!--more-->
+Existuje vo vesmíre iný život ako na Zemi? Alebo sme v tomto šialene veľkom priestore sami? Tieto otázky si často kladú vedci aj autori sci-fi. Odpoveď zatiaľ nepoznáme. Aké sú naše šance ho objaviť?
 
-Prvé filmy o mimozemšťanoch, ktoré sa vyslovene zabývali v mojej hlave boli Kontakt s Jodie Foster a Hviezdna brána. Odvtedy ma predstava mimozemšťanov fascinovala. Myšlienka, že by sme mali byť jediní inteligentní obyvatelia vesmíru mi príde smutná, nie len kvôli tomu, že ak sme na vrchole [evolúcie][1] života, tak svoju úlohu neplníme zodpovedne.
+Prvé filmy o mimozemšťanoch, ktoré sa vyslovene zabývali v mojej hlave boli Kontakt s Jodie Foster a Hviezdna brána. Odvtedy ma predstava mimozemšťanov fascinovala. Myšlienka, že by sme mali byť jediní inteligentní obyvatelia vesmíru mi príde smutná, nie len kvôli tomu, že ak sme na vrchole evolúcie života, tak svoju úlohu neplníme zodpovedne.
 
 **Pravdepodobnosť existencie mimozemského života vyjadril v rovnici Frank Drake**. Zahrnul do nej počet novo-vznikajúcich hviezd, to aký podieľ z nich má vlastné planéty, z nich vybral tie, na ktorých môže vzniknúť život. Z nich vybral tie, na ktorých život naozaj vznikne, vyvinie si inteligenciu, vytvorí civilizácie a začne vysielať informácie do vesmíru. Pravdepodobnosť tých záverečných podmienok si môžete zvoliť sami. **Ak sú však v galaxii miliardy hviezd a vo vesmíre sa nachádzajú miliardy galaxií…** niekdy musí existovať niekto, kto sa pýta rovnaké otázky ako my.
 
@@ -29,5 +29,3 @@ Niekto však musí byť na našej úrovni, klásť si rovnaké otázky. Preto so
 Existuje šanca, že by aj oni počuli nami vysielané signály, ale vysielame len o kúsok dlhšie ako 70 rokov. Signál sa zatiaľ teda dostal len do vzdialenosti 70 svetelných rokov, čo je len kúsok za humnami. A osobne dúfam, že ho ani nikto nepočúva. **Čo by si o nás pomysleli, veď vysielame do vesmíru porno, správy, Farmu, Hotel Paradise a pod…**
 
 A ak si napriek všetkým argumentom hovoríte, že už sme teleskopmi preskúmali dosť veľkú časť oblohy a že už počúvame dosť dlho, je to pre mňa **ako prísť k moru, nabrať pohár vody a na základe tejto vzorky tvrdiť, že veľryby neexistujú**.
-
- [1]: http://www.blog.branislavdudas.com/2012/03/najvacsia-show-pod-slnkom/ "Najväčšia show pod Slnkom"

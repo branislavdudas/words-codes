@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Už sú to roky, odkedy som napísal článok zameraný na stravovanie. Boli to časy, keď som sa (konečne) začal zaujímať o to, čo mám na tanieri, v ústach a nakoniec pod kožou.<!--more--> Kým prišli, zjedol by som každú hlúposť za predpokladu, že by to bol vyprážaný syr alebo pizza. Odvtedy sa veľa vecí mnohonásobne zmenilo. Tento článok je pokus o syntézu mojich aktuálnych myšlienok a pochodov o stravovaní a zdraví, keďže ľudia predpokladajú, že tak, ako sa nezmenilo znenie textov, ktoré som napísal pred rokmi, tak sa nezmenili ani moje názory. A to je omyl. Paleo odišlo, vyvinulo sa v niečo nové.
+Už sú to roky, odkedy som napísal článok zameraný na stravovanie. Boli to časy, keď som sa (konečne) začal zaujímať o to, čo mám na tanieri, v ústach a nakoniec pod kožou. Kým prišli, zjedol by som každú hlúposť za predpokladu, že by to bol vyprážaný syr alebo pizza. Odvtedy sa veľa vecí mnohonásobne zmenilo. Tento článok je pokus o syntézu mojich aktuálnych myšlienok a pochodov o stravovaní a zdraví, keďže ľudia predpokladajú, že tak, ako sa nezmenilo znenie textov, ktoré som napísal pred rokmi, tak sa nezmenili ani moje názory. A to je omyl. Paleo odišlo, vyvinulo sa v niečo nové.
 
 Pri písaní tohto textu vychádzam z určitých postojov, základných myšlienok, axióm a ich implikácií.<sup id="fnref-234-1"><a href="#fn-234-1">1</a></sup> Ak s nimi nebudete súhlasiť, pravdepodobne pre vás nemá zmysel pokračovať v čítaní. Alebo, minimálne vnímaná hodnota tohto textu bude nižšia, ako keby sme sa zhodli vo všetkom. Takže tu je to:
 
@@ -145,7 +145,7 @@ Viem, rozpísal som sa. Takže to skúsim v skratke zrekapitulovať: zdravie je 
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/10837292">http://www.ncbi.nlm.nih.gov/pubmed/10837292</a>&#160;<a href="#fnref-234-11">&#8617;</a>
 </li>
 <li id="fn-234-12">
-  <a href="http://www.translationalres.com/article/S1931-5244(14)00200-X/abstract">http://www.translationalres.com/article/S1931-5244(14)00200-X/abstract</a>&#160;<a href="#fnref-234-12">&#8617;</a>
+  <a href="https://www.translationalres.com/article/S1931-5244(14)00200-X/abstract">http://www.translationalres.com/article/S1931-5244(14)00200-X/abstract</a>&#160;<a href="#fnref-234-12">&#8617;</a>
 </li>
 <li id="fn-234-13">
   <a href="http://www.sciencedirect.com/science/article/pii/S095528630400261X">http://www.sciencedirect.com/science/article/pii/S095528630400261X</a>&#160;<a href="#fnref-234-13">&#8617;</a>

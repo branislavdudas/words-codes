@@ -9,8 +9,6 @@ categories:
 
 ---
 Knihy zamerané na produktivitu, motiváciu a osobnostný rozvoj sú každým dňom populárnejšie. Kto by nechcel zvládať svoje povinnosti rýchlejšie, zbavovať sa zlozvykov a nahrádzať ich niečím užitočným, produktívnym a zdravým? Ak je možné aktualizovať svoj mozog na novšiu, lepšiu verziu investovaním pätnástich eur a pár hodinami čítania, nie je o čom diskutovať. Žiaľ, po pár dňoch začne nový náter opadávať a človek je tam, kde bol, chudobnejší o pár hodín a eur, bohatší o výčitky, že nebol schopný dodržať to, čo si zaumienil. Krajších zajtrajškov sa však nikto nevzdá bez boja. Ďalšie kroky tak zvyčajne vedú späť do kníhkupectva, k superinflačnej polici s motivačnou a self-help literatúrou, k novinke, v ktorej je s najväčšou pravdepodobnosťou napísaná presne tá istá obohratá myšlienka. Síce inými slovami, ale rovnako roztiahnutá na tristopäťdesiat strán rovnako znejúceho textu krúžiaceho okolo kľúčovej metafory, ktorá by sa zmestila na pohľadnicu.
-  
-<!--more-->
 
 Pravda, brilantné riešenia sú vždy jednoduché a krásne, ale nie všetky jednoduché a krásne myšlienky sú zábleskami génia. Jednoduché, krásne a brilantné riešenie už existuje, nie je však ľahké. Keďže sa nám nechce šliapať do kopca, hľadáme skratky tam, kam skratky nevedú. Jediná cesta je poznať samého seba.
 

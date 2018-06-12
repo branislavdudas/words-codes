@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-1. Gorily sú najväčšie žijúce primáty – rad živočíchov, ktorý v sebe zahŕňa opice, opy a ľudí. Dospelý samec gorily dosahuje výšku dva metre a hmotnosť 140 až 250 kilogramov. Rozsah jeho ramien môže byť až dva a pol metra. Jeden samec sa silou vyrovná ôsmim dospelým mužom. Dospelé samice dosahujú zhruba polovičné veľkosti.<!--more-->
+1. Gorily sú najväčšie žijúce primáty – rad živočíchov, ktorý v sebe zahŕňa opice, opy a ľudí. Dospelý samec gorily dosahuje výšku dva metre a hmotnosť 140 až 250 kilogramov. Rozsah jeho ramien môže byť až dva a pol metra. Jeden samec sa silou vyrovná ôsmim dospelým mužom. Dospelé samice dosahujú zhruba polovičné veľkosti.
 
 2. Podobne ako ľudia, gorily majú dve nohy, dve ruky, na každej päť prstov, malé uši na bočných stranách hlavy, oči smerujúce dopredu a 32 zubov. Na rozdiel od našich, ich predné končatiny sú dlhšie a omnoho svalnatejšie ako ich nohy a ich palce na nohách sú ako naše na rukách. Ich telá sú pokryté hustou tmavou srsťou všade okrem tváre, hrude, predlaktí, dlaní rúk a spodku nôh. Dospelý samec gorily “zošedivie” vo veku 15 rokov, teda v čase keď prestane rásť. Srsť na jeho chrbte sa zmení na strieborno-šedú.
 

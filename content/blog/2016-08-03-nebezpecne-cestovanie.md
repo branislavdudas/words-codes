@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Už dlhšie vnímam v mojom okolí tento fenomén: verejné priznanie plánovanej cesty, do ľubovoľnej destinácie, vždy spustí v poslucháčoch odpoveď: Do X? A nebojíš sa, že Y?<!--more-->
+Už dlhšie vnímam v mojom okolí tento fenomén: verejné priznanie plánovanej cesty, do ľubovoľnej destinácie, vždy spustí v poslucháčoch odpoveď: Do X? A nebojíš sa, že Y?
 
 Ako v matematických funkciách, aj tu pre každé X existuje aspoň jedno Y: Turecko a krajiny Maghrebu automaticky evokujú prevraty, utečencov a teroristov, kým zvyšok Afriky vyrovnáva a zvyšuje o maláriu, AIDS a detských vojakov. Akékoľvek miesto v Európe evokuje teroristov, len Stredomorie evokuje teroristov A utečencov. A Grékmi vyrabované bankomaty, samozrejme. Južná Amerika ponúka Ziku a zlodejov, ktorí podhadzujú vlastné nemluvňatá, aby ich nemohli ich obete prenasledovať. A tak ďalej… Teroristov, šialených ozbrojencov, super-vulkán, komunistov, tsunami a jedovatú háveď si zvládnete poukladať do slepej mapy aj sami. Plus v Košiciach si vás možno niekto na kupku cvakne do mobilu…
 

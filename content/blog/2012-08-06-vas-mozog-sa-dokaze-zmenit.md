@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Dám vám hádanku: Vyzerá to ako vlašský orech, konzistenciou je to ako huba a je to najvýkonnejší počítač na svete. Čo je to? Ak ste povedali mozog, máte pravdu. Ľudský mozog je jeden z najúžasnejších vynálezov prírody a predsa o ňom vieme tak žalostne málo.<!--more-->
+Dám vám hádanku: Vyzerá to ako vlašský orech, konzistenciou je to ako huba a je to najvýkonnejší počítač na svete. Čo je to? Ak ste povedali mozog, máte pravdu. Ľudský mozog je jeden z najúžasnejších vynálezov prírody a predsa o ňom vieme tak žalostne málo.
 
 Boli doby, keď sme si mysleli, že mozog je len nástroj, ktorým duša odovzdáva rozkazy telu. V časoch nie až tak minulých, sme si uvedomili, že tá šedivá špongia riadi celé telo. Postupným skúmaním sme si utvorili obraz toho, čo robí každá z jeho častí. Kúsok je zodpovedný za zrak, kúsok za pohyb, kúsok za pamäť… ako súčiastky v aute, nie? Dnes sa však postupne dozvedáme, že mozog flexibilnejší, ako sme sa domnievali.
 

@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Orwell je klasika. Desivá, strašidelná klasika. Ale ľudia sú tvory nebojácne. Šelmu uhnali, zabili a teraz sa ňou pred telkou kŕmia, zapíjajú ju colou zajedajú ju hranolkami. Dokonca sme zosmiešnili jej meno a použili ho pre show, ktorá nemá nič spoločné s realitou.<!--more-->
+Orwell je klasika. Desivá, strašidelná klasika. Ale ľudia sú tvory nebojácne. Šelmu uhnali, zabili a teraz sa ňou pred telkou kŕmia, zapíjajú ju colou zajedajú ju hranolkami. Dokonca sme zosmiešnili jej meno a použili ho pre show, ktorá nemá nič spoločné s realitou.
 
 Ako som povedal, 1984 od Orwella je klasika. Napriek tomu, že dnes už málo ľudí skutočne číta, pojem Veľký brat pozná asi každý. Pri pohľade na svet, v ktorom žijeme, mi dochádza, že pravdu mal &#8222;ten druhý&#8220;. Volal sa Huxley. Aldous Huxley. Jeho Koniec civilizácie (v originále Brave New World) zobrazuje stav spoločnosti omnoho presnejšie ako Orwell.
 

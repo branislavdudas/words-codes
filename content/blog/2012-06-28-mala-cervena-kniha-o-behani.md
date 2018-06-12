@@ -8,9 +8,9 @@ categories:
   - Nezaradené
 
 ---
-Keď sa mi ako začínajúcemu bežcovi dostala do rúk Douglasova Malá červená kniha o behaní, nemal som inú možnosť, ako po nej siahnuť, hneď ako to bolo možné. A dobre som urobil.<!--more-->
+Keď sa mi ako začínajúcemu bežcovi dostala do rúk Douglasova Malá červená kniha o behaní, nemal som inú možnosť, ako po nej siahnuť, hneď ako to bolo možné. A dobre som urobil.
 
-Ako už názov prezrádza, kniha je malá červená a celý jej obsah sa točí okolo behu. Na rozdiel od už recenzovanej knihy <a title="Ako ubehať k smrti antilopu" href="http://www.blog.branislavdudas.com/2012/01/ako-ubehat-k-smrti-antilopu/" target="_blank">Born to Run / Stvorení pre beh</a>, ktorá mi vysvetlila prečo behať, Douglasova kniha ukazuje ako behať. Našiel som si v nej jednoduché a zrozumiteľné odpovede na otázky, ktoré trápia každého začiatočníka, ale aj vedomosti, ktoré by si mali oprášiť aj skúsení bežci.
+Ako už názov prezrádza, kniha je malá červená a celý jej obsah sa točí okolo behu. Na rozdiel od už recenzovanej knihy <a title="Ako ubehať k smrti antilopu" href="/blog/ako-ubehat-k-smrti-antilopu/">Born to Run / Stvorení pre beh</a>, ktorá mi vysvetlila prečo behať, Douglasova kniha ukazuje ako behať. Našiel som si v nej jednoduché a zrozumiteľné odpovede na otázky, ktoré trápia každého začiatočníka, ale aj vedomosti, ktoré by si mali oprášiť aj skúsení bežci.
 
 > Predstavte si sami seba večer v posteli, ako rozmýšlate nad tým, aký ste mali deň. Tešilo by vás, že ste boli behať? Áno, takmer určite.
 
