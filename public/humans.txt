@@ -1,0 +1,29 @@
+                            
+/* TEAM */
+
+                            
+Your title: Branislav Dudáš
+
+                            
+Site: branislav.dudas@gmail.com
+
+                            
+Twitter: @branislavdudas
+
+                            
+Location: Bratislava, Slovakia.
+                            
+
+/* SITE */
+
+                            
+Last update: 2018/05/18 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Normalize
+
+                            
+Software: Hugo, VSCode
