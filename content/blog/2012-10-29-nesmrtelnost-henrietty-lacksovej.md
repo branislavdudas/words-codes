@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Smrť. Niekto sa jej bojí viac, niekto menej. Predstavuje hranicu nepoznaného, ktorú by mnohí najradšej nikdy neprekročili. Vytvorili sme ceremónie a mytológie, aby sme sa s ňou zmierili. A predsa dúfame, že práve nám sa podarí stať sa prvým reálnym členom klubu nesmrteľných, zasadnúť po boku Utnapištima, Saint Germaina, Doriana Greya a ich kolegov. Jednej žene sa to už podarilo. Jej meno je Henrietta Lacks.<!--more-->
+Smrť. Niekto sa jej bojí viac, niekto menej. Predstavuje hranicu nepoznaného, ktorú by mnohí najradšej nikdy neprekročili. Vytvorili sme ceremónie a mytológie, aby sme sa s ňou zmierili. A predsa dúfame, že práve nám sa podarí stať sa prvým reálnym členom klubu nesmrteľných, zasadnúť po boku Utnapištima, Saint Germaina, Doriana Greya a ich kolegov. Jednej žene sa to už podarilo. Jej meno je Henrietta Lacks.
 
 Henrietta, nevzdelaná čierna žena pochádzajúca z rodu otrokov pracujúcich na tabakových plantážach, v roku 1951 vo veku tridsať jedna rokov umrela na rakovinu krčka maternice. (Pravdepodobne ste zaregistrovali istý rozpor v mojich tvrdeniach. Čítajte ďalej.) Jej choroba mala ťažký a rýchly priebeh. Zo začiatku sa bála ísť k lekárovi. Bála sa, že ostane neplodná. Bolesti ju však donútili. Dostala najsilnejšiu dávku ožarovania rádiom, ale nepomohlo to. Len pár týždňov po návšteve lekára rakovine podľahla.
 
@@ -33,5 +33,3 @@ Jej synovia, predstavujúci skôr skazenú vetvu jej potomstva, chceli len penia
 Ak sa chcete dozvedieť viac o jej pátraní a životnom boji, ale aj o živote Henrietty a výskume buniek, prečítajte si skvelú knihu The Immortal Life of Henrietta Lacks od Rebeccy Skloot. Bola zaradená medzi 100 najlepších kníh roka podľa New York Times a v ich rebríčku top 10 bestsellerov sa držala viac ako 75 týždňov. Do slovenčiny a češtiny zatiaľ preložená nebola, ale dúfam, že čoskoro bude. Vy si ju však môžete prečítať v angličtine. Uctíte si tak ženu, ktorá pravdepodobne aj vám pomohla prežiť.
 
 > „Si slávna mami,“ zašepkala. „Len o tom nikto nevie.“
-
-The Immortal Life of Henrietta Lacks dostanete za fajn cenu bez platenia za poštovné <a title="HeLa" href="http://www.bookdepository.com/Immortal-Life-Henrietta-Lacks-Rebecca-Skloot/9781400052172" target="_blank">v tomto kníhkupectve.</a>

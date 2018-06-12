@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Je náboženstvo potrebné? Pochádza ľudská morálka od boha? Existuje vôbec boh? Nie. Teda aspoň podľa knihy Boží blud (The God Delusion) od Richarda Dawkinsa, evolučného biológa z Oxfordu a Berkeley.<!--more-->
+Je náboženstvo potrebné? Pochádza ľudská morálka od boha? Existuje vôbec boh? Nie. Teda aspoň podľa knihy Boží blud (The God Delusion) od Richarda Dawkinsa, evolučného biológa z Oxfordu a Berkeley.
 
 Dawkins k božej existencii pristupuje ako ku každej vedeckej teórii, ktorú je potrebné dokázať predtým, než ju môžme prijať. Na paškál si vzal tri abrahámovské náboženstvá &#8211; judaizmus, kresťanstvo a islam. Postupne analyzuje a vyvracia “dôkazy” božej existencie vrátane Dôkazov Tomáša Akvinského, Svätého písma, Pascalovu stávku. Vymenováva nezmysly a protichodné tvrdenia svätých kníh, ktoré by aj boli na smiech, ale sú skôr k plaču.
 

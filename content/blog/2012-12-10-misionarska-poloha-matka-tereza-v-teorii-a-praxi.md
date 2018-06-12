@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Matka Tereza je pre mnohých osoba, ktorú si predstavia pri slove svätica, misionár a charita. Bohužiaľ podobne ako pri iných slávnych hodnotíme jej skutky a slová podľa jej reputácie a nie naopak. Aká bola naozaj? Zaslúži si svoj kult?<!--more-->
+Matka Tereza je pre mnohých osoba, ktorú si predstavia pri slove svätica, misionár a charita. Bohužiaľ podobne ako pri iných slávnych hodnotíme jej skutky a slová podľa jej reputácie a nie naopak. Aká bola naozaj? Zaslúži si svoj kult?
 
 Niektorí si myslia, že áno. Predchádzajúci pápež Ján Pavol II. ju zaradil na svoj takmer nekonečný zoznam a vyhlásil ju za blahoslavenú. To by však neznamenalo veľa. Za blahoslavených chcel vyhlásiť toľkých ľudí, že až šliapal na päty čínskym generálom, ktorí krstili armády požiarnymi hadicami. Koniec-koncov hájila predsa podnikové farby.
 

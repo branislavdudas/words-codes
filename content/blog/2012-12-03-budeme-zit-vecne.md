@@ -36,4 +36,4 @@ Každá myšlienka má aj svojich odporcov. Či už ide o vedecké rozkoly, obav
 
 Čo vy? Ktorú z týchto možností by ste si vybrali? Žiť večne, žiť do veku štyristo rokov, alebo ostanete pri súčasných conditio humana? Ja by som váhal.
 
-Neváhal by som však nad knihou rozhovorov o budúcnosti človeka a technológií s vedcami, filozofmi a umelcami Budeme žít věčně?, z ktorej pochádzajú myšlienky a citáty v tejto recenzii. Jej autormi sú Tobias Hülswitt a Roman Brinzanik a je súčasťou krásnej edície non-fiction kníh od vydavateľstva Kniha Zlín. Kúpiť si ju môžete aj <a title="Budeme žít věčne?" href="http://www.abcknihy.sk/Kniha/budeme-zit-vecne-tobias-hulswitt-2128466.aspx?src=sb" target="_blank">v tomto kníhkupectve</a>.
+Neváhal by som však nad knihou rozhovorov o budúcnosti človeka a technológií s vedcami, filozofmi a umelcami Budeme žít věčně?, z ktorej pochádzajú myšlienky a citáty v tejto recenzii. Jej autormi sú Tobias Hülswitt a Roman Brinzanik a je súčasťou krásnej edície non-fiction kníh od vydavateľstva Kniha Zlín.

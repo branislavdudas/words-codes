@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-V nedelu ráno som si pri raňajkách zapol televízor. Ako zvukovú kulisu. Po pár sekundách sa však vianočka s medom zmenila na chuťovú kulisu a moju pozornosť dostal on. MacGyver.<!--more-->
+V nedelu ráno som si pri raňajkách zapol televízor. Ako zvukovú kulisu. Po pár sekundách sa však vianočka s medom zmenila na chuťovú kulisu a moju pozornosť dostal on. MacGyver.
 
 Pre osvieženie pamäte: MacGyver bol tajný agent z rovnomenného seriálu, ktorý riešil problémy svojou inteligenciou, vedeckými vedomosťami a predmetmi každodenného použitia.
 

@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Zvláštny pocit, držať v ruke pero. Kĺzať ním po papieri, podobne ako prstom po dotykovom telefóne, ale inak. Spôsobom akým sa v zime korčuľujú slušné slečny. Určovať jeho trasu a zároveň sledovať jeho stopu s obavami o výsledný obraz. Už je to dávno…<!--more-->
+Zvláštny pocit, držať v ruke pero. Kĺzať ním po papieri, podobne ako prstom po dotykovom telefóne, ale inak. Spôsobom akým sa v zime korčuľujú slušné slečny. Určovať jeho trasu a zároveň sledovať jeho stopu s obavami o výsledný obraz. Už je to dávno…
 
 Zatvorte oči a skúste si spomenúť na písmo vášho najlepšieho priateľa. Alebo manžela. Nie to, že v mailoch končí každú vetu troma bodkami a za každou druhou dá smajlíka. Myslím skutočné písmo, rukou &#8211; tou končatinou s piatimi stylusmi na konci. Preškrtáva téčka? Robí nad i bodku alebo krúžok? Videli ste vôbec jeho písmo?
 

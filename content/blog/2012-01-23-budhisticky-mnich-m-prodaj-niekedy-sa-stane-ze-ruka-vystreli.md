@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-**Budhizmus začal praktikovať už ako teenager. Po ukončení štúdia odišiel na Srí Lanku, vstúpil do kláštora a pol roka sa venoval meditácii. Dnes tvrdí, že kvôli svetským záležitostiam mu na ňu už neostáva veľa času. Na otázky o budhizme, živote v kláštore aj vyrovnanom životnom štýle odpovedá lektor a kouč PaedDr. Martin Prodaj.<!--more-->**
+**Budhizmus začal praktikovať už ako teenager. Po ukončení štúdia odišiel na Srí Lanku, vstúpil do kláštora a pol roka sa venoval meditácii. Dnes tvrdí, že kvôli svetským záležitostiam mu na ňu už neostáva veľa času. Na otázky o budhizme, živote v kláštore aj vyrovnanom životnom štýle odpovedá lektor a kouč PaedDr. Martin Prodaj.**
 
 ******Ako vznikol nápad odísť na Srí Lanku?**
 

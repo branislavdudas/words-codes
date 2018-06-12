@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Mám čitateľa, ktorý keď sa rozhodne ísť do nákupného centra, si cieľavedomo vyberie obchod, do ktorého chce ísť, kúpi si produkt, na ktorý má racionálny dôvod za cenu, ktorá mu pripadá rozumná. Normálny dospelý človek, však? To je však omyl. Celý život trpí tým, že robí iracionálne rozhodnutia, odhaduje pravdepodobnosti na základe toho, čo chce a nie podľa štatistiky a necháva sa podprahovo ovplyvňovať všetkým, okolo čoho prejde. To však nie je to najhoršie: problém je, že si potom nájde kvázi-racionálne vysvetlenie pre svoje činy a to mu stačí. Bohužiaľ, pre účely tejto recenzie musím odhaliť jeho identitu, aj keď sa mu to nebude páčiť. Si to ty!<!--more-->
+Mám čitateľa, ktorý keď sa rozhodne ísť do nákupného centra, si cieľavedomo vyberie obchod, do ktorého chce ísť, kúpi si produkt, na ktorý má racionálny dôvod za cenu, ktorá mu pripadá rozumná. Normálny dospelý človek, však? To je však omyl. Celý život trpí tým, že robí iracionálne rozhodnutia, odhaduje pravdepodobnosti na základe toho, čo chce a nie podľa štatistiky a necháva sa podprahovo ovplyvňovať všetkým, okolo čoho prejde. To však nie je to najhoršie: problém je, že si potom nájde kvázi-racionálne vysvetlenie pre svoje činy a to mu stačí. Bohužiaľ, pre účely tejto recenzie musím odhaliť jeho identitu, aj keď sa mu to nebude páčiť. Si to ty!
 
 Tak a je to vonku. Nie je sa za čo hanbiť, naozaj. Pravdou je, že sme takí všetci. Tvrdia to psychológovia a behaviorálni ekonómovia (to sú takí, ktorí si nemyslia, že ľudia sú super-ultra-racionálni a majú vždy všetky potrebné informácie). Do prieniku týchto dvoch kategórií patrí aj Daniel Kahneman, držiteľ Nobelovej ceny za ekonómiu.
 

@@ -20,9 +20,7 @@ Ak poznáte ten pocit, keď si po prečítaní knihy poviete „Som zvedavý, č
 
 > Jak bys mohl vědět, co volit, když jsi nezvolil, nezvolil znovu opak a postrádáš obě skušenosti ke srovnání?
 
-[<img class="aligncenter size-full wp-image-265" alt="vtaky" src="https://i0.wp.com/www.brainspark.sk/wp-content/uploads/2013/02/vtaky1.png?resize=600%2C316" data-recalc-dims="1" />][1]
-
-Filip Doušek sa vo svojej prvotine záberom a kombináciou informácií zo všetkých možných smerov priblížil Foucaltovmu kyvadlu Umberta Eca a pútavosťou príbehu a sympatickými postavami ho (pre mňa) prekonal. Kniha je naplnená úvahami o filozofii, myslení a matematike uberajúcej sa podobným smerom ako <a title="Gödel, Escher, Bach" href="http://www.brainspark.sk/godel-escher-bach/" target="_blank">Hofstadterov Gödel, Escher, Bach</a>, len je okorenená štipkou spirituálna. Príbehu to však vôbec neubližuje, všetko do seba krásne zapadá. Pri čítaní navštívime Cambridge, ale aj kúsok Írska, Prahu, Japonsko a Indiu. Štýl písania je veľmi čitateľný a vstrebávať Filipovu prácu s jazykom a logikou je čitateľské potešenie.
+Filip Doušek sa vo svojej prvotine záberom a kombináciou informácií zo všetkých možných smerov priblížil Foucaltovmu kyvadlu Umberta Eca a pútavosťou príbehu a sympatickými postavami ho (pre mňa) prekonal. Kniha je naplnená úvahami o filozofii, myslení a matematike uberajúcej sa podobným smerom ako <a title="Gödel, Escher, Bach" href="/blog/godel-escher-bach/" target="_blank">Hofstadterov Gödel, Escher, Bach</a>, len je okorenená štipkou spirituálna. Príbehu to však vôbec neubližuje, všetko do seba krásne zapadá. Pri čítaní navštívime Cambridge, ale aj kúsok Írska, Prahu, Japonsko a Indiu. Štýl písania je veľmi čitateľný a vstrebávať Filipovu prácu s jazykom a logikou je čitateľské potešenie.
 
 > Výborně. Kdybys ke mně chodil na přednášky, slyšel bys, že po vyslechnutí dobrého příběhu, takového, který dlouho přežije, musí člověk vědět méně. Musí být bohatší o nejistotu a vidět dilemata tam, kde původně viděl jedinou odpověď. Musí své odpovědi vуměnit za otázky.
 
@@ -35,5 +33,3 @@ Kniha (ako predmet) je prevedením taká krásna, že som mal nutkanie si ísť 
 Pre mňa je Hejno bez ptáků jedna z najlepších beletrií, aké som kedy čítal (deň pred ňou som čítal Zločin a trest, to len tak na porovnanie). Myšlienkovým aj hmotným spracovaním je na vysokej úrovni. Po jej prečítaní máte chuť ju požičať všetkým kamarátom a rodine. Alebo, ak ste bibliofil, alebo bibliopat, ako ja, tak ju založíte na čestné miesto do knižnice, budete sa raz za čas vracať k niektorým myšlienkam a spomienkam na príjemne strávený čas. Koniec koncov, dobré knihy sa požičiavajú, výborné nie.
 
 Knihu Hejno bez ptáků od Filipa Douška si môžete kúpiť napríklad <a title="Hejno bez ptáků" href="http://www.martinus.sk/?uItem=136266&z=branod" target="_blank">v tomto kníhkupectve</a>. Podporíte tým mladého autora (a trochu aj ešte mladšieho autora tejto recenzie :)
-
- [1]: https://i0.wp.com/www.brainspark.sk/wp-content/uploads/2013/02/vtaky1.png

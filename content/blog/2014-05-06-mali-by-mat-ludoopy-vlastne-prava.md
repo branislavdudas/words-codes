@@ -9,8 +9,6 @@ categories:
 
 ---
 Je iróniou, že s právami pre ľudoopy prišli práve v Španielsku, krajine sadistických býčích zápasov. A predsa. Iróniou je aj to, že píšem tento článok pre obyvateľov krajiny, ktorá neposkytuje niektorým menšinám rovnaké práva ako väčšine. A predsa.
-  
-<!--more-->
 
 Odporcovia iste namietnu, že šimpanzy a spol. nie sú nositeľmi inteligencie, tej zázračnej vlastnosti, ktorá človeka odlišuje od zvierat. Nech sa však snažíme akokoľvek, akýkoľvek atribút priradený tejto črte, o ktorej paradoxne sami denne konverzačne prehlasujeme, že mnohým ľuďom chýba, by sa vždy našiel aj u niektorých iných živočíšnych druhov. Ak inteligenciu šovinisticky, v tomto prípade skôr druhisticky, definujeme ako to, čo je človeku vlastné, nečudo, že sme v tom elitnom klube sami. Používanie nástrojov, učenie sa, uvedomenie si následkov, ale aj pozitívne a negatívne emócie, to všetko dokážu aj iné zvieratá ako to ľudské. Čitateľ už iste vie, že sám patrí medzi zvieratá, keďže dnes už patrí k dobrým mravom, a tiež k prejavom základných vedomostí z biológie, nepovažovať seba ako človeka ako druh za niečo viac ako zvyšok prírody. Prečo by mal človek darovať niekomu (niečomu) nejaké práva a vzdať sa tým kúsku svojej moci? Pravda, prečo? Prečo by bieli mali dať práva čiernym? Prečo by mali muži dovoliť ženám vystúpiť do rovnakých výšin? Prečo by mali tí, čo sa kúpali v krvi baránka dva krát dovoliť spolunažívanie s tými, ktorým to stačilo raz, alebo vôbec? Revolúcia nikdy neprichádza zospodu a určite nie je darom. Je to snaha vrátiť niečo, čo bolo ukradnuté. Dovolím si tvrdiť, že je to niečo, na čom by mal &#8222;inteligentný človek&#8220; trvať.
   

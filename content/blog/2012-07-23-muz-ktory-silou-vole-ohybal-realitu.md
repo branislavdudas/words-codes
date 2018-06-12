@@ -8,9 +8,9 @@ categories:
   - Nezaradené
 
 ---
-Steve Jobs. Mnohí ho milovali, mnohí ho nenávideli a priznajme si, sú aj takí, ktorí o ňom nikdy doteraz nepočuli. Svojimi silnými stránkami privádzal svet do vytrženia a slabými svoje okolie do šialenstva. Aký bol naozaj sa dozvieme už len sprostredkovane.<!--more-->
+Steve Jobs. Mnohí ho milovali, mnohí ho nenávideli a priznajme si, sú aj takí, ktorí o ňom nikdy doteraz nepočuli. Svojimi silnými stránkami privádzal svet do vytrženia a slabými svoje okolie do šialenstva. Aký bol naozaj sa dozvieme už len sprostredkovane.
 
-Pár dní po tom, ako sa Jobs dozvedel, že má rakovinu oslovil žurnalistu Waltera Isaacsona, či by mal záujem napísať jeho životopis. Nečudujem sa, že to bol práve on, koho si vybral. Isaacson má talent preniesť vízie géniov do slov. Dokázal mi to už v <a title="Einstein: Sionista, komunista, ateista?" href="http://www.blog.branislavdudas.com/2012/05/einstein-sionista-komunista-ateista/" target="_blank">životopise Alberta Einsteina</a>. Na rozdiel od iných biografických diel však Isaacson písal Jobsov životopis ešte za jeho života.
+Pár dní po tom, ako sa Jobs dozvedel, že má rakovinu oslovil žurnalistu Waltera Isaacsona, či by mal záujem napísať jeho životopis. Nečudujem sa, že to bol práve on, koho si vybral. Isaacson má talent preniesť vízie géniov do slov. Dokázal mi to už v <a title="Einstein: Sionista, komunista, ateista?" href="/blog/einstein-sionista-komunista-ateista/">životopise Alberta Einsteina</a>. Na rozdiel od iných biografických diel však Isaacson písal Jobsov životopis ešte za jeho života.
 
 Prvá polovica knihy je chronologická, prevedie nás detstvom a dospievaním, priateľmi i nepriateľmi, láskami aj milenkami, cestovaním tela i duše s drogami i bez nich, založením, vyhodením z a návratom do Applu, ale aj Pixarom a NeXTom. V druhej časti autor prechádza súkromnou históriou každého produktu znovuzrodenej firmy Apple. Dozvedáme sa o vzniku iPodu, iPhonu aj iPadu, navrhovaní ich dizajnu aj uvádzaní na trh.
 

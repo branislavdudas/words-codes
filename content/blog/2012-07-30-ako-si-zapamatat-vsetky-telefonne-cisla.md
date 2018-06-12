@@ -10,8 +10,6 @@ categories:
 ---
 Koľko telefónnych čísel viete naspamäť? Zrejme nie veľa. Kde sú tie časy, keď si ľudia pamätali všetky čísla, adresy a dátumy narodenín? Dnes by sme boli bez múdrych telefónov stratení. A predsa sú medzi nami ľudia, ktorí sa dokážu na počkanie naučiť poradie pomiešaného balíčku hracích kariet, stociferné číslo alebo desiatky telefónnych čísel. A nie, nie sú to (len) autisti. Pred pár týždňami boli ešte ako vy a ja.
 
-<!--more-->
-
 Joshua Foer sa ako žurnalista dostal na podujatie, na ktorom ľudia s na prvý pohľad fotografickou pamäťou súťažia, kto si je schopný zapamätať viac, rýchlejšie a lepšie. Najprv ich pokladal iba za náhodné výtvory prírody. Pri jednom z rozhovorov mu však dovtedy neznámy súťažiaci povedal, že sa to dá naučiť. A nie len to! Je ochotný ho to naučiť, dokonca sa s ním staví, že o rok už bude môcť súťažiť. Svoj sľub dodržal: nie len, že ho to naučil, naučil ho to tak, že o rok Joshua Foer vyhral majstrovstvá USA v zapamätávaní si.
 
 O tom aká bola jeho cesta k víťazstvu a o tom aká môže byť vaša cesta k dokonalejšej pamäti Foer napísal knihu, ktorú editori kníhkupectva amazon zaradili medzi dvadsať najlepších kníh minulého roka. V originále je jej názov Moonwalking with Einstein, v češtine Šetři se, Einsteine!

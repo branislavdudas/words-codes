@@ -16,15 +16,11 @@ To nie je bohviečo, však? Ale ako si vybrať? Skúste v obchode chytiť do rú
 
 > Ktoré iné zviera potrebuje profesionálnu pomoc s výberom toho, čo by malo zjesť?
 
-[<img class="aligncenter size-full wp-image-278" alt="hrasok-mrkva" src="https://i2.wp.com/www.brainspark.sk/wp-content/uploads/2013/03/hrasok-mrkva.png?resize=500%2C501" data-recalc-dims="1" />][1]
-
 Ak už máte suroviny ostáva už len samotné varenie. Dnes je populárna pôvodná grécka kuchyňa, lebo je dobrá na srdce. Alebo aj pôvodné francúzske jedlá, z ktorých sa &#8222;paradoxne&#8220; nepriberá sú fajn. Alebo pôvodná… Už asi začínate tušiť, že kľúčom nie je geografia, ale slovo pôvodná. Pre inšpiráciu netreba ísť ďaleko.
 
 > Kuchár nevie, že príprava paradajok s olivovým olejom zjednodušuje nášmu telu vstrebávanie lykopénu, ako nedávno zistili vedci. Nie, kuchár už dávno vie, že spojiť olivový olej a paradajky je veľmi dobrý nápad.
 
 Bohužiaľ, poctivá príprava poctivého jedla pomaly vymiera. Možno aj preto dnes nemalé percento obsahu sociálnych sietí tvoria mobilom robené amatérske akty jedla na tanieri. Pre mladých ľudí je dnes už aj dobrá praženica umením. Ak dokážete urobiť aj niečo zložitejšie a chutnejšie a k tomu to aj esteticky porozhadzovať po tanieri, robíte haute cuisine a patríte medzi crème de la crème. A to už si zaslúži fotku a tri lajky, nie?
-
-[<img class="aligncenter size-full wp-image-279" alt="slanina-vajcia" src="https://i0.wp.com/www.brainspark.sk/wp-content/uploads/2013/03/slanina-vajcia.png?resize=500%2C500" data-recalc-dims="1" />][2]
 
 OK, jedlo máme uvarené. Už si asi myslíte, že sme za vodou, ale opak je pravdou, ostáva nám ešte posledná fáza. Proces prijímania potravy. Nie je nič krajšie ako vychutnávať si každé sústo, degustovať, rozplývať sa nad rozplývajúcim sa jedlom. V príjemnej spoločnosti. Majte z jedla radosť. Alebo zjedzte rozmrazenú potvoru z papierovej krabice za volantom auta. Je to na vás.
 
@@ -38,7 +34,4 @@ Bohužiaľ, kvalitné jedlo je dnes drahý špás. Ale to budú aj peniaze vraze
 
 > Nie každý Američan si môže dovoliť kvalitné potraviny, to je hanba; ale tí z nás, ktorí môžu, by mali.
 
-Michaela Pollana vám jednoznačne odporúčam. Pracuje ako investigatívny reportér a profesor žurnalistiky na Berkeley a aktivista v oblasti zdravého stravovania. Jeho kniha In Defense of Food: An Eater&#8217;s Manifesto, ktorej recenziu práve teraz dočítavate (ak ste si nevšimli), je jednoduchým krátkym a predsa život meniacim dielom. Kúpiť si ju môžete aj <a title="Pollan" href="http://www.bookdepository.com/Defense-Food-Michael-Pollan/9780143114963" target="_blank">v tomto kníhkupectve</a>, poštovné neplatíte. Ak vás zaujala, odporúčam aj Pollanov opus magnum o pôvode jedla, ktoré končí na našich stoloch <a title="Všežravcova dilema" href="http://www.brainspark.sk/vsezravcova-dilema/" target="_blank">Všežravcova Dilema</a>.
-
- [1]: https://i2.wp.com/www.brainspark.sk/wp-content/uploads/2013/03/hrasok-mrkva.png
- [2]: https://i0.wp.com/www.brainspark.sk/wp-content/uploads/2013/03/slanina-vajcia.png
+Michaela Pollana vám jednoznačne odporúčam. Pracuje ako investigatívny reportér a profesor žurnalistiky na Berkeley a aktivista v oblasti zdravého stravovania. Jeho kniha In Defense of Food: An Eater&#8217;s Manifesto, ktorej recenziu práve teraz dočítavate (ak ste si nevšimli), je jednoduchým krátkym a predsa život meniacim dielom. Kúpiť si ju môžete aj <a title="Pollan" href="http://www.bookdepository.com/Defense-Food-Michael-Pollan/9780143114963">v tomto kníhkupectve</a>, poštovné neplatíte. Ak vás zaujala, odporúčam aj Pollanov opus magnum o pôvode jedla, ktoré končí na našich stoloch <a title="Všežravcova dilema" href="/blog/vsezravcova-dilema/">Všežravcova Dilema</a>.

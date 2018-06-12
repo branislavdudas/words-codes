@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Albert Einstein bol prvou celosvetovou vedeckou celebritou a svojim výstredným správaním a vzhľadom sa stal tvárou minulého storočia. Ako dieťa bol však trochu pomalší, dlho nevedel rozprávať a jeho rodina si myslela, že bude postihnutý. Opak však bol pravdou. Jeho genialita a zvedavosť sa ešte len prebúdzala.<!--more-->
+Albert Einstein bol prvou celosvetovou vedeckou celebritou a svojim výstredným správaním a vzhľadom sa stal tvárou minulého storočia. Ako dieťa bol však trochu pomalší, dlho nevedel rozprávať a jeho rodina si myslela, že bude postihnutý. Opak však bol pravdou. Jeho genialita a zvedavosť sa ešte len prebúdzala.
 
 > Když ležel jednoho dne nemocný v posteli, tatínek, aby ho potěšil, mu přinesl kompas. Jak později vzpomínal, průzkum tajuplných schopností tohoto předmětu ho rozrušil tak, že se roztřásl a dostal zimnici. Fakt, že si magnetická střelka počínala, jako kdyby ji ovlivňovalo nějaké skryté silové pole, zatímco běžně známé mechanické vlivy &#8211; uplatňované dotykem &#8211; tu podle všeho nepůsobily, v Albertovi podnítil úžas, který ho pak provázel po celý život. &#8222;Dodnes si pamatuji &#8211; anebo mi alespoň připadá, že si to pamatuji &#8211; že na mě tento zážitek udělal hluboký a trvalý dojem,&#8220; napsal v jednom líčení této příhody. &#8222;Bylo patrné, že za věcmi leží cosi hluboce skrytého.&#8220;
 
@@ -26,7 +26,7 @@ Albert Einstein bol osoba vysokých kontrastov. Do fyziky priniesol odklonom od 
 
 Až do svojej smrti pracoval na jednotnej teórii poľa, v ktorej by spojil všetky sily &#8211; elektromagnetizmus a gravitáciu &#8211; do jednej teórie. To, že ešte počas jeho života bola objavená silná a slabá jadrová sila, nebral do úvahy.
 
-Napriek tomu, že bol rebel, ostával pokorný a skromný. Jeho hlavu nezamestnávali len problémy ľudí ale aj problémy vesmíru. To mu dávalo potrebnú perspektívu (podobne ako v <a title="Malá bledomodrá bodka" href="http://www.blog.branislavdudas.com/2012/05/mala-bledomodra-bodka/" target="_blank">Malej bledomodrej bodke</a>). Dával prednosť jednoduchým hotelom, necestoval prvou triedou a aj v časoch najväčšej slávy ochotne pomáhal deťom z okolia s domácimi úlohami.
+Napriek tomu, že bol rebel, ostával pokorný a skromný. Jeho hlavu nezamestnávali len problémy ľudí ale aj problémy vesmíru. To mu dávalo potrebnú perspektívu (podobne ako v <a title="Malá bledomodrá bodka" href="/blog/mala-bledomodra-bodka/">Malej bledomodrej bodke</a>). Dával prednosť jednoduchým hotelom, necestoval prvou triedou a aj v časoch najväčšej slávy ochotne pomáhal deťom z okolia s domácimi úlohami.
 
 > &#8222;Nikdo na světe si nezaslouží podobné přijetí,&#8220; řekl Else, když stáli za rozbřesku na balkoně svého hotelového pokoje a doléhal k nim jásot tisíců lidí, kteří venku čekali celou noc v naději, že ho nakonec spatří. &#8222;Bojím se, že jsme podvodníci. Ještě nás nakonec zavřou.&#8220;
 
@@ -52,9 +52,4 @@ Napriek silnej náboženskej viere v detstve a známej fráze Boh nehrá v kocky
 
 Prenasledovanie židov v ňom vzbudilo hrdosť na svoj pôvod. Stal sa zapáleným sionistom, vznik Izraela však nepodporoval. Práve naopak, snažil sa spojiť arabov a židov do vytvorenia spoločnej semitskej kultúry. Aj napriek tomu mu krátko pred jeho smrťou ponúkli pozíciu izraelského prezidenta.
 
-Einsteinov výborný životopis pochádza z pera Waltera Isaacsona, ktorý napísal aj životopis Steva Jobsa. Nemusíte sa báť, že by bol nezrozumiteľný, ale samozrejme, je v ňom aj fyzika. Určite však je zaujímavejšia ako tá stredoškolská a pomôže vám pochopiť, o čom vlastne je špeciálna a všeobecná teória relativity. Ku knihe som sa dostal cez sympatické kníhkupectvo [PreŠkoly.sk][1]. Mali super ceny, široký výber populárno-náučnej literatúry a reagovali pohotovo, takže chválim a odporúčam!
-
-<div>
-</div>
-
- [1]: http://www.preskoly.sk/p/112988-einstein-jeho-zivot-a-vesmir/ "Walter Isaacson - Einstein Jeho život a vesmír na preskoly.sk"
+Einsteinov výborný životopis pochádza z pera Waltera Isaacsona, ktorý napísal aj životopis Steva Jobsa. Nemusíte sa báť, že by bol nezrozumiteľný, ale samozrejme, je v ňom aj fyzika. Určite však je zaujímavejšia ako tá stredoškolská a pomôže vám pochopiť, o čom vlastne je špeciálna a všeobecná teória relativity. Ku knihe som sa dostal cez sympatické kníhkupectvo PreŠkoly.sk. Mali super ceny, široký výber populárno-náučnej literatúry a reagovali pohotovo, takže chválim a odporúčam!

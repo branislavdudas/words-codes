@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 
 ---
-Pred pár rokmi som v kníhkupectve narazil na knihu Stručná historie téměř všeho. Nadutá predstava o mojich vedomostiach ma nenechala na pochybách o tom, že kniha bude povrchne spracovaná, veď Hawkingova stručná história času je rozsahom asi polovičná a má v názve len čas. A táto kniha má v názve všetko. O všetkom sa nedá písať stručne. Takže som ju tam nechal ležať a zabudol som.<!--more-->
+Pred pár rokmi som v kníhkupectve narazil na knihu Stručná historie téměř všeho. Nadutá predstava o mojich vedomostiach ma nenechala na pochybách o tom, že kniha bude povrchne spracovaná, veď Hawkingova stručná história času je rozsahom asi polovičná a má v názve len čas. A táto kniha má v názve všetko. O všetkom sa nedá písať stručne. Takže som ju tam nechal ležať a zabudol som.
 
 Prešlo pár rokov, knihu som dočítal pred týždňom. Ak by som sa dnes v tom kníhkupectve videl, za ucho by som sa dotiahol k pokladni a nepustil by som sa z izby, kým by som ju nedočítal. A akonáhle by sa moje mladšie ja začítalo, určite by sa z tej izby ani nesnažilo vyjsť von, skôr by som sa tam zamkol, aby ma nikto nerušil. Bill Bryson totiž napísal najlepšiu populárno-náučnú knihu, ktorá sa mi kedy dostala do ruky.
 
