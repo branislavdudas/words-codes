@@ -3,3 +3,9 @@ languageCode = "sk-sk"
 DefaultContentLanguage = "sk"
 title = "Words & Codes"
 theme = "words&codes"
+enableRobotsTXT = "true"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
