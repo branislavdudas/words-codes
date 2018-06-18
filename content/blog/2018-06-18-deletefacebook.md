@@ -6,7 +6,7 @@ date: 2018-06-17T17:43:54+00:00
 url: /blog/deletefacebook/
 categories:
   - Nezaradené
-draft: true
+draft: false
 --- 
 Rozišiel som sa s facebookom. Bol som s ním dlhšie ako s manželkou, preto to mohol byť pre priateľov šok. Nie som si tým ale istý: nie som na facebooku a nevidím ich šokované emotikony. Toto je článok o tom, prečo som sa rozhodol stlačiť tlačidlo Delete Account.
 
@@ -23,12 +23,16 @@ Pravidelne som sám sebe dohováral, že by som mal byť e-sociálne aktívnejš
 V rozkole medzi tým čo som robil a čo som robiť chcel je pes zakopaný. Vedome som vedel, a aj som to verejne priznal, že ak by som venoval ročný **čas strávený hľadaním konca newsfeedu** tvorbe jedného dokonalého textu, dostal by som sa na titulku New Yorkeru. A to by pre moje renomé urobilo podstatne viac ako pár dôvtipných slovných hračiek v statuse. Prečo som to teda neurobil?
 <aside>Aký pes? No predsa Lajka!</aside>
 
+![Ľudský mozog](/images/deletefacebook/head_circle2.svg)
+
 Bol som závislý a svišťal som si na viacerých drogách naraz. Som introvert a osobný kontakt s inými ľuďmi je pre mňa väčšinou vyčerpávajúci. Zároveň som však aj ľudská bytosť (prekvapenie!) a potrebujem mať pocit, že som členom skupiny. Členom… sociálnej siete! S facebookom som ten pocit naozaj mal. Mal som totiž pod palcom stovky takzvaných priateľov, ktorí sa vo voľnom čase i cez pracovnú dobu išli potrhať o môj palec. Ten pocit bola moja prvá droga.
 
 Podobne, súhrou krutého osudu či [babylonskej lotérie](/blog/zberatel-kniznic-poviedka-borges/) som i ja nepravidelne usiloval o ich uznanie. Uznanie, akokoľvek nemiestne, nezaslúžené a neexistujúce, bolo mojou druhou drogou. Rozopínajúce sa podprsenky, otvárajúce sa peňaženky a novinové titulky skryté za kresbičkou palca.
 
-Taká je pravá tvár supernormálnych stimulov, v prírode neexistujúcich podnetov, ktoré si zotročia slepou evolúciou pozliepané mechanizmy mozgu. Ako keď dá niekto prednosť sladeným sračkám pred ovocím, pornu pred sexom, huňatému yorkshirovi s palmičkou na hlave pred vlastným potomstvom. Či facebooku pred ľuďmi a prácou. Chuť je rovnaká, takmer, omnoho omnoho intenzívnejšia a je jednoduchšie ju získať. Omnoho jednoduchšie.
+Taká je pravá tvár supernormálnych stimulov, v prírode neexistujúcich podnetov, ktoré si zotročia slepou evolúciou pozliepané mechanizmy mozgu. Ako keď dá niekto prednosť sladeným sračkám pred ovocím, pornu pred sexom, huňatému yorkshirovi s palmičkou na hlave pred vlastným potomstvom. Či facebooku pred ľuďmi a prácou. Chuť je rovnaká, takmer, omnoho intenzívnejšia a je jednoduchšie ju získať. Omnoho jednoduchšie.
 <aside>Na juhu zeme Achájcov zaviedla búrka Odysea na ostrov lotofágov – pojedačov sladkého lotosu. Kto ho raz ochutnal, nechcel už nikdy opustiť ostrov ani jesť nič iné. Lotos = supernormálne stimuly.</aside>
+
+![Notifikácie](/images/deletefacebook/notifications.svg)
 
 Facebook sa svojim závislosť vyvolávajúcim efektom dá porovnať s cukrom. S horou cukru. Až na to, že keď telu dôjde cukor, začnú sa vám triasť ruky. Keď vám dôjde facebook, začnú sa vám triasť vrecká. Falošný pocit, že vám vibruje telefón — fantómové vibrácie — určite poznáte. A keď už raz máte telefón v ruke, prečo sa nepozrieť čo je nové.
 <aside>Hora cukru po nemecky je Zuckerberg. Náhoda? Nemyslím si…</aside>
@@ -43,10 +47,15 @@ Mysľou v sieti sa správame predvídateľne absurdne. Do virtuálnej reality si
 V tejto komédii sme sa stali komoditami produkujúcimi komodity, určovateľmi už určených trendov, dobrovoľnými recenzentmi, lajkermi, retweetermi, ambasádormi značiek. Neplatenými jednoosobovými reklamnými agentúrami, po nociach vymýšľajúcimi stratégie ako vyhrať Zlatý klinec či cenu za efektivitu pri predaju životného štýlu ľuďom, ktorí, kým sa stali našim cieľovým publikom, boli našimi priateľmi. A áno, v snahe ukázať sa nevedomky vyvolávame vo svojich priateľoch žiarlivosť, závisť, strach zo zameškania v čase, keď sú najzraniteľnejší, najnáchylnejší podľahnúť chuti lotosu, keď potrebujú rozptýlenie.
 <aside>FOMO, strach zo zameškania sa snažím nahradiť JOMO – radosťou zo zameškania (Joy of missing out).</aside>
 
+>„Aký význam má pravda alebo krása alebo múdrosť, keď okolo teba vybuchujú anthraxové bomby?“
+> <footer>Aldous Huxley, Brave New World</footer>
+
 Všetky kúty sveta aj so svojimi nástrahami sú dnes na pocit tak blízko a predsa sa cítime jeden druhému takí vzdialení, sami stojíme v kúte. Maketa sveta, ktorú sme si pozliepali sa nám každým otvorením médií rozpadá pod rukami. S pocitom bezmocnosti sa obraciame ku svojmu „okoliu“ s tichým volaním o pomoc a miesto toho sa nám dostáva žiarivých životov lokálnych i globálnych celebrít, romantických a vzrušujúcich  životov našich priateľov. A pri pohľade na seba vidíme čo? Počmáranú realitu. Podvedomé znechutenie, pocit menejcennosti, samotu a žiarlivosť si však spojíme s profilmi priateľov a nie s platformou.
 
 A to celé preto, aby sme mohli dostávať lepšie reklamy. Ale o reklame a osobných údajoch tento článok nie je. Nabudúce.
 <aside>Možno som výnimka, ale nemám pocit, že by kvalita každodennej reklamy išla za posledných 15 rokov kvalitatívne hore…</aside>
+
+![Zlomený like](/images/deletefacebook/like.svg)
 
 ## Priateľov si drž blízko pri sebe, ale facebook si drž ešte bližšie. Ledaže…
 

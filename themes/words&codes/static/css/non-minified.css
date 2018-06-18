@@ -384,14 +384,36 @@ padding-top: 2em;
 font-size: 3vw;
 line-height: 1.5;
 padding-bottom: 0.3em;
+padding-top: 0em;
+margin-bottom: 0;
 }
 
-.homepage > h1, h2 {
+.homepage > h1 { 
+font-weight: 900;
 font-size: 3vw;
 line-height: 1.5;
 padding-bottom: 0.3em;
-
+padding-top: 1em;
+padding-left: 0px;
+margin-bottom: -1.2em;
+width: 80vw;
+font-variant-ligatures: common-ligatures; 
 }
+  
+.homepage > h2, h3, h4, h5, h6 { 
+  font-weight: 900;
+  font-size: 3vw;
+  line-height: 1.5;
+  padding-bottom: 0.3em;
+  padding-top: 1em;
+  padding-left: 0px;
+  margin-bottom: -1.2em;
+  width: 80vw;
+  font-variant-ligatures: common-ligatures;
+  text-transform: none;
+}
+
+
 
 
 
@@ -406,13 +428,22 @@ margin: auto;
 @media all and (max-width:520px) {
 .homepage > p {
   font-size: 5vw;
+  padding-bottom: 1em;
+}
 
+.homepage > h2, h3, h4, h5, h6 {
+  font-size: 5vw;
+  padding-bottom: 1em;
+}
+
+.homepage > h1 {
+  font-size: 5vw;
   padding-bottom: 1em;
 }
 
 .homepage > blockquote {
   width: 60vw;
-  font-size: 5vw;
+  font-size: 4vw;
   padding-bottom: 0.3em;
   margin: auto;
 }
@@ -594,6 +625,27 @@ article > footer > .newsletter, .recommended  > p {
   flex-wrap: wrap;
 }
 
+.recommended-head {
+  font-size: 100%;
+  width: 100%;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+article > footer > .newsletter > h3 {
+  font-size: 100%;
+  width: 100%;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+article > footer > .recommended > h3 {
+  font-size: 100%;
+  width: 100%;
+  text-transform: uppercase;
+  margin: auto;
+}
+
 .readnext-flexbox > li {
   width: 220px;
   font-size: 67%;
@@ -613,15 +665,17 @@ article > footer > .newsletter, .recommended  > p {
 
 @media all and (max-width:520px) {
   .readnext-flexbox > li {
-    width: 50%;
+    width: 100%;
     font-size: 80%;
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   article > footer > .newsletter, .recommended  > p {
-    width: 80%;
+    width: 100%;
   }
+
+  .recommended-head {
+      width: 100%;
+    }
 
 }
 
