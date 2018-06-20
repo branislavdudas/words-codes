@@ -8,7 +8,7 @@ categories:
   - Nezaradené
 draft: false
 description: Rozišiel som sa s facebookom. Bol som s ním dlhšie ako s manželkou, preto to mohol byť pre priateľov šok. Toto je článok o tom, prečo som sa rozhodol stlačiť tlačidlo Delete Account.
-og_image: https://www.dropbox.com/s/qw06w86utas2x2c/deletefacebook.jpg
+og_image: https://farm1.staticflickr.com/900/42014762815_e27860d33b_b.jpg
 
 --- 
 Rozišiel som sa s facebookom. Bol som s ním dlhšie ako s manželkou, preto to mohol byť pre priateľov šok. Nie som si tým ale istý: nie som na facebooku a nevidím ich šokované emotikony. Toto je článok o tom, prečo som sa rozhodol stlačiť tlačidlo Delete Account.
