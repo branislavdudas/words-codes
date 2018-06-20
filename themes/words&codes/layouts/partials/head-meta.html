@@ -1,11 +1,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#bd0000">
-<meta name="description" content="Words & Codes je kreatívny copywriting a inteligentný content pre vašu značku. Vaše texty píše Branislav Dudáš">
 <meta name="robots" content="index,follow"><!-- All Search Engines -->
 <meta name="googlebot" content="index,follow"><!-- Google Specific -->
 <meta name="google-site-verification" content="UcFODqOa39fIxjrBERJ06MKhTMasXFoxCTGFNaO8rQ8" /><!-- Google Search Console -->
 <meta name="generator" content="Hugo">
+
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsPage }}
+<meta name="description" content="{{ .Summary | plainify }}">
+{{ else if eq .URL “/blog/” }}
+<meta name="description" content="Lass dich inspirieren - mit einzigartigen Blog-Posts und Videos zu Yoga, Reisen, Mind & Meditation, Gesundheit und mehr. - Get inspired & share the spirit!">
+{{ else }}
+<meta name="description" content="Yoga-Unterricht auf Spendenbasis. Inspirierender Blog & Videos über Yoga, Reisen, Mind & Meditation, Gesundheit & mehr. - Get inspired & share the spirit!">
+{{ end }}
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
