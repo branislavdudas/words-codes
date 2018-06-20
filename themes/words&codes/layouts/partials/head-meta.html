@@ -9,10 +9,6 @@
 {{ if .Description }}
 <meta name="description" content="{{ .Description }}">
 
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
-
 {{ .Hugo.Generator }}
 
 {{- /* vim: set ts=2 sw=2 et: */}}
