@@ -15,13 +15,13 @@ Volám sa Braňo Dudáš a&nbsp;pracujem ako **copywriter** a&nbsp;**content cre
 
 ## Referencie
 S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozprávať príbeh. Spolupracoval som so značkami ako 
+[**Absynt**](https://www.absynt.sk),
 [**Bepon**](https://www.bepon.sk),
 [**Budiš**](http://www.budis.sk/sk/),
 [**Cinema&nbsp;City**](http://www.cinemacity.sk),
 [**Exeltis**](http://www.exeltis.com/sk),
 [**Forbes**](https://www.forbes.sk/),
 [**Ford**](http://www.fordcentrum.sk),
-[**Pelikan**](https://ucimesapisat.sk),
 [**ITB&nbsp;Development**](https://www.itb.sk),
 [**La&nbsp;Cité**](https://www.cite.sk),
 [**Lexika**](https://www.lexika.sk),
@@ -29,6 +29,7 @@ S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozpr�
 [**Mitická**](http://miticka.eu),
 [**Nadácia Volkswagen Slovakia**](http://www.nadacia-volkswagen.sk),
 [**O2&nbsp;Business Services**](http://www.o2bs.sk),
+[**Pelikan**](https://www.pelikan.com/),
 <a href="http://www.sapie.sk" style="font-variant:small-caps; font-weight:700;">Sapie</a>
 či
 [**Zľava&nbsp;dňa**](https://www.zlavadna.sk).
