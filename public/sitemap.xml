@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://words.codes/blog/uplne-iny-druh-materializmu/</loc>
+    <lastmod>2018-09-12T17:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/blog/deletefacebook/</loc>
     <lastmod>2018-06-17T17:43:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -500,8 +507,15 @@
   </url>
   
   <url>
+    <loc>https://words.codes/knihy/</loc>
+    <lastmod>2012-01-05T18:19:52+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/blog/</loc>
-    <lastmod>2018-06-17T17:43:54+00:00</lastmod>
+    <lastmod>2018-09-12T17:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -513,8 +527,15 @@
   </url>
   
   <url>
+    <loc>https://words.codes/knihy/</loc>
+    <lastmod>2012-01-05T18:19:52+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/categories/nezaraden%C3%A9/</loc>
-    <lastmod>2018-06-17T17:43:54+00:00</lastmod>
+    <lastmod>2018-09-12T17:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

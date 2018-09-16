@@ -1,0 +1,27 @@
+{{ define "title" }}{{ .Title | markdownify }}{{ end }}
+
+{{ define "main" }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+
+<article>
+  <header>
+
+  </header>
+
+  <div class="homepage">
+    {{ .Content }}
+  
+  
+  
+  
+  </div>
+
+  <footer>
+
+  </footer>
+
+</article>
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}

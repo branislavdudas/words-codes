@@ -27,6 +27,7 @@ S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozpr�
 [**Lexika**](https://www.lexika.sk),
 [**LightPark**](http://www.lightpark.sk),
 [**Mitická**](http://miticka.eu),
+[**Nadácia Pontis**](https://www.nadaciapontis.sk),
 [**Nadácia Volkswagen Slovakia**](http://www.nadacia-volkswagen.sk),
 [**O2&nbsp;Business Services**](http://www.o2bs.sk),
 [**Pelikan**](https://www.pelikan.com/),

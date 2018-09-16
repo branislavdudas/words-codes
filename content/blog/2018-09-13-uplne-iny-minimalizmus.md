@@ -1,5 +1,5 @@
 ---
-title: Úplne iný druh materializmu - recenzia knihy Neobyčajné materiály
+title: Úplne iný druh materializmu — recenzia knihy Neobyčajné materiály
 author: Branislav Dudáš
 type: post
 date: 2018-09-12T17:00:00+00:00
@@ -8,6 +8,7 @@ categories:
   - Nezaradené
 draft: false
 description: Recenzia na oceňovanú náučnú knihu Neobyčajné materiály od Marka Miodownika o materiáloch, ktoré nás obklopujú.
+keywords: recenzia, kniha, Mark Miodownik, Bill Gates, materiály, minimalizmus, branislav dudáš, copywriting, čítanie, čokoláda
 og_image: https://c1.staticflickr.com/2/1879/44605886662_76943b41a0_b.jpg
 
 --- 

@@ -5,7 +5,7 @@
 
 <article>
   <header>
-    <h1>Archív článkov<br>Words & Codes</h1>
+    <h1>Katalóg článkov</h1>
   </header>
 
   <div class="archive">
@@ -19,9 +19,13 @@
                 {{ range (where .Site.Pages "Type" "post") }}
 
 
-                   <ul>
-                       <li><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
-                   </ul> 
+                   <div class="archive-list">
+                      <div>
+                         <a href="{{ .Permalink }}" title="{{ .Title }}" class="archive-postname">{{ .Title }}</a><br>
+                         <a href="{{ .Permalink }}" title="{{ .Title }}" class="archive-description">{{ .Description }}</a>
+                      
+                      </div>
+                   </div> 
 
 
                     <!-- if you want pages summary you can print it here {{ .Summary }} -->
