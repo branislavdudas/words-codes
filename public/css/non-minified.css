@@ -696,27 +696,68 @@ color: #999
 .archive {
 width: 60vw;
 margin: auto;
-font-size: 2vw;
-font-weight: bold;
+font-size: 1.5vw;
 line-height: 1.5;
 }
 
-.archive > ul {
-
-}
 
 @media all and (max-width:520px) {
 .archive {
   width: 70vw;
   margin: auto;
   font-size: 4vw;
-  font-weight: bold;
   line-height: 1.5;
+  list-style: none;
+}
+
+.archive-postname {
+font-weight: bold;
+color: #bd0000;
+}
+
+
+.archive-description {
+font-weight: regular;
+}
+
+}
+
+
+.archive-postname {
+font-weight: bold;
+color: #bd0000;
+}
+
+
+.archive-description {
+font-weight: regular;
 }
 
 
 
+
+/* Archive Grid */
+
+#blog-archives {
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-auto-flow: row dense;
+grid-gap: 75px;
 }
+
+@media (max-width: 980px) {
+
+#blog-archives  {
+  display: grid;
+  grid-template-columns: 1fr ;
+  grid-column-gap: 0px;
+  grid-row-gap: 50px;
+}
+
+}
+
+
+
 
 /* Additional Responsivness */
 
