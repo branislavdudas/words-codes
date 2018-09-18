@@ -8,6 +8,7 @@ categories:
   - Nezaradené
 draft: false
 description: Rozišiel som sa s facebookom. Bol som s ním dlhšie ako s manželkou, preto to mohol byť pre priateľov šok. Toto je článok o tom, prečo som sa rozhodol stlačiť tlačidlo Delete Account.
+keywords: facebook, deletefacebook, sociálne siete, psychológia, závislosť, notifikácie, súkromie
 og_image: https://farm1.staticflickr.com/900/42014762815_e27860d33b_b.jpg
 
 --- 

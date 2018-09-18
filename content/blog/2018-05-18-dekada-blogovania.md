@@ -7,6 +7,7 @@ url: /blog/dekada-blogovania
 categories:
   - Nezaradené
 description: Zhodnotenie po jednej dekáde blogovania a úplne nový dizajn, technológia a adresa blogu.
+keywords: design, dizajn, refresh, blogovanie, blog, branislav, dudáš, výkon, cms, písanie, copywriting
 og_image: https://words.codes/images/dekada-blogovania/test.png
 ---
 Presne pred desiatimi rokmi som si kúpil doménu branislavdudas.com. Na stránke, ktorá sa (myslím) volala Personal Branding som našiel múdru radu, že **každý** by si mal kúpiť vlastnú doménu v&nbsp;tvare menopriezvisko.com skôr, než mu ju vyfúkne jeho zlý menovec. Táto skvelá rada, nepochybne s affiliate linkom na registrátora, stála za štartom mojej blogerskej&nbsp;„kariéry.“
