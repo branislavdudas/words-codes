@@ -6,7 +6,8 @@ date: 2016-11-07T09:38:22+00:00
 url: /blog/magicky-marakes/
 categories:
   - Nezaradené
-
+keywords: cestopis, Maroko, Marakéš, orient, islam, arabský, architektúra, mesto, dizajn, Jamma-el-Fna Ben Youssef, madrasa, Dar Si Saïd, palác, Bahia
+description: Cestopis pretkávaný geometrickým vzorom myšlienok o tom, ako Islam formoval rast mesta Marakéš.
 ---
 Islam je mestské náboženstvo. Od svojho vzniku kladie dôraz na spoločenské zhromaždenia a stavia sa proti nomádstvu. Úlohou mesta je lákať pútnikov a očariť ich krásou, vzdelaním, kultúrou a bohatstvom<!--more--> natoľko, aby nechceli odísť. Stáva sa tak citadelou viery. Marocký Marakéš plní zverenú úlohu dokonale, pripútal populáciu Berberov k jednému jedinému miestu. A ide ešte ďalej. Dodnes si privlastňuje srdcia moderných nomádov a cestovateľov.
 

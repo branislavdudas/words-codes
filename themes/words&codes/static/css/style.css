@@ -257,9 +257,16 @@ text-align: right;
 /* Basic Typography */
 
 @font-face{
+  font-family: 'Source Serif Pro Variable';
+  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;    
+}
+
+@font-face{
   font-family: 'Source Serif Pro';
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations'),
-       url('../fonts/WOFF2/OTF/SourceSerifPro-ExtraLight.woff2') format("woff2");
+  src: url('../fonts/WOFF2/OTF/SourceSerifPro-ExtraLight.woff2') format("woff2");
   font-weight: 200;
   font-style: normal;
   font-stretch: normal;    
@@ -267,8 +274,7 @@ text-align: right;
 
 @font-face{
   font-family: 'Source Serif Pro';
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations'),
-       url('../fonts/WOFF2/OTF/SourceSerifPro-Light.woff2') format('woff2');
+  src: url('../fonts/WOFF2/OTF/SourceSerifPro-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-stretch: normal;
@@ -277,7 +283,6 @@ text-align: right;
 @font-face{
   font-family: 'Source Serif Pro';
   src: url('../fonts/WOFF2/OTF/SourceSerifPro-Regular.woff2') format('woff2');
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2'),
   font-weight: 400;
   font-style: normal;
   font-stretch: normal;
@@ -285,8 +290,7 @@ text-align: right;
 
 @font-face{
   font-family: 'Source Serif Pro';
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations'),
-       url('../fonts/WOFF2/OTF/SourceSerifPro-Semibold.woff2') format('woff2');
+  src: url('../fonts/WOFF2/OTF/SourceSerifPro-Semibold.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-stretch: normal;
@@ -294,8 +298,7 @@ text-align: right;
 
 @font-face{
   font-family: 'Source Serif Pro';
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations'),
-       url('../fonts/WOFF2/OTF/SourceSerifPro-Bold.woff2') format('woff2');
+  src: url('../fonts/WOFF2/OTF/SourceSerifPro-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-stretch: normal;
@@ -303,8 +306,7 @@ text-align: right;
 
 @font-face{
   font-family: 'Source Serif Pro';
-  src: url('../fonts/VAR/SourceSerifVariable-Roman.woff2') format('woff2-variations'),
-       url('../fonts/WOFF2/OTF/SourceSerifPro-Black.woff2') format('woff2');
+  src: url('../fonts/WOFF2/OTF/SourceSerifPro-Black.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
   font-stretch: normal;
@@ -332,7 +334,7 @@ text-align: right;
 }
 
 body {
-font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+font-family: 'Source Serif Pro Variable', 'Source Serif Pro', 'Georgia', 'Times New Roman', Times, serif;
 color: #111;
 text-rendering: optimizeLegibility;
 -moz-font-feature-settings: 'kern=1';

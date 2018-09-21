@@ -6,7 +6,8 @@ date: 2017-02-06T16:09:19+00:00
 url: /blog/zberatel-kniznic-poviedka-borges/
 categories:
   - Nezaradené
-
+keywords: poviedka, borges, fikcie, bioy, babylonská knižnica, magický realizmus, knihy, zbierka
+description: Márny pokus o poviedku v štýle Jorge Luis Borgesa a o tom ako sa snažím vybudovať si svoju súkromnú Babylonskú knižnicu.
 ---
 Jedného večera ma navštívil Bioy. Alebo to tiež mohol byť niekto, kto by bol Bioyom, ak by som ja bol Borges. Sedeli sme spolu pri stole, pili sme víno z oblasti Paraná. Bolo to Bandeirantes, alebo možno Marialva alebo Maringá.<!--more--> Náš rozhovor bol ako vždy o knihách a o našich knižniciach, ktoré stále rozširujeme, napriek tomu, že sa už dnes zdajú byť nekonečné, najmä s ohľadom na dĺžku našich životov. Rozhovor bol dlhý a vášnivý, takže sme popri zapadajúcom slnku zabudli zapáliť svetlá a tak sme sedeli oproti sebe v rastúcej tme, až kým sme navzájom nevideli svoje tváre.
 

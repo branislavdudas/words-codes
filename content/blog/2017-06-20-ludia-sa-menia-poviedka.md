@@ -6,7 +6,8 @@ date: 2017-06-20T18:43:54+00:00
 url: /blog/ludia-sa-menia-poviedka/
 categories:
   - Nezaradené
-
+keywords: poviedka, rodina, test, DNA, dcéra, mimomanželské, dieťa, smrť, láska
+description: Krátka poviedka o vyrovnávaní sa s koncom vzťahu a o láske otca k dieťaťu. 
 ---
 Chcel by som na teba kričať. Nadávať ti. Udrieť ťa. Áno, udrieť ťa. Cítiť ako chrbát mojej ruky narazí na tvoje líce. Tak veľmi by som chcel citíť pokožku tvojich tvári, opäť v mojich rukách. Neviem čo by som robil, ak by si tu bola.<!--more--> Bože, ako veľmi chcem aby si tu bola. Viem, že aj ty by si to chcela, ak by si ešte mohla niečo chcieť. Lenže nemôžeš. Už nie si. A tak tu stojím sám.
 
