@@ -12,6 +12,7 @@ Pomôžem vám písať príbehy o&nbsp;vašom poslaní, o&nbsp;vašich produktoc
 
 ## 2018
 
+[21 Lessons for the 21st Century – Yuval Noah Harari](#)  &bull;
 [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body – Daniel Coleman, Richard J. Davidson](#)  &bull;
 [The Collected Songs of Cold Mountain – Cold Mountain (Han Shan), Red Pine](#)  &bull;
 [The Dhammapada – Gil Fronsdal](#)  &bull;
