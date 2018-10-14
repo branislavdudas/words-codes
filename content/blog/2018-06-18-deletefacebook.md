@@ -25,7 +25,7 @@ Pravidelne som sám sebe dohováral, že by som mal byť e-sociálne aktívnejš
 
 ## Ako som si okolo krku uplietol dopamínovú slučku
 V rozkole medzi tým čo som robil a čo som robiť chcel je pes zakopaný. Vedome som vedel, a aj som to verejne priznal, že ak by som venoval ročný **čas strávený hľadaním konca newsfeedu** tvorbe jedného dokonalého textu, dostal by som sa na titulku New Yorkeru. A to by pre moje renomé urobilo podstatne viac ako pár dôvtipných slovných hračiek v statuse. Prečo som to teda neurobil?
-<aside>Aký pes? No predsa Lajka!</aside>
+
 
 ![Ľudský mozog](/images/deletefacebook/head_circle2.svg)
 
@@ -34,12 +34,12 @@ Bol som závislý a svišťal som si na viacerých drogách naraz. Som introvert
 Podobne, súhrou krutého osudu či [babylonskej lotérie](/blog/zberatel-kniznic-poviedka-borges/) som i ja nepravidelne usiloval o ich uznanie. Uznanie, akokoľvek nemiestne, nezaslúžené a neexistujúce, bolo mojou druhou drogou. Rozopínajúce sa podprsenky, otvárajúce sa peňaženky a novinové titulky skryté za kresbičkou palca.
 
 Taká je pravá tvár supernormálnych stimulov, v prírode neexistujúcich podnetov, ktoré si zotročia slepou evolúciou pozliepané mechanizmy mozgu. Ako keď dá niekto prednosť sladeným sračkám pred ovocím, pornu pred sexom, huňatému yorkshirovi s palmičkou na hlave pred vlastným potomstvom. Či facebooku pred ľuďmi a prácou. Chuť je rovnaká, takmer, omnoho intenzívnejšia a je jednoduchšie ju získať. Omnoho jednoduchšie.
-<aside>Na juhu zeme Achájcov zaviedla búrka Odysea na ostrov lotofágov – pojedačov sladkého lotosu. Kto ho raz ochutnal, nechcel už nikdy opustiť ostrov ani jesť nič iné. Lotos = supernormálne stimuly.</aside>
+
 
 ![Notifikácie](/images/deletefacebook/notifications.svg)
 
 Facebook sa svojim závislosť vyvolávajúcim efektom dá porovnať s cukrom. S horou cukru. Až na to, že keď telu dôjde cukor, začnú sa vám triasť ruky. Keď vám dôjde facebook, začnú sa vám triasť vrecká. Falošný pocit, že vám vibruje telefón — fantómové vibrácie — určite poznáte. A keď už raz máte telefón v ruke, prečo sa nepozrieť čo je nové.
-<aside>Hora cukru po nemecky je Zuckerberg. Náhoda? Nemyslím si…</aside>
+
 
 ## Niet väčšieho pekla než nebo takmer na dosah
 Prečo by niekto vedome vytvoril priestor podporujúci podobné pocity? Pre peniaze predsa. Ľudia pracujú pre rôzne hlúposti, tak prečo by nepracovali zadarmo za dávku či za dodávku dopamínu.
@@ -49,7 +49,7 @@ Dobre nadizajnovaný biznis plán a zle nadizajnovaný mozog urobili z používa
 Mysľou v sieti sa správame predvídateľne absurdne. Do virtuálnej reality si pravidelne chodíme po čerstvé lajky, v reálnej realite sa zamestnávame tým, že v hlave komponujeme statusy a fotky a v prírode hľadáme spôsob ako ukázať facebooku, že je s nami.
 
 V tejto komédii sme sa stali komoditami produkujúcimi komodity, určovateľmi už určených trendov, dobrovoľnými recenzentmi, lajkermi, retweetermi, ambasádormi značiek. Neplatenými jednoosobovými reklamnými agentúrami, po nociach vymýšľajúcimi stratégie ako vyhrať Zlatý klinec či cenu za efektivitu pri predaju životného štýlu ľuďom, ktorí, kým sa stali našim cieľovým publikom, boli našimi priateľmi. A áno, v snahe ukázať sa nevedomky vyvolávame vo svojich priateľoch žiarlivosť, závisť, strach zo zameškania v čase, keď sú najzraniteľnejší, najnáchylnejší podľahnúť chuti lotosu, keď potrebujú rozptýlenie.
-<aside>FOMO, strach zo zameškania sa snažím nahradiť JOMO – radosťou zo zameškania (Joy of missing out).</aside>
+
 
 >„Aký význam má pravda alebo krása alebo múdrosť, keď okolo teba vybuchujú anthraxové bomby?“
 > <footer>Aldous Huxley, Brave New World</footer>

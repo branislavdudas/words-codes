@@ -188,13 +188,14 @@ display: flex;
 padding-left: 30px;
 padding-right: 60px;
 align-items: center;
+font-size: 1.5vw;
 }
 
 
 @media all and (max-width: 600px) {
 .navbar {
   flex-wrap: wrap;
-  font-size: 14px;
+  font-size: 3vw;
 }
 
 .navbar>li:first-child {
@@ -541,6 +542,26 @@ list-style-type: lower-roman }
 li {
 padding-bottom: 1em;}
 
+
+.homepage > ol, ul {
+  padding-left: 0;
+  list-style-position: outside;
+  line-height: 1;
+  font-size: 3vw;
+  }
+  
+  .homepage > ol li {
+  list-style-type: lower-roman }
+  
+  .homepage > li {
+  padding-bottom: 0em;}
+
+  @media all and (max-width:520px) {
+    .homepage > ol, ul {
+      font-size: 5vw;
+      }
+    
+    }
 
 
 /* Links */
