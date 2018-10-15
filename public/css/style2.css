@@ -5,7 +5,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 /* CSS variables */
 
 :root {
-    --bg-color: #f6f6f6;
+    --bg-color: #fff;
     --bd-color: #bd0000;
     --text-color: #111;
     --grey: #666;
@@ -38,16 +38,17 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 }
 
 body {
+    background-color: var(--bg-color);
     font-family: 'Source Serif Variable', 'Georgia', Times, serif;
     font-size: var(--text-small);
     font-weight: 400;
     color: var(--text-color);
     text-rendering: optimizeLegibility;
-    -moz-font-feature-settings: "onum" 1, "pnum" 1, "frac" 1, "kern" 1, "liga" 1, "dlig" 1;
-    -o-font-feature-settings: "onum" 1, "pnum" 1, "frac" 1, "kern" 1, "liga" 1, "dlig" 1;
-    -ms-font-feature-settings: "onum" 1, "pnum" 1, "frac" 1, "kern" 1, "liga" 1, "dlig" 1;
-    -webkit-font-feature-settings: "onum" 1, "pnum" 1, "frac" 1, "kern" 1, "liga" 1, "dlig" 1;
-    font-feature-settings: "onum" 1, "pnum" 1, "frac" 1, "kern" 1, "liga" 1, "dlig" 1;
+    -moz-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1, "dlig" 1;
+    -o-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1, "dlig" 1;
+    -ms-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1, "dlig" 1;
+    -webkit-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1, "dlig" 1;
+    font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1, "dlig" 1;
     vertical-align: baseline;
     line-height: var(--line-height);
     margin-bottom: 1em;
@@ -55,8 +56,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 { 
     margin-bottom: 0rem;
-    font-weight: 800;
-    font-size:7vw;
+    font-weight: 900;
     line-height: 1;
     width: 70vw;
     padding-bottom: 10%;
@@ -64,8 +64,12 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
 }
 
+h1 { 
+    font-size: 7vw;
+    }
+
 h2, h3, h4, h5, h6 { 
-font-size: 125%;
+font-size: var(--text-big);
 }
 
 .hanging-punctuation {

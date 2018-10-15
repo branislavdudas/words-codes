@@ -25,6 +25,7 @@ Pravidelne som sám sebe dohováral, že by som mal byť e-sociálne aktívnejš
 
 ## Ako som si okolo krku uplietol dopamínovú slučku
 V rozkole medzi tým čo som robil a čo som robiť chcel je pes zakopaný. Vedome som vedel, a aj som to verejne priznal, že ak by som venoval ročný **čas strávený hľadaním konca newsfeedu** tvorbe jedného dokonalého textu, dostal by som sa na titulku New Yorkeru. A to by pre moje renomé urobilo podstatne viac ako pár dôvtipných slovných hračiek v statuse. Prečo som to teda neurobil?
+<aside>Aký pes? No predsa Lajka!</aside>
 
 
 ![Ľudský mozog](/images/deletefacebook/head_circle2.svg)
