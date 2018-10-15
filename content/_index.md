@@ -11,7 +11,7 @@ Pomôžem vám písať **príbehy** o&nbsp;vašom poslaní, o&nbsp;vašich produ
 
 Príbehy sú miléniami overený spôsob ako organizovať **content.** Hovoria svetu **kto ste, čo robíte a&nbsp;za čím stojíte.**
 
-Volám sa Braňo Dudáš a&nbsp;pracujem ako **copywriter** a&nbsp;**content creation specialist** v&nbsp;reklame a&nbsp;<span style="font-variant:small-caps;">PR</span>.
+Volám sa Braňo Dudáš a&nbsp;som **copywriter** a&nbsp;**content creation specialist**.
 
 ## Referencie klientov
 S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozprávať príbeh. Spolupracoval som so značkami ako 
