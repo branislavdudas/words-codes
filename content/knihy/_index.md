@@ -7,11 +7,18 @@ description: Words & Codes je kreatívny copywriting a inteligentný content pre
 url: /knihy/
 ---
 # Knihy
-Pomôžem vám písať príbehy o&nbsp;vašom poslaní, o&nbsp;vašich produktoch a pre vaše publikum. Príbehy, ktoré sa budú šíriť naprieč viacerými komunikačnými kanálmi — pretože budú jasné, zaujímavé a&nbsp;ľudské.
+Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie abecedne.
+
+## Práve čítam:
+
+[I am a Strange Loop – Douglas Hofstadter](#)  &bull;
+[Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018
+## 2018 (spolu 31 kníh)
 
+[21 Insights for 21st Century Creatives – Mark McGuinness](#)  &bull;
+[Star Maker – Olaf Stapledon](#)  &bull;
 [21 Lessons for the 21st Century – Yuval Noah Harari](#)  &bull;
 [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body – Daniel Coleman, Richard J. Davidson](#)  &bull;
 [The Collected Songs of Cold Mountain – Cold Mountain (Han Shan), Red Pine](#)  &bull;
