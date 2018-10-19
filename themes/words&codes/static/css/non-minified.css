@@ -90,7 +90,8 @@ li {
 }
 
 blockquote {
-    font-weight: 800;
+    font-weight: 500;
+    font-style: italic;
     color: var(--bd-color);
     text-align: center;
     font-size: 120%;
@@ -305,10 +306,6 @@ section {
                 border-left: 3px solid var(--bd-color);
             }
         }
-        
-        aside phrase {
-          font-weight: 800;
-          }
           
           aside p+p {
           margin-top: 1em;

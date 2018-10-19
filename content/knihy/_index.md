@@ -11,12 +11,13 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 ## Práve čítam:
 
-[I am a Strange Loop – Douglas Hofstadter](#)  &bull;
 [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu 31 kníh)
+## 2018 (spolu 33 kníh)
 
+[Zen Mind, Beginner’s Mind – Shunryu Suzuki](#)  &bull;
+[I am a Strange Loop – Douglas R. Hofstadter](#)  &bull;
 [21 Insights for 21st Century Creatives – Mark McGuinness](#)  &bull;
 [Star Maker – Olaf Stapledon](#)  &bull;
 [21 Lessons for the 21st Century – Yuval Noah Harari](#)  &bull;
