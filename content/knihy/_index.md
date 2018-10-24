@@ -11,11 +11,18 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 ## Práve čítam:
 
+[Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#) &bull;
+[The Histories – Herodotus, Tom Holland](#) &bull;
+[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#) &bull;
+[Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#) &bull;
 [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu 33 kníh)
+## 2018 (spolu zatiaľ 37 kníh)
 
+[Algorithms to Live By: The Computer Science of Human Decisions – Brian Christian, Tom Griffiths](#)  &bull;
+[Zen Flesh, Zen Bones – Paul Reps](#)  &bull;
+[Technic and Magic: The Reconstruction of Reality – Federico Campagne](#)  &bull;
 [Zen Mind, Beginner’s Mind – Shunryu Suzuki](#)  &bull;
 [I am a Strange Loop – Douglas R. Hofstadter](#)  &bull;
 [21 Insights for 21st Century Creatives – Mark McGuinness](#)  &bull;
@@ -52,7 +59,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Getting Things Done: The Art of Stress-Free Productivity – David Allen](#)
 
 
-## 2017
+## 2017 (spolu 35 kníh)
 
 [Knife – Tim Hayward](#)  &bull;
 [Selected Poems – Robert Bringhurst](#)  &bull;
@@ -91,7 +98,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Žert – Milan Kundera](#)
 
 
-## 2016
+## 2016 (spolu 45 kníh)
 
 [Amsterdam – Ian McEwan](#)  &bull;
 [The Ego Tunnel: The Science of the Mind and the Myth of the Self – Thomas Metzinger](#)  &bull;
@@ -140,7 +147,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Som mama – Kristína Farkašová](#)
 
 
-## 2015
+## 2015 (spolu 43 kníh)
 
 [Finite and Infinite Games: A Vision of Life as Play and Possibility – James P. Carse](#)  &bull;
 [59 Seconds: Think a Little, Change a Lot – Richard Wiseman](#)  &bull;
@@ -187,7 +194,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Zrnko Pravdy – Zygmunt Miłoszewski](#)
 
 
-## 2014
+## 2014 (spolu 61 kníh)
 
 [The Accidental Universe: The World You Thought You Knew – Alan Lightman](#)  &bull;
 [Zapletení – Zygmunt Miłoszewski](#)  &bull;
@@ -252,7 +259,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Intuition Pumps And Other Tools for Thinking – Daniel C. Dennett](#)
 
 
-## 2013
+## 2013 (spolu 54 kníh)
 
 [A Manual for Creating Atheists – Peter Boghossian](#)  &bull;
 [Red Dragon – Thomas Harris](#)  &bull;
@@ -310,7 +317,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [How to Think More About Sex – Alain de Botton](#)
 
 
-## 2012
+## 2012 (spolu 70 kníh)
 
 [The Varieties of Scientific Experience: A Personal View of the Search for God – Carl Sagan](#)  &bull;
 [De Profundis – Oscar Wilde](#)  &bull;
