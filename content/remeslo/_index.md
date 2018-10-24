@@ -7,7 +7,7 @@ description: Words & Codes je kreatívny copywriting a inteligentný content pre
 url: /remeslo/
 ---
 # Remeslo
-Remeslo má zlaté dno. Ale prečo sa držať pri dne, keď môžete byť na vrchole? S kreatívnym copywritingom a&nbsp;efektívnymi a&nbsp;efektnými contentovými stratégiami sa tam dostanete&nbsp;rýchlejšie. Ako? Ponúkam vám:
+Remeslo má zlaté dno. Ale prečo sa držať pri dne, keď môžete byť na vrchole? S kreatívnym copywritingom a&nbsp;efektívnymi a&nbsp;efektnými contentovými stratégiami sa tam dostanete&nbsp;rýchlejšie. Ponúkam vám:
 
 **[Copywriting](###Na-slovíčko-o-&nbsp;copywritingu) – [Správa sociálnych sietí](#anchors-in-markdown) – [SEO optimalizácia pre vyhľadávače](#anchors-in-markdown) – [Tvorba web stránok](#anchors-in-markdown) – [Kreativita na objednávku](#anchors-in-markdown)**
 
