@@ -2,14 +2,14 @@
 title: Robte palacinky ako Al Gore. Efektívne! — recenzia knihy Algoritmy pre život
 author: Branislav Dudáš
 type: post
-date: 2018-09-12T17:00:00+00:00
+date: 2018-10-25T16:00:00+00:00
 url: /blog/algoritmy-pre-zivot/
 categories:
-  - Nezaradené
-draft: true
+  - Recenzie
+draft: false
 description: 
 keywords: algoritmus, kniha, recenzia, život, efektivita, reklama
-og_image:
+og_image: 
 --- 
 
 Denne rozmýšľam nad spôsobmi, ako robiť veci čo najlepšie a pritom čo najefektívnejšie — v&nbsp;čo najkratšom čase, bez nutných nákladov a&nbsp;investícií, s&nbsp;už dostupnými nástrojmi a&nbsp;informáciami. O&nbsp;akých veciach hovorím? O&nbsp;práci, samozrejme. O&nbsp;marketingu a&nbsp;manažmente. O&nbsp;efektivite práce, reklamy aj&nbsp;každodenných aktivít, o&nbsp;zdraví; o&nbsp;strave; o&nbsp;cvičení; o&nbsp;fungovaní mysle; o&nbsp;kupovaní, čítaní, recenzovaní a&nbsp;usporiadaní kníh… o&nbsp;triedení&nbsp;ponožiek.
@@ -28,7 +28,7 @@ Algoritmy pro život sú receptoch, nie však na palacinky. Kniha je písanou pr
 
 ## Aké poznatky som si z knihy odniesol?
 
-V časti Plánovanie harmonogramov (*scheduling*) je perfektná pasáž o&nbsp;plánovaní času bez prerušení externým svetom – času, kedy je internet a&nbsp;mobil vypnutý. Pripomína to Hlbokú prácu od Cala Newporta, ktorý o&nbsp;zahĺbení sa do práce píše&nbsp;pravidelne.
+V časti Plánovanie harmonogramov (*scheduling*) je perfektná pasáž o&nbsp;plánovaní času bez prerušení externým svetom – času, kedy je internet a&nbsp;mobil vypnutý. Pripomína to Hlbokú prácu od Cala Newporta, ktorý o&nbsp;zahĺbení sa do práce píše pravidelne. O pár kapitol neskôr sa zase spomína rozdiel medzi e-mailom a&nbsp;odkazovou schránkou v&nbsp;telefóne. Bežnú mailovú schránku dnes prakticky nie je možné naplniť, preto nehrozí, že by ste niekedy prestali prijímať e-maily. Ak ich denne dostávate viac, než stihnete spracovať, je to ideálny predpoklad na prokrastináciu a&nbsp;neefektivitu.
 
 Podobne, po knihe Algoritmy pro život sa už tak netrápim organizáciou niektorých aspektov života. Zložitý systém organizácie nie je vždy nevyhnutný a&nbsp;často stačí *vertikálne chronologický* systém – naposledy použité veci idú na vrch kôpky. Tie najčastejšie používané veci (informácie, papiere, písomnosti) sú vždy poruke, tie nepotrebné klesajú na&nbsp;dno.
 
