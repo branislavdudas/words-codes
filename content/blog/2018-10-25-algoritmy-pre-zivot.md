@@ -1,5 +1,5 @@
 ---
-title: Robte palacinky ako Al Gore. Efektívne! — recenzia knihy Algoritmy pre život
+title: Život, povedal Al&nbsp;Gore rytmicky — recenzia knihy Algoritmy pre život
 author: Branislav Dudáš
 type: post
 date: 2018-10-25T16:00:00+00:00
@@ -24,7 +24,7 @@ Práve preto ma upútala kniha Algoritmy pro život: Jak využít počítačové
 
 Na algoritmy si spomínam zo základov programovania na strednej škole, kde sme perom na papier spájali kruhy, štvorce a kosoštvorce do jednoduchých postupností a&nbsp;vpisovali do nich determinované, elementárne, konečné a efektívne recepty na&nbsp;palacinky.
 
-Algoritmy pro život sú receptoch, nie však na palacinky. Kniha je písanou prechádzkou po konceptoch z&nbsp;informatiky a&nbsp;matematiky. Spôsobom ako popularizačne prezentuje výsledky nepopulárneho výskumu pripomína knihy Malcolma Gladwella. Páči sa mi, že nedáva naivné rady typu správaj sa ako počítač. Reálne hľadá aplikovateľnosť algoritmov v&nbsp;informatike aj živote tak, aby pomohli prekoncipovať, zjednodušiť a&nbsp;zvládať zložité aj na prvý pohľad povrchné&nbsp;problémy.
+Algoritmy pro život sú receptoch, nie však na palacinky. Kniha je písanou prechádzkou po konceptoch z&nbsp;informatiky a&nbsp;matematiky. Spôsobom ako popularizačne prezentuje výsledky nepopulárneho výskumu pripomína knihy Malcolma Gladwella bez toho, aby trpela Gladwellovou chorobou. Páči sa mi, že nedáva naivné rady typu správaj sa ako počítač. Reálne hľadá aplikovateľnosť algoritmov v&nbsp;informatike aj živote tak, aby pomohli prekoncipovať, zjednodušiť a&nbsp;zvládať zložité aj na prvý pohľad povrchné&nbsp;problémy.
 
 ## Aké poznatky som si z knihy odniesol?
 
