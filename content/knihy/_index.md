@@ -18,8 +18,10 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu zatiaľ 37 kníh)
+## 2018 (spolu zatiaľ 40 kníh)
 
+[The Inferno – Dante Alighieri](#)  &bull;
+[Reality Is Not What It Seems: The Journey to Quantum Gravity – Carlo Rovelli](#)  &bull;
 [Algorithms to Live By: The Computer Science of Human Decisions – Brian Christian, Tom Griffiths](#)  &bull;
 [Zen Flesh, Zen Bones – Paul Reps](#)  &bull;
 [Technic and Magic: The Reconstruction of Reality – Federico Campagne](#)  &bull;
@@ -52,6 +54,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Focusing – Eugene T. Gendlin](#)  &bull;
 [Harry Potter and the Methods of Rationality – Eliezer Yudkowsky](#)  &bull;
 [Tao Te Ching: A Book about the Way and the Power of the Way – Lao Tzu, Ursula K. Le Guin](#)  &bull;
+[Všetci by sme mali byť feminist(k)ami – Chimamanda Ngozi Adichie](#)  &bull;
 [Reasons and Persons – Derek Parfit](#)  &bull;
 [The Elephant in the Brain – Robin Hanson & Kevin Simler](#)  &bull;
 [Väzenia, v ktorých sme sa rozhodli žiť – Doris Lessing](#)  &bull;

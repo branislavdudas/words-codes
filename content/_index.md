@@ -38,7 +38,7 @@ S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozpr�
 
 Aké príbehy hovoria klienti o mne?
 
->Braňo je šikovný kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumitelné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
+>Braňo je šikovný kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumiteľné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
 > <footer>Peter Pokojný – Sales Manager, Pelikan Group</footer>
 
 ## Vytvorme spolu niečo super
