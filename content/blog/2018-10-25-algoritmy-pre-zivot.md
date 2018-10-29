@@ -7,7 +7,7 @@ url: /blog/algoritmy-pre-zivot/
 categories:
   - Recenzie
 draft: false
-description: K efektivite v reklame i v živote často vedú neintuitívne cesty. V knihe Algoritmy pre život nájdete zlepšováky, ktoré objavila
+description: K efektivite v reklame i v živote často vedú neintuitívne cesty. V knihe Algoritmy pre život nájdete zlepšováky, ktoré objavila moderná matematika a informatika.
 keywords: algoritmus, kniha, recenzia, život, efektivita, reklama
 og_image: https://c1.staticflickr.com/2/1904/45612599221_fb01cd5d88_h.jpg
 --- 
@@ -28,7 +28,7 @@ Algoritmy pro život sú receptoch, nie však na palacinky. Kniha je písanou pr
 
 ## Aké poznatky som si z knihy odniesol?
 
-V časti Plánovanie harmonogramov (*scheduling*) je perfektná pasáž o&nbsp;plánovaní času bez prerušení externým svetom – času, kedy je internet a&nbsp;mobil vypnutý. Pripomína to Hlbokú prácu od Cala Newporta, ktorý o&nbsp;zahĺbení sa do práce píše pravidelne. O pár kapitol neskôr sa zase spomína rozdiel medzi e-mailom a&nbsp;odkazovou schránkou v&nbsp;telefóne. Bežnú mailovú schránku dnes prakticky nie je možné naplniť, preto nehrozí, že by ste niekedy prestali prijímať e-maily. Ak ich denne dostávate viac, než stihnete spracovať, je to ideálny predpoklad na prokrastináciu a&nbsp;neefektivitu.
+V časti Plánovanie harmonogramov (*scheduling*) je perfektná pasáž o&nbsp;plánovaní času bez prerušení externým svetom – času, kedy je internet a&nbsp;mobil vypnutý. Pripomína to [Hlbokú prácu](https://www.melvil.cz/kniha-hluboka-prace/) od Cala Newporta, ktorý o&nbsp;zahĺbení sa do práce píše pravidelne. O pár kapitol neskôr sa zase spomína rozdiel medzi e-mailom a&nbsp;odkazovou schránkou v&nbsp;telefóne. Bežnú mailovú schránku dnes prakticky nie je možné naplniť, preto nehrozí, že by ste niekedy prestali prijímať e-maily. Ak ich denne dostávate viac, než stihnete spracovať, je to ideálny predpoklad na prokrastináciu a&nbsp;neefektivitu.
 
 ![Algoritmy pre život – Words & Codes](/images/algorithm_words_codes_branislav_dudas.svg)
 
@@ -36,4 +36,5 @@ Podobne, po knihe Algoritmy pro život sa už tak netrápim organizáciou niekto
 
 A&nbsp;nakoniec je tu oslobodzujúce pochopenie, že niektoré problémy sa nedajú vyriešiť systémovo/algoritmami v&nbsp;čase, ktorý nášmu vesmíru ešte ostáva. Preto sa dnes na mnohé komplexné sub-optimálne problémy pozerám cez optiku postupnej optimalizácie, nie okamžitej&nbsp;dokonalosti.
 
-Knihu Algoritmy pro život: Jak využít počítačové algoritmy při každodenním rozhodování si môžete kúpiť priamo na stránke vydavateľa, kde je k&nbsp;dispozícii na papieri (efektívna voľba, ak chcete nadobudnúť a udržať maximum informácií), alebo na stiahnutie ako e-book. Audiokniha pravdepodobne pribudne&nbsp;čoskoro.
+Knihu Algoritmy pro život: Jak využít počítačové algoritmy při každodenním rozhodování si môžete kúpiť priamo na
+[stránke vydavateľa](https://www.melvil.cz/kniha-algoritmy-pro-zivot/), kde je k&nbsp;dispozícii na papieri (efektívna voľba, ak chcete nadobudnúť a udržať maximum informácií), alebo na stiahnutie ako e-book. Audiokniha pravdepodobne pribudne&nbsp;čoskoro.
