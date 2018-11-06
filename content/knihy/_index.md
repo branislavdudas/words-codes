@@ -18,9 +18,12 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu zatiaľ 40 kníh)
+## 2018 (spolu zatiaľ 43 kníh)
 
-[The Inferno – Dante Alighieri](#)  &bull;
+[The Miracle of Mindfulness: The Classic Guide to Meditation – Thich Nhat Hanh](#)  &bull;
+[Divine Comedy: Paradise – Dante Alighieri](#)  &bull;
+[Divine Comedy: Purgatory – Dante Alighieri](#)  &bull;
+[Divine Comedy: Inferno – Dante Alighieri](#)  &bull;
 [Reality Is Not What It Seems: The Journey to Quantum Gravity – Carlo Rovelli](#)  &bull;
 [Algorithms to Live By: The Computer Science of Human Decisions – Brian Christian, Tom Griffiths](#)  &bull;
 [Zen Flesh, Zen Bones – Paul Reps](#)  &bull;
