@@ -22,6 +22,7 @@ S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozpr�
 [**Exeltis**](http://www.exeltis.com/sk),
 [**Forbes**](https://www.forbes.sk/),
 [**Ford**](http://www.fordcentrum.sk),
+[**FUN Rádio**](https://www.funradio.sk),
 [**ITB&nbsp;Development**](https://www.itb.sk),
 [**Klarstein**](https://www.klarstein.sk),
 [**La&nbsp;Cité**](https://www.cite.sk),
@@ -30,11 +31,12 @@ S&nbsp;**Words&nbsp;&&nbsp;Codes** pomáham jednotlivcom a&nbsp;značkám rozpr�
 [**Mitická**](http://miticka.eu),
 [**Nadácia Pontis**](https://www.nadaciapontis.sk),
 [**Nadácia Volkswagen Slovakia**](http://www.nadacia-volkswagen.sk),
+[**Nota Bene**](https://www.notabene.sk),
 [**O2&nbsp;Business Services**](http://www.o2bs.sk),
 [**Pelikan**](https://www.pelikan.com/),
+[**SAP**](https://www.sap.com/sk/index.html),
 <a href="http://www.sapie.sk" style="font-variant:small-caps; font-weight:700;">Sapie</a>
-či
-[**Zľava&nbsp;dňa**](https://www.zlavadna.sk).
+či [**Zľava&nbsp;dňa**](https://www.zlavadna.sk).
 
 Aké príbehy hovoria klienti o mne?
 

@@ -11,15 +11,18 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 ## Práve čítam:
 
-[Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#) &bull;
-[The Histories – Herodotus, Tom Holland](#) &bull;
-[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#) &bull;
-[Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#) &bull;
-[Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
+- [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#);
+- [The Histories – Herodotus, Tom Holland](#);
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#);
+- [Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#);
+- [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu zatiaľ 43 kníh)
+## 2018 (spolu zatiaľ 46 kníh)
 
+[The Thousand Autumns of Jacob de Zoet – David Mitchell](#)  &bull;
+[The Effective Executive, 50th Anniversary Edition – Peter F. Drucker](#)  &bull;
+[The Denial of Death – Ernest Becker](#)  &bull;
 [The Miracle of Mindfulness: The Classic Guide to Meditation – Thich Nhat Hanh](#)  &bull;
 [Divine Comedy: Paradise – Dante Alighieri](#)  &bull;
 [Divine Comedy: Purgatory – Dante Alighieri](#)  &bull;
