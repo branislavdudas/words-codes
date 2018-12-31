@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://words.codes/blog/algoritmy-pre-zivot/</loc>
+    <lastmod>2018-10-29T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/knihy/</loc>
     <lastmod>2018-09-14T18:19:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -521,8 +528,14 @@
   </url>
   
   <url>
+    <loc>https://words.codes/blog/2019-01-01-knihy-2019/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/blog/</loc>
-    <lastmod>2018-09-12T17:00:00+00:00</lastmod>
+    <lastmod>2018-10-29T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -536,6 +549,13 @@
   <url>
     <loc>https://words.codes/categories/nezaraden%C3%A9/</loc>
     <lastmod>2018-09-12T17:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/categories/recenzie/</loc>
+    <lastmod>2018-10-29T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

@@ -13,13 +13,19 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 - [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#);
 - [The Histories – Herodotus, Tom Holland](#);
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#);
-- [Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#);
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2018 (spolu zatiaľ 46 kníh)
+## 2019 (spolu zatiaľ 0 kníh)
+Tento rok je zatiaľ prázdny. Dajte mi pár minút voľna a napravím to!
 
+## 2018 (spolu zatiaľ 52 kníh)
+[Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes](#) &bull;
+[Blindsight – Peter Watts](#) &bull;
+[The Bestseller Code: Anatomy of the Blockbuster Novel – Jodie Archer, Matthew L. Jockers](#) &bull;
+[Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#) &bull;
+[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#)  &bull;
+[Creative Confidence: Unleashing the Creative Potential Within Us All – David M. Kelley, Tom Kelley](#)   &bull;
 [The Thousand Autumns of Jacob de Zoet – David Mitchell](#)  &bull;
 [The Effective Executive, 50th Anniversary Edition – Peter F. Drucker](#)  &bull;
 [The Denial of Death – Ernest Becker](#)  &bull;
@@ -36,7 +42,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [21 Insights for 21st Century Creatives – Mark McGuinness](#)  &bull;
 [Star Maker – Olaf Stapledon](#)  &bull;
 [21 Lessons for the 21st Century – Yuval Noah Harari](#)  &bull;
-[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body – Daniel Coleman, Richard J. Davidson](#)  &bull;
+[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body – Daniel Goleman, Richard J. Davidson](#)  &bull;
 [The Collected Songs of Cold Mountain – Cold Mountain (Han Shan), Red Pine](#)  &bull;
 [The Dhammapada – Gil Fronsdal](#)  &bull;
 [One Robe, One Bowl: The Zen Poetry of Ryokan – John Stevens](#)  &bull;
