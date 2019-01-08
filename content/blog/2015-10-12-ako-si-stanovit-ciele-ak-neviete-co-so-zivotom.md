@@ -58,42 +58,40 @@ Racionalita je tiež schopnosť robiť kompromisy medzi protichodnými cieľmi. 
 
 Získavanie zdrojov je cieľ, ktorý si ľudia často dávajú bez toho, aby si uvedomili, že je to cieľ inštrumentálny. Práve po ňom sa zvyčajne dostaví tá nepríjemná otázka: Hotovo! A čo teraz? Zvyčajný cieľ je mať na účte x miliónov. Ale peniaze, aj keď sú dôležité, nie sú zdrojom hodnoty, hodnotu len reprezentujú. Zdroje, ktoré sa podľa mňa oplatí získavať sú:
 
-- Čas
+**Čas:**
 Asi najviac obmedzujúci faktor. Zatiaľ nemôžeme urobiť takmer nič, aby sme ho mali viac. Preto sa treba snažiť míňať ho čo najefektívnejšie obmedziť alebo eliminovať zbytočnosti.
 
-- Priestor
+**Priestor:**
 Okrem priestoru na manévrovanie a životného priestoru, je tu ešte priestor ako ukazovateľ spoločenského postavenia. Vysoko postavení ľudia si udržiavajú (alebo dostávajú) viac osobného priestoru. Netlačia sa v dave. Ich vysoké postavenie im tiež umožňuje vstúpiť do cudzieho osobného priestoru bez toho, aby vyvolali obrannú reakciu. Niečo podobné platí aj pre čas. Ak mám viac osobného priestoru rozmýšľam veľkolepejšie.
 
-- Energia
+**Energia:**
 Pre naše fungovanie je v prvom rade dôležitá telesná energia. Tú získavame jedlom, v podobe kalórií. Po niektorých jedlách sa ale cítime plní energie, po iných sa nám chce spať, preto platí, že by sme sa mali stravovať zdravo. Naše baterky si však nabíjame aj odpočinkom, či už v podobe spánku alebo relaxu, chemickými povzbudeniami &#8211; kávou, čajom, čokoládou, pohybom, pobytom na slnku, pitným režimom, sexom a pod.
 
-- Informácie a skúsenosti
+**Informácie a skúsenosti:**
 Rozdiel medzi informáciou a údajom je v tom, že informácia má pre prijímateľa význam. To znamená, že na jej základe môže niečo urobiť, rozhodnúť sa, alebo ju nejako použiť. Čím viac pravdivých informácií máme, tým jednoduchšie sa vieme pomocou vyššie spomenutej racionality hýbať smerom k tomu, čo chceme.
 
-- Pamäť
+**Pamäť:**
 Aj keď presne nepoznáme kapacitu ľudského mozgu, pravdepodobne to bude veľmi vysoké číslo. Dôležitejšia je naša pracovná pamäť (working memory), ktorá určuje rozsah informácií, s ktorým vieme okamžite pracovať. Napríklad, či si dokážem zapamätať telefónne číslo, ktoré mi niekto pred chvíľou nadiktoval a popri tom robiť ešte niečo iné, napríklad počítať príklady. Alebo ako rýchlo mi potrvá, kým sa naučím naspamäť nákupný zoznam. Pamäť sa dá pomerne jednoducho vylepšiť tréningom.
 
-- Sila vôle
+**Sila vôle:**
 Hovorí sa, že sila vôle je ako sval, ak ju používame pravidelne, je silnejšia, ale ak ju používame príliš často, unaví sa. Ak sa budem celý deň nútiť do niečoho, čo robiť nechcem, pravdepodobne večer už nebudem mať dosť sily aby som si odoprel čokoládový koláč. Ale to nie je jediný spôsob akým je sila vôle zdroj. Podľa najnovších výskumov je časť mozgu, ktorá je zodpovedná za prejavy vôle zodpovedná aj za pamäť. Preto ak vyhradíme veľkú časť našej mozgovej kapacity na odopieranie si, ostane málo miesta na nové spomienky. Preto je dôležité snažiť sa predvídať okolnosti tak, aby sme v priebehu dňa museli so sebou zápasiť čo najmenej.
 
-- Kognitívna kapacita / pozornosť
+**Kognitívna kapacita / pozornosť:**
 Všetko, čo náš mozog zaznamená, aj spracuje. Či je to pesnička, ktorú práve hrajú v rádiu, reklama pri ceste, kolegova nová voňavka, všetko treba pretlačiť cez filter a vyhodnotiť. To však predstavuje enormnú záťaž. Preto sme po dni plnom nových podnetov takí unavení. Ak chceme, aby nám na dôležité veci ostalo dosť mentálnej kapacity, mali by sme zo svojho okolia odstrániť neželané signály. Lenže moja kognitívna kapacita nie je jediná, ktorú viem využiť. Pred pár dňami som čítal, že vraj náš vzdelávací systém je nástrojom, ktorým korporácie pripravujú mozgy detí na to, aby v dospelosti mohli ťažiť ich kognitívne schopnosti. Či je to pravda, alebo nie, aj mozgy iných ľudí sú cenný zdroj.
 
 >Moju koncentráciu nič neprelomí. V mojej kancelárii by sa mohli konať orgie a ani by som nedvihol hlavu. No, možno raz.
 ><footer>Isaac Asimov</footer>
 
 
-- Najnovšie technológie
-
+**Najnovšie technológie:**
 Technológie, ak sú používané správne, nám uľahčujú prácu. Ak sa potrebujem dostať na opačnú stranu Zeme, technológia lietadlo je pre mňa cennejší zdroj, ako technológia bicykel. Pri **racionálnom** využívaní platí, že čím je technológia novšia, tým je efektívnejšia.
 
-- Všeobecne cenné zdroje
-
+**Všeobecne cenné zdroje:**
 Tu sa nachádza všetko, čo pre mňa nemá priamy význam, ale pre niekoho iného áno, takže to môžem predať, alebo vymeniť za cennejší zdroj.
 
 Niektoré zdroje môžem medzi sebou zamieňať v závislosti od toho, ktorý ma pre mňa vyššiu cenu. Napríklad energia a čas. Ak mám málo energie, obetujem čas, aby som si zdriemol. Ak vidím, že nestíham autobus a mám málo času a veľa energie, tak sa za ním rozbehnem. Ak je to naopak, počkám na ďalší. Alebo, ak chcem peniaze, obetujem im čas a energiu a idem do práce. Ak mám peniaze a chcem získať čas a energiu, najmem si niekoho, aby robil moju prácu za mňa.
 
-## 5. Užitočnosť</strong>
+## 5. Užitočnosť
 Užitočnosť je jednoduchá, treba robiť to, čo prináša želaný výsledok v dostatočnej kvalite. Treba si však dať pozor na klesajúcu hraničnú užitočnosť a falošnú užitočnosť.
 
 Klesajúca hraničná užitočnosť činnosti je keď robím niečo v takej miere, že už to neprináša výsledky (alebo začne škodiť, ako v grafe s hormézou). Ak som prechladnutý a snažím sa z toho dostať čo najskôr, tak si dám vitamín C. Ale ak si dám pol kila céčka, tak to bude mať rovnaký efekt, ako keď si dám jeden gram. Zvyšok skončí v záchode.
@@ -107,19 +105,24 @@ Niečo podobné robia aj ľudia. Vyvinuli sme sa tak, aby sme vykonávali tie č
 V skratke stačí robiť veci dosť dobre (good enough) a nezabíjať čas pokusmi o dokonalosť. Vyvarovať sa falošnej užitočnosti a vecí, ktoré pretáčajú moje počítadlo bez toho, aby mali skutočný pozitívny dopad na môj život.
 
 ## 6. Uchovávanie a šírenie hodnôt
-
 Prečo by mi malo záležať na tom, aby niekto iný prijal moje hodnoty? Pretože, za akýmkoľvek cieľom idem, je jednoduchšie, ak mi budú ľudia pomáhať, ak už nájdem vyšliapanú cestičku, než ako by mi mali stáť v ceste. Ak sa snažím žiť zdravo a moji priatelia jedávajú vo fastfoodoch, budem to mať ťažšie, ako keby boli nadšenci zdravého životného štýlu. Moderná múdrosť hovorí, že človek je priemerom piatich osôb, s ktorými trávi najviac času. Ak sa mi podarí motivovať ľudí okolo mňa, aby boli takí, aký chcem byť ja, tak budú pre mňa partnermi a motiváciou. Skoro ako keď sa barón Prášil vytiahol z močiaru za vlastný vrkoč. Aj s koňom.
 
 ## Záver
-
 Je jedno, či má človek vopred stanovené denné ciele na najbližších sedem rokov, alebo žije podľa (mojej) stratégie &#8222;riaď sa emergentnými stratégiami, vždy, keď sa objaví zaujímavá príležitosť, treba po nej skočiť. Vtedy už je často neskoro začať na sebe pracovať. Preto si myslím, že inštrumentálne ciele, ktoré som tu (zdĺhavo a predsa v skratke) vypísal majú zmysel pre každého, kto chce niečo dosiahnuť. Či už práve tuší, čo je to to niečo alebo nie.
 
 ### PS: Knihy, za ktoré sa viem zaručiť a mohli by byť užitočné:
-- <a href="http://www.amazon.com/gp/product/0312430000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=branislavduda-20&linkId=ITRFMPMSUDG2MN3L&quot;>The Checklist Manifesto: How to Get Things Right</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0312430000" target="_blank">Atul Gawande &#8211; The Checklist Manifesto: How to Get Things Right</a> &#8211; Ak si chcete ušetriť kognitívnu kapacitu a zároveň si naplánovať časti dňa tak, aby ste sa vyhli neželaným odbočkám, checklisty sú super vec.
-- <a href="http://www.amazon.com/gp/product/1455527440/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455527440&linkCode=as2&tag=branislavduda-20&linkId=S5NOTVUCABXK2LSW&quot;>Spring Chicken: Stay Young Forever (or Die Trying)</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=1455527440" target="_blank">Bill Gifford &#8211; Spring Chicken: Stay Young Forever</a> &#8211; Cesta jedného žurnalistu za večnou mladosťou
-- <a href="http://www.amazon.com/gp/product/0241971543/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0241971543&linkCode=as2&tag=branislavduda-20&linkId=Q5D66IGW3UQGTSG7&quot;>Stuffocation</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0241971543" target="_blank">James Wallman &#8211; Stuffocation</a> &#8211; O tom ako obmedziť svoju závislosť na rôznych, najmä materiálnych, zdrojoch
-- <a href="http://www.amazon.com/gp/product/161168255X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=161168255X&linkCode=as2&tag=branislavduda-20&linkId=UIPQIJGL2S6CSOTS&quot;>The Infinite Resource: The Power of Ideas on a Finite Planet</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=161168255X" target="_blank">Ramez Naam &#8211; The Infinite Resource: The Power of Ideas on a Finite Planet</a> &#8211; Myšlienky a inovácie sú najcennejšia komodita
-- <a href="http://www.amazon.com/gp/product/039306848X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039306848X&linkCode=as2&tag=branislavduda-20&linkId=WCYJUP3VXB5AN63D&quot;>Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=039306848X" target="_blank">Deirdre Barrett &#8211; Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</a> &#8211; V dnešnej dobe hojnosti nám naše evolučne dané potreby zatemňujú mozog
-- <a href="http://www.amazon.com/gp/product/0316113514/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316113514&linkCode=as2&tag=branislavduda-20&linkId=BX635NDCYCS4DDUE&quot;>Spark: The Revolutionary New Science of Exercise and the Brain</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0316113514" target="_blank">John J. Ratey &#8211; Spark: The Revolutionary New Science of Exercise and the Brain</a> &#8211; O tom, aký vplyv má cvičenie na ľudský mozog (Spoiler: pozitívny)
-- <a href="http://www.amazon.com/gp/product/0374533555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=branislavduda-20&linkId=72LOE7FKROAY2IOK&quot;>Thinking, Fast and Slow</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0374533555" target="_blank">Daniel Kahneman &#8211; Thinking, Fast and Slow</a> a <a href="http://www.amazon.com/gp/product/0061353248/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061353248&linkCode=as2&tag=branislavduda-20&linkId=GPWDWQ4WV4XE4YNZ&quot;>Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0061353248" target="_blank">Dan Ariely &#8211; Predictably Irrational: The Hidden Forces That Shape Our Decisions</a> &#8211; O tom, ako si myslíme, že sme racionálni, aj keď nie sme
-- <a href="http://www.amazon.com/gp/product/B00ULP6EW2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ULP6EW2&linkCode=as2&tag=branislavduda-20&linkId=SFBHNJOODWHYCAOU&quot;>Rationality: From AI to Zombies</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=B00ULP6EW2" target="_blank">Eliezer Yudkowsky &#8211; Rationality: From AI to Zombies</a> &#8211; Šialene dlhá rukoväť racionality. Super myšlienky, ale nie každému bude asi vyhovovať štýl, akým je to písané. (Čo je asi irelevantné a iracionálne, keďže sú tam super myšlienky.) Do slovenčiny to preložil Vilo Búr a poskytol to <a href="http://bur.sk/share/2015/RozumnostAZ.pdf" target="_blank">na stiahnutie</a>.
+<b><a href="http://www.amazon.com/gp/product/0312430000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=branislavduda-20&linkId=ITRFMPMSUDG2MN3L&quot;>The Checklist Manifesto: How to Get Things Right</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0312430000" target="_blank">Atul Gawande &#8211; The Checklist Manifesto: How to Get Things Right</a></b> &#8211; Ak si chcete ušetriť kognitívnu kapacitu a zároveň si naplánovať časti dňa tak, aby ste sa vyhli neželaným odbočkám, checklisty sú super vec.
+
+<b><a href="http://www.amazon.com/gp/product/1455527440/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455527440&linkCode=as2&tag=branislavduda-20&linkId=S5NOTVUCABXK2LSW&quot;>Spring Chicken: Stay Young Forever (or Die Trying)</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=1455527440" target="_blank">Bill Gifford &#8211; Spring Chicken: Stay Young Forever</a></b> &#8211; Cesta jedného žurnalistu za večnou mladosťou
+
+<b><a href="http://www.amazon.com/gp/product/0241971543/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0241971543&linkCode=as2&tag=branislavduda-20&linkId=Q5D66IGW3UQGTSG7&quot;>Stuffocation</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0241971543" target="_blank">James Wallman &#8211; Stuffocation</a></b> &#8211; O tom ako obmedziť svoju závislosť na rôznych, najmä materiálnych, zdrojoch
+
+<b><a href="http://www.amazon.com/gp/product/161168255X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=161168255X&linkCode=as2&tag=branislavduda-20&linkId=UIPQIJGL2S6CSOTS&quot;>The Infinite Resource: The Power of Ideas on a Finite Planet</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=161168255X" target="_blank">Ramez Naam &#8211; The Infinite Resource: The Power of Ideas on a Finite Planet</a></b> &#8211; Myšlienky a inovácie sú najcennejšia komodita
+
+<b><a href="http://www.amazon.com/gp/product/039306848X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039306848X&linkCode=as2&tag=branislavduda-20&linkId=WCYJUP3VXB5AN63D&quot;>Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=039306848X" target="_blank">Deirdre Barrett &#8211; Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</a></b> &#8211; V dnešnej dobe hojnosti nám naše evolučne dané potreby zatemňujú mozog
+
+<b><a href="http://www.amazon.com/gp/product/0316113514/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316113514&linkCode=as2&tag=branislavduda-20&linkId=BX635NDCYCS4DDUE&quot;>Spark: The Revolutionary New Science of Exercise and the Brain</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0316113514" target="_blank">John J. Ratey &#8211; Spark: The Revolutionary New Science of Exercise and the Brain</a></b> &#8211; O tom, aký vplyv má cvičenie na ľudský mozog (Spoiler: pozitívny)
+
+<b><a href="http://www.amazon.com/gp/product/0374533555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=branislavduda-20&linkId=72LOE7FKROAY2IOK&quot;>Thinking, Fast and Slow</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0374533555" target="_blank">Daniel Kahneman &#8211; Thinking, Fast and Slow</a></b> a <b><a href="http://www.amazon.com/gp/product/0061353248/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061353248&linkCode=as2&tag=branislavduda-20&linkId=GPWDWQ4WV4XE4YNZ&quot;>Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=0061353248" target="_blank">Dan Ariely &#8211; Predictably Irrational: The Hidden Forces That Shape Our Decisions</a></b> &#8211; O tom, ako si myslíme, že sme racionálni, aj keď nie sme
+
+<b><a href="http://www.amazon.com/gp/product/B00ULP6EW2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ULP6EW2&linkCode=as2&tag=branislavduda-20&linkId=SFBHNJOODWHYCAOU&quot;>Rationality: From AI to Zombies</a><img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=branislavduda-20&l=as2&o=1&a=B00ULP6EW2" target="_blank">Eliezer Yudkowsky &#8211; Rationality: From AI to Zombies</a></b> &#8211; Šialene dlhá rukoväť racionality. Super myšlienky, ale nie každému bude asi vyhovovať štýl, akým je to písané. (Čo je asi irelevantné a iracionálne, keďže sú tam super myšlienky.) Do slovenčiny to preložil Vilo Búr a poskytol to <a href="http://bur.sk/share/2015/RozumnostAZ.pdf" target="_blank">na stiahnutie</a>.
