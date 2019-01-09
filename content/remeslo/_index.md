@@ -67,4 +67,4 @@ Mám skúsenosti s&nbsp;marketingom, komunikáciou, PR a&nbsp;psychológiou a&nb
 <a name="kreativita">![Kreativita na objednávku od Words & Codes](/images/adhoc.svg)</a>
 
 ## Nápady na počkanie, kreativita na objednávku
-Potrebujete kreatívca do tímu, ale neuživíte ho päť dní v&nbsp;týždni? Plánujete interný brainstorming ale chýba vám externá iskra? Som vám k dispozícii ako ad&nbsp;hoc kreatívec a&nbsp;súčasť firemnej kreatívy. [**Objednajte&nbsp;si&nbsp;ma.**](mailto:branislav.dudas@gmail.com)
+Potrebujete kreatívca do tímu, ale neuživíte ho päť dní v&nbsp;týždni? Plánujete interný brainstorming, ale chýba vám externá iskra? Som vám k dispozícii ako ad&nbsp;hoc kreatívec a&nbsp;súčasť firemnej kreatívy. [**Objednajte&nbsp;si&nbsp;ma.**](mailto:branislav.dudas@gmail.com)
