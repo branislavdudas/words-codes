@@ -36,5 +36,5 @@ Podobne, po knihe Algoritmy pro život sa už tak netrápim organizáciou niekto
 
 A&nbsp;nakoniec je tu oslobodzujúce pochopenie, že niektoré problémy sa nedajú vyriešiť systémovo/algoritmami v&nbsp;čase, ktorý nášmu vesmíru ešte ostáva. Preto sa dnes na mnohé komplexné sub-optimálne problémy pozerám cez optiku postupnej optimalizácie, nie okamžitej&nbsp;dokonalosti.
 
-Knihu Algoritmy pro život: Jak využít počítačové algoritmy při každodenním rozhodování si môžete kúpiť priamo na
-[stránke vydavateľa](https://www.melvil.cz/kniha-algoritmy-pro-zivot/), kde je k&nbsp;dispozícii na papieri (efektívna voľba, ak chcete nadobudnúť a udržať maximum informácií), alebo na stiahnutie ako e-book. Audiokniha pravdepodobne pribudne&nbsp;čoskoro.
+Knihu Algoritmy pro život: Jak využít počítačové algoritmy při každodenním rozhodování si môžete kúpiť v
+[Martinuse](https://www.martinus.sk/?uItem=277388&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner), kde je k&nbsp;dispozícii na papieri (efektívna voľba, ak chcete nadobudnúť a udržať maximum informácií), alebo [na stiahnutie ako e-book](https://www.martinus.sk/?uItem=295791&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner). Audiokniha pravdepodobne pribudne&nbsp;čoskoro.
