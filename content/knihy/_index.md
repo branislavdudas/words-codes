@@ -16,8 +16,8 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2019 (spolu zatiaľ 0 kníh)
-Tento rok je zatiaľ prázdny. Dajte mi pár minút voľna a napravím to!
+## 2019 (spolu zatiaľ 1 kniha)
+[Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling](https://www.martinus.sk/?uItem=308832&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner) &bull;
 
 ## 2018 (spolu zatiaľ 52 kníh)
 [Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes](#) &bull;
