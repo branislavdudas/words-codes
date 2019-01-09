@@ -34,7 +34,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Divine Comedy: Purgatory – Dante Alighieri](#)  &bull;
 [Divine Comedy: Inferno – Dante Alighieri](#)  &bull;
 [Reality Is Not What It Seems: The Journey to Quantum Gravity – Carlo Rovelli](#)  &bull;
-[Algorithms to Live By: The Computer Science of Human Decisions – Brian Christian, Tom Griffiths](#)  &bull;
+[Algorithms to Live By: The Computer Science of Human Decisions – Brian Christian, Tom Griffiths](https://words.codes/blog/algoritmy-pre-zivot/)  &bull;
 [Zen Flesh, Zen Bones – Paul Reps](#)  &bull;
 [Technic and Magic: The Reconstruction of Reality – Federico Campagne](#)  &bull;
 [Zen Mind, Beginner’s Mind – Shunryu Suzuki](#)  &bull;
