@@ -54,7 +54,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
   @media all and (max-width: 520px) {
     :root {
       --text-big: 5vw;
-      --text-small: 4vw;
+      --text-small: 4.5vw;
     }
   }
   
@@ -279,7 +279,12 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
     }
   
     .homepage > blockquote {
-      font-size: 4vw;
+      font-size: 4.5vw;
+      width: 100%;
+    }
+
+    .homepage {
+      width: 90vw;
     }
   }
   
@@ -287,7 +292,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
   ul {
     padding-left: 0;
     list-style-position: outside;
-    line-height: 1;
+    line-height: var(--line-height);
     font-size: var(--text-big);
   }
   
