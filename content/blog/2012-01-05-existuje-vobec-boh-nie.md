@@ -6,7 +6,7 @@ date: 2012-01-05T18:19:52+00:00
 url: /blog/existuje-vobec-boh-nie/
 categories:
   - Nezaradené
-
+description: Boží blud je kniha, ktorá odštartovala môj postupný prerod z veriaceho na ateistu. Presvedčí Richard Dawkins aj vás?
 ---
 Je náboženstvo potrebné? Pochádza ľudská morálka od boha? Existuje vôbec boh? Nie. Teda aspoň podľa knihy Boží blud (The God Delusion) od Richarda Dawkinsa, evolučného biológa z Oxfordu a Berkeley.
 
