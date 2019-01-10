@@ -8,7 +8,7 @@ url: /remeslo/
 og_image: 
 ---
 # Remeslo
-Remeslo má zlaté dno. Ale prečo sa držať pri dne, keď môžete byť na vrchole? S kreatívnym copywritingom a&nbsp;efektívnymi a&nbsp;efektnými contentovými stratégiami sa tam dostanete&nbsp;rýchlejšie. Ponúkam vám:
+Remeslo má zlaté dno. Ale prečo sa držať pri dne, keď môžete byť na vrchole? S kreatívnym copywritingom a&nbsp;efektívnymi a&nbsp;efektnými contentovými stratégiami sa tam dostanete rýchlejšie. Ponúkam&nbsp;vám:
 
 <p style="text-align: center;">
 <a href="#copywriting"><b>Copywriting</b></a> – 
