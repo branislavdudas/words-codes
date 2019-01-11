@@ -6,7 +6,7 @@ date: 2012-01-23T18:16:08+00:00
 url: /blog/budhisticky-mnich-m-prodaj-niekedy-sa-stane-ze-ruka-vystreli/
 categories:
   - Nezaradené
-
+description: Rozhovor so slovenským lektorom, koučom a bývalým budistickým mníchom o živote v kláštore i na Slovensku, o meditácii aj hypotékach.
 ---
 **Budhizmus začal praktikovať už ako teenager. Po ukončení štúdia odišiel na Srí Lanku, vstúpil do kláštora a pol roka sa venoval meditácii. Dnes tvrdí, že kvôli svetským záležitostiam mu na ňu už neostáva veľa času. Na otázky o budhizme, živote v kláštore aj vyrovnanom životnom štýle odpovedá lektor a kouč PaedDr. Martin Prodaj.**
 

@@ -6,7 +6,7 @@ date: 2015-03-09T14:01:59+00:00
 url: /blog/o-podstate-vztahov-a-o-tom-co-ma-naucila-nova-spolubyvajuca/
 categories:
   - Nezaradené
-
+description: Narodila sa mi dcéra. A aj keď by som v našom vzťahu mal dávať lekcie ja, tú najcennejšiu životnú múdrosť som dostal od nej. 
 ---
 Už pár mesiacov sa delím o izbu s novou spolubývajúcou. Vlastne nie len o izbu, ale aj o spánok a manželku. Priestorovo je veľmi kompaktná (nová spolubývajúca, ale aj manželka), ale vyžaduje si špeciálny režim (detto). A tiež je to malé dieťa.
 

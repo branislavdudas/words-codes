@@ -6,7 +6,7 @@ date: 2012-02-06T19:36:23+00:00
 url: /blog/preco-nechcem-byt-politikom/
 categories:
   - Nezaradené
-
+description: Krátka meditácia o rozdielnych aspektoch života v politike a v popularizácii vedy od Neila deGrasse Tysona.
 ---
 Najprv som chcel o politike a ekonómii písať, ale nestačilo by mi to. Chcel som udalosti tvoriť. Preto som sa nasmeroval na budúcnosť v politike. Dnes už nechcem ani to. Rozhovory s ľuďmi, dôvody ich volebných rozhodnutí (“&#8230;lebo je vtipný, keď je ožratý&#8230;”), súčasné politické dianie a zamýšľanie sa nad sebou postupne dusili môj zápal. Svoju budúcnosť idem hľadať inam.<!--more-->
 

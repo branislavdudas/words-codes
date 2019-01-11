@@ -6,7 +6,7 @@ date: 2012-02-05T14:26:48+00:00
 url: /blog/strucna-historia-takmer-vsetkeho/
 categories:
   - Nezaradené
-
+description: Príjemná kniha o prírodných vedách naprieč históriou sveta i ľudstva. Zaujímavé čítanie o kozmológii, astronómi, fyzike, biológii či chémii.
 ---
 Pred pár rokmi som v kníhkupectve narazil na knihu Stručná historie téměř všeho. Nadutá predstava o mojich vedomostiach ma nenechala na pochybách o tom, že kniha bude povrchne spracovaná, veď Hawkingova stručná história času je rozsahom asi polovičná a má v názve len čas. A táto kniha má v názve všetko. O všetkom sa nedá písať stručne. Takže som ju tam nechal ležať a zabudol som.
 

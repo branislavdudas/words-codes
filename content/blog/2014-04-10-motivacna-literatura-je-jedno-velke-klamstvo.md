@@ -6,7 +6,7 @@ date: 2014-04-10T05:00:05+00:00
 url: /blog/motivacna-literatura-je-jedno-velke-klamstvo/
 categories:
   - Nezaradené
-
+description: Mám problém s motivačnou literatúrou. Nefunguje, je zle napísaná a navyše zastiera niečo, čo už všetci vieme, ale nechceme priznať.
 ---
 Knihy zamerané na produktivitu, motiváciu a osobnostný rozvoj sú každým dňom populárnejšie. Kto by nechcel zvládať svoje povinnosti rýchlejšie, zbavovať sa zlozvykov a nahrádzať ich niečím užitočným, produktívnym a zdravým? Ak je možné aktualizovať svoj mozog na novšiu, lepšiu verziu investovaním pätnástich eur a pár hodinami čítania, nie je o čom diskutovať. Žiaľ, po pár dňoch začne nový náter opadávať a človek je tam, kde bol, chudobnejší o pár hodín a eur, bohatší o výčitky, že nebol schopný dodržať to, čo si zaumienil. Krajších zajtrajškov sa však nikto nevzdá bez boja. Ďalšie kroky tak zvyčajne vedú späť do kníhkupectva, k superinflačnej polici s motivačnou a self-help literatúrou, k novinke, v ktorej je s najväčšou pravdepodobnosťou napísaná presne tá istá obohratá myšlienka. Síce inými slovami, ale rovnako roztiahnutá na tristopäťdesiat strán rovnako znejúceho textu krúžiaceho okolo kľúčovej metafory, ktorá by sa zmestila na pohľadnicu.
 

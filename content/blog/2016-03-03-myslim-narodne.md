@@ -6,7 +6,7 @@ date: 2016-03-03T13:07:44+00:00
 url: /blog/myslim-narodne/
 categories:
   - Nezaradené
-
+description: Zamyslenie sa o podstate abstraktného konceptu národa a národnej hrdosti v ľuďoch, ktorí nemajú nič iné na čo by mohli byť hrdí. 
 ---
 Celý koncept národa mi akosi uniká. Teóriu poznám, &#8230;spoločenstvo ľudí, spoločná história, kultúra, jazyk… v živote som sa ale s národom nestretol. Ako sa hovorí, v teórii nie je rozdiel medzi teóriou a praxou, ale v praxi áno.<!--more-->
 

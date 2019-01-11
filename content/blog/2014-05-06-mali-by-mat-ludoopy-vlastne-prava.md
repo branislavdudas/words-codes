@@ -6,7 +6,7 @@ date: 2014-05-06T04:38:27+00:00
 url: /blog/mali-by-mat-ludoopy-vlastne-prava/
 categories:
   - Nezaradené
-
+description: Ak si uvedomujú sami seba a sú schopní abstrakcie, nemajú to, čo sme doteraz považovali za dôvod udeliť ľudské práva? Aký inteligentný musí byť šimpanz aby jeho zabitie bolo považované za vraždu?
 ---
 Je iróniou, že s právami pre ľudoopy prišli práve v Španielsku, krajine sadistických býčích zápasov. A predsa. Iróniou je aj to, že píšem tento článok pre obyvateľov krajiny, ktorá neposkytuje niektorým menšinám rovnaké práva ako väčšine. A predsa.
 

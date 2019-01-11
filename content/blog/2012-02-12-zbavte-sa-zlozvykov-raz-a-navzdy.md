@@ -6,7 +6,7 @@ date: 2012-02-12T15:23:24+00:00
 url: /blog/zbavte-sa-zlozvykov-raz-a-navzdy/
 categories:
   - Nezaradené
-
+description: Praktické návody ako sa zbaviť zlozvykov a ako si pestovať dobré návyky. Presne to nájdete v knihe Made to Stick od Chipa a Dana Heathovcov.
 ---
 Pokúšali ste sa už naučiť manžela, aby po sebe naspäť sklopil dosku na záchode? Deti upratovať izbu? Kolegov prinútiť vypĺňať tlačivá? Seba prestať fajčiť? Neúspešne? Ak áno, stavím sa s vami, že inšpirácie a návody ako to dotiahnuť do úspešného konca nájdete v knihe Proměna.<!--more-->
 

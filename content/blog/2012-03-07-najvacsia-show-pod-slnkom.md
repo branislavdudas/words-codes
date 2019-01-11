@@ -6,7 +6,7 @@ date: 2012-03-07T18:49:22+00:00
 url: /blog/najvacsia-show-pod-slnkom/
 categories:
   - Nezaradené
-
+description: O reálnosti evolúcie v lovenských podmienkach pochybuje asi málokto, ale zaujímavejšie než Richard Dawkins o nej nevie písať nikto.
 ---
 Richard Dawkins je profesor biológie. Nie len takej všeobecnej biológie ale evolučnej biológie. Sám seba označuje za militantného ateistu a tvrdo pracuje na tom, aby ľudí presvedčil o pravej podstate vecí. A nemá to ľahké, veď na jeho kľúčových trhoch má mnoho odporcov. Takmer polovica Američanov a pätina Britov verí tomu, že naša malá bledomodrá planéta bola vytvorená pred cca. 10 000 rokmi a ľudia kráčali po Zemi po boku dinosaurov.
 

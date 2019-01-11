@@ -6,7 +6,7 @@ date: 2014-06-10T05:01:50+00:00
 url: /blog/preco-som-ateista/
 categories:
   - Nezaradené
-
+description: Osobná výpoveď chalana, ktorý sa aj napriek poctivej náboženskej výchove takmer sám skonvertoval na ateistu.
 ---
 Vyrastal som v mierne náboženskom prostredí. Do kostola sme síce chodili každú nedeľu, ale nikdy nebol problém vytratiť sa pred koncom, aby sme potom nestáli v rade v potravinách, alebo na zmrzline. Alebo, ak som sa posťažoval na &#8222;zlý vzduch&#8220;, mohol som sa ísť namiesto počúvania kázne prejsť von na cintorín. Cintoríny som mal vždy rád. Je tam pokoj a sú plné ľudí, ktorí si niečo zažili, vedeli by rozprávať a predsa múdro mlčia. To mám rád. <!--more-->
 

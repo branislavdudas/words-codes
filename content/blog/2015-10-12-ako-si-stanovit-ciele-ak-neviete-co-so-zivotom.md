@@ -6,7 +6,7 @@ date: 2015-10-12T05:10:29+00:00
 url: /blog/ako-si-stanovit-ciele-ak-neviete-co-so-zivotom/
 categories:
   - Nezaradené
-
+description: Stanoviť si tie správne ciele je dôležité. Ale ako nato, ak neviete kam sa chcete v živote dostať? Nezúfajte a nestojte na mieste. Sú cesty, po ktorých sa oplatí ísť vždy.
 ---
 Na výške som pravidelne počúval, aké je dôležité stanoviť si tie správne ciele. Samozrejme tým mysleli správne formulované, nie správne zvolené. Je veľmi dôležité, aby bol cieľ merateľný, konkrétny, dosiahnuteľný, reálny a časovo ohraničený. Najmä ak sa potrebujete nechať niekým skontrolovať. Ale stanoviť si ten správny cieľ, s tým som vždy zápasil. A zápasím dodnes.
 

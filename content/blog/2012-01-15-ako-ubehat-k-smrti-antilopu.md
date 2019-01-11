@@ -6,7 +6,7 @@ date: 2012-01-15T16:59:00+00:00
 url: /blog/ako-ubehat-k-smrti-antilopu/
 categories:
   - Nezaradené
-
+description: Zamýšlali ste sa niekedy nad tým, ako ľudia lovili v dobách, keď sa ešte nepoužívali nástroje? Prečo majú ľudia po behu dobrý pocit? Alebo či by ste zvládli zabehnúť ultramaratón? Ja nikdy. Až kým som nenašiel knihu Born to Run.
 ---
 Zamýšlali ste sa niekedy nad tým, ako ľudia lovili v dobách, keď sa ešte nepoužívali nástroje? Prečo majú ľudia po behu dobrý pocit? Alebo či by ste zvládli zabehnúť ultramaratón?
 

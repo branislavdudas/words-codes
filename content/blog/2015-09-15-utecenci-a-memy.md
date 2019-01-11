@@ -6,7 +6,7 @@ date: 2015-09-15T07:08:09+00:00
 url: /blog/utecenci-a-memy/
 categories:
   - Nezaradené
-
+description: Predstavujú utečenci riziko pre bežného Slováka? A čo skutočne zničí Európu a jej civilizáciu? Možno to budeme my sami.
 ---
 Nie je tomu dávno, čo z Afriky vyrazila mladá rodina. Žena a dieťa. Dievčatko. Pôvodne bol s nimi aj muž, ale cesta sa mu stala osudnou. Našťastie neboli sami, spolu s nimi sa na nebezpečnú cestu vydala aj širšia rodina. Kým táto konkrétna rodina si zvolila cestu po súši, iní pred nimi aj po nich skúšali šťastie na plavidlách, na ktoré by nikto z nás dobrovoľne nenastúpil. Ťažko povedať, či mali niekedy cieľ konkrétnejší ako ísť za lepším životom. Keď to už ďalej nešlo, zastavili. Miestnym obyvateľom sa to samozrejme nepáčilo. Niektorí boli agresívni. Vykrikovali a hádzali kamene. Iní si zvykli rýchlo a prijali cudzincov medzi seba. Našťastie dieťa to prežilo. To dieťa, milý čitateľ, bola tvoja babka.
 

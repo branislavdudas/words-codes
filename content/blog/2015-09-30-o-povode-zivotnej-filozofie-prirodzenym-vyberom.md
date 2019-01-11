@@ -6,7 +6,7 @@ date: 2015-09-30T05:47:43+00:00
 url: /blog/o-povode-zivotnej-filozofie-prirodzenym-vyberom/
 categories:
   - Nezaradené
-
+description: Životná filozofia je mocná zbraň, ktorá nám umožní ustáť mnohé. Ako si ale vybrať takú, ktorá bude funkčná, efektívna, prinesie človeku šťastie a nebude založená na klamstve?
 ---
 Existuje mnoho &#8222;zaručených&#8220; návodov, ako na život. Ľudia, ktorí žijú v rovnakých podmienkach majú veľmi podobné návody. Je to preto, lebo tí, ktorí sa riadili zvláštnymi pravidlami neprežili, aby sa s nami o ne podelili.<!--more--> Ak si lovci vymýšľajú nové spôsoby lovu a niektorí si zvolia &#8222;kreatívnejší&#8220; dizajn, divočina rozhodne, kto sa z lovu vráti živý a sýty, aby sa o svoj postup podelil.
 

@@ -6,7 +6,7 @@ date: 2012-01-21T19:28:05+00:00
 url: /blog/gorila-10-veci-ktore-o-nej-neviete/
 categories:
   - Nezaradené
-
+description: Desať v slovenských podmienkach máloznámych faktov o gorile. 
 ---
 1. Gorily sú najväčšie žijúce primáty – rad živočíchov, ktorý v sebe zahŕňa opice, opy a ľudí. Dospelý samec gorily dosahuje výšku dva metre a hmotnosť 140 až 250 kilogramov. Rozsah jeho ramien môže byť až dva a pol metra. Jeden samec sa silou vyrovná ôsmim dospelým mužom. Dospelé samice dosahujú zhruba polovičné veľkosti.
 

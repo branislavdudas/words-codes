@@ -6,7 +6,7 @@ date: 2016-08-03T10:00:24+00:00
 url: /blog/nebezpecne-cestovanie/
 categories:
   - Nezaradené
-
+description: Už dlhšie vnímam v mojom okolí fenomén, keď verejné priznanie plánovanej cesty do ľubovoľnej destinácie automaticky dostane odpoveď – Do X? A nebojíš sa, že Y? Preto toto zamyslenie o rizikách terorizmu pri cestovaní.
 ---
 Už dlhšie vnímam v mojom okolí tento fenomén: verejné priznanie plánovanej cesty, do ľubovoľnej destinácie, vždy spustí v poslucháčoch odpoveď: Do X? A nebojíš sa, že Y?
 

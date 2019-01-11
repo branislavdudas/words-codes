@@ -6,7 +6,7 @@ date: 2012-02-24T16:20:45+00:00
 url: /blog/chyba-mi-macgyver/
 categories:
   - Nezaradené
-
+description: Nostalgická spomienka na najobľúbenejší seriál môjho detstva – kultový MacGyver.
 ---
 V nedelu ráno som si pri raňajkách zapol televízor. Ako zvukovú kulisu. Po pár sekundách sa však vianočka s medom zmenila na chuťovú kulisu a moju pozornosť dostal on. MacGyver.
 

@@ -6,7 +6,7 @@ date: 2016-01-20T09:56:49+00:00
 url: /blog/priviest-dieta-do-tohto-sveta/
 categories:
   - Nezaradené
-
+description: Je zodpovedné v dnešnom svete počať a priviesť na svet dieťa? Je to preň a pre svet posun k lepšiemu? Hľadajte odpovede so mnou.
 ---
 Sociálne siete mi krásne ukazujú ako sa môj život vyvíja. Čím chcem povedať, že starnem. A spolu so mnou aj moji rovesníci. Kým v minulosti som zažíval explózie statusov typu „Bc. Doplň meno“, ich obmien s Ing. alebo Mgr.<!--more-->, verejných zásnub a následne fotiek dievčat v bielych šatách a chalanov v oblekoch. A teraz prišli deti. Neprekvapuje ma to. Niektorí vydržia počúvať ohlušujúce tikanie biologických hodín chvíľu, iní dlhšie. Nepochybujem, že niektorí moji známi nosia digitálky 
 
