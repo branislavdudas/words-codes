@@ -16,10 +16,12 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
 
 
-## 2019 (spolu zatiaľ 1 kniha)
+## 2019 (spolu zatiaľ 3 knihy)
+[Wit's End: What Wit Is, How It Works, and Why We Need It – James Geary](https://amzn.to/2Ru6Zor) &bull;
+[The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination – Ursula K. Le Guin](https://amzn.to/2AKM3z6) &bull;
 [Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling](https://www.martinus.sk/?uItem=308832&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner) &bull;
 
-## 2018 (spolu zatiaľ 52 kníh)
+## 2018 (spolu 52 kníh)
 [Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes](#) &bull;
 [Blindsight – Peter Watts](#) &bull;
 [The Bestseller Code: Anatomy of the Blockbuster Novel – Jodie Archer, Matthew L. Jockers](#) &bull;
