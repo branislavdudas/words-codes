@@ -3,7 +3,7 @@ title: Knihy
 author: Branislav Dudáš
 type: index
 date: 2018-09-14T18:19:52+00:00
-description: Words & Codes je kreatívny copywriting a inteligentný content pre vašu značku. Vaše texty píše Branislav Dudáš
+description: Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal.
 url: /knihy/
 ---
 # Knihy
@@ -11,9 +11,9 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 ## Práve čítam:
 
-- [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#);
-- [The Histories – Herodotus, Tom Holland](#);
-- [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](#)
+- [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#https://amzn.to/2SRSMhX;
+- [The Histories – Herodotus, Tom Holland](https://amzn.to/2H89Nmj);
+- [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
 ## 2019 (spolu zatiaľ 3 knihy)
@@ -22,11 +22,11 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 [Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling](https://www.martinus.sk/?uItem=308832&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner) &bull;
 
 ## 2018 (spolu 52 kníh)
-[Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes](#) &bull;
-[Blindsight – Peter Watts](#) &bull;
-[The Bestseller Code: Anatomy of the Blockbuster Novel – Jodie Archer, Matthew L. Jockers](#) &bull;
-[Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](#) &bull;
-[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](#)  &bull;
+[Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes](https://amzn.to/2SNyCp8) &bull;
+[Blindsight – Peter Watts](https://amzn.to/2RJpzZ8#) &bull;
+[The Bestseller Code: Anatomy of the Blockbuster Novel – Jodie Archer, Matthew L. Jockers](#https://amzn.to/2Rvi8pi) &bull;
+[Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee](https://amzn.to/2SSEwVY) &bull;
+[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear](https://amzn.to/2VSWjy6)  &bull;
 [Creative Confidence: Unleashing the Creative Potential Within Us All – David M. Kelley, Tom Kelley](#)   &bull;
 [The Thousand Autumns of Jacob de Zoet – David Mitchell](#)  &bull;
 [The Effective Executive, 50th Anniversary Edition – Peter F. Drucker](#)  &bull;
