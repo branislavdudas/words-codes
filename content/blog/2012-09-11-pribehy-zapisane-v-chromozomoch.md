@@ -6,9 +6,9 @@ date: 2012-09-11T06:16:20+00:00
 url: /blog/pribehy-zapisane-v-chromozomoch/
 categories:
   - Nezaradené
-
+description: V DNA kóde, ktorý si so sebou nesie čokoľvek živé, je zapísaný príbeh našich predkov. Nie len rodičov, napriek tomu, že od každého z rodičov dostal každý polovicu genetickej informácie. Knihu DNA tvoria kapitoly nazývané chromozómy a poviedky v nich sa volajú gény.
 ---
-Ľudová múdrosť hovorí, že keď sa narodí dieťa, je nepopísaným listom, tabula rasa. Tak ako mnohé ľudové porekadlá, aj toto sa mýli. Človek je od narodenia knihou plnou príbehov o zvieratku, ktorému osud rozdával rany a ono sa aj tak vždy dokázalo prispôsobiť. A raz aj doslova postaviť na vlastné nohy.<!--more-->
+Ľudová múdrosť hovorí, že keď sa narodí dieťa, je nepopísaným listom, tabula rasa. Tak ako mnohé ľudové porekadlá, aj toto sa mýli. Človek je od narodenia knihou plnou príbehov o zvieratku, ktorému osud rozdával rany a ono sa aj tak vždy dokázalo prispôsobiť. A raz aj doslova postaviť na vlastné nohy.
 
 V DNA kóde, ktorý si so sebou nesie čokoľvek živé, je zapísaný príbeh našich predkov. Nie len rodičov, napriek tomu, že od každého z rodičov dostal každý polovicu genetickej informácie. Knihu DNA tvoria kapitoly nazývané chromozómy a poviedky v nich sa volajú gény. Človek má týchto kapitol / chromozómov dvadsaťtri. Dvadsaťdva z nich rozpráva rovnaký príbeh. Ten dvadsiaty-tretí hovorí o tom či pri cikaní stojíme alebo sedíme a veci s tým spojené.
 

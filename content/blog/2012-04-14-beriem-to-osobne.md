@@ -6,7 +6,7 @@ date: 2012-04-14T10:58:44+00:00
 url: /blog/beriem-to-osobne/
 categories:
   - Nezaradené
-
+description: Väčšina ľudí si myslí, že ak uvidia niekoho, kto je zranený a potrebuje pomoc, poskytnú mu ju. Nie je to tak. Čím viac ľudí vidí niekoho v problémoch, tým je menšia šanca, že niekto pomôže. Nie je to chyba charakteru, tak funguje náš mozog.
 ---
 Mladé dievča vojde do úzkej uličky a muž s nožom je pár krokov za ňou. Dievča vie, že už nedokáže utiecť, tak začne kričať. V mnohých oknách sa zažnú svetlá. V niektorých vidno siluety sledujúcich postáv. Tí zvedaví otvoria okno a vystrčia hlavy, aby lepšie videli. Muž švihne nožom a dlhá čepeľ jej s ľahkosťou vchádza do tela. “Pomôžte prosím!”, plače dievča. Muž znovu bodol. Jeho obeť leží na ceste, v kaluži studenej vody. Od úst jej stúpa para a na blúzke jej rastie červená škvrna. Z okna sa ozve hrubý mužský hlas: “Vypadni!” Útočník sa strhne a odbehne na koniec uličky, mimo svetiel lámp. Nasadne do zaparkovaného auta a odchádza. Svetlá v niektorých oknách zhasli. Pár minút sa nič nedeje, iba svetlá v niektorých oknách zhasli. Dievča žalostne stoná. Po ceste presviští autobus na letisko. Lúče jeho svetiel oblejú zakrvavené dievča. Neďaleko odtiaľ útočník čaká čo sa bude diať. Zbytočne, nedeje sa nič. Po pol hodine sa pomaly vracia. Dievča sa medzitým odplazilo a leží opreté o dvere kníhkupectva.“On ma zabije!”, kričí, ale hlas jej slabne. Svetlá v oknách sa znovu zažnú. Tridsaťosem párov očí sa pozerá. Muž sa k nej zohne, stisne nôž a vrazí ho dievčaťu do hrude. Dotykom sa presvedčí, že je mŕtva. Očistí čepeľ noža o jej sukňu a vráti sa k zaparkovanému autu. Je pol štvrtej ráno. Po dvadsiatich minútach jeden zo svedkov prvýkrát zavolá políciu. Po dvoch minútach prichádza hliadka.<!--more-->
 

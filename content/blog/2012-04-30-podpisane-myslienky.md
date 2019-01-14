@@ -6,7 +6,7 @@ date: 2012-04-30T21:31:04+00:00
 url: /blog/podpisane-myslienky/
 categories:
   - Nezaradené
-
+description:  Myšlienky z kníh, ktoré by som chcel mať podpísané, už teraz žijú v mojej hlave. Sú vyspelejšie, videli už kus sveta. Prispôsobili sa mojej povahe tak, aby boli zaujímavé práve pre mňa a obohatili ma.
 ---
 Pred pár dňami som dostal nápad. To nie je nič nezvyčajné. Tento navyše patril do tej najobyčajnejšej kategórie nápadov, ukladaných pod záložku “Toto by som si mohol kúpiť “. Ak by som si zapisoval všetky nápady tohto druhu, Moleskine by sa predajom zápisníkov stal najhodnotnejšou firmou sveta. Tentokrát bol môj záujem namierený na knihy s podpisom ich autora, a ak sa dá, tak samozrejme prvé vydania.
 

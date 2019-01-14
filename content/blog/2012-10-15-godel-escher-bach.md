@@ -6,9 +6,9 @@ date: 2012-10-15T06:16:04+00:00
 url: /blog/godel-escher-bach/
 categories:
   - Nezaradené
-
+description: Fungovanie mozgu prebieha na viacerých, jednoduchých a zložitých, úrovniach a vedomé ľudské myšlienky sú produktom interakcií medzi týmito úrovňami. Otázne je, či je všetky tieto úrovne možné znázorniť matematicky? To by nás priviedlo k možnosti vytvorenia skutočnej inteligencie.
 ---
-Je možné spojiť pár jednoduchých častí a dostať niečo zložitejšie, ako je súčet týchto častí? Vedci vedia, ako funguje jeden neurón, tušia aj ako vám skupina neurónov umožní pohnúť prstom pri posúvaní tohto článku, ale sto miliárd mozgových buniek je šialene komplikovaný systém. Vznikajú skupiny skupín skupín, ktorých jednoduché fungovanie nakoniec vytvorí ľudské vedomie, myseľ a inteligenciu. Dokážeme vytvoriť niečo podobné?<!--more-->
+Je možné spojiť pár jednoduchých častí a dostať niečo zložitejšie, ako je súčet týchto častí? Vedci vedia, ako funguje jeden neurón, tušia aj ako vám skupina neurónov umožní pohnúť prstom pri posúvaní tohto článku, ale sto miliárd mozgových buniek je šialene komplikovaný systém. Vznikajú skupiny skupín skupín, ktorých jednoduché fungovanie nakoniec vytvorí ľudské vedomie, myseľ a inteligenciu. Dokážeme vytvoriť niečo podobné?
 
 > V mozku každého člověka je zase zabudována určitá míra naivity. Nakolik naivní jste vy? Nachází se vaše naivita v jakémsi &#8222;centru naivity&#8220; ve vašem mozku? Mohl by zasáhnout neurochirurg a provést jemnou operaci, která by míru vaší naivity snížila a jinak by se vás nedotkla? Pokud tomu věříte, jste dost naivní a možná byste o takové operaci měli uvažovat.
 

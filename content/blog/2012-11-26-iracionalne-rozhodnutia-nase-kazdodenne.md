@@ -6,7 +6,7 @@ date: 2012-11-26T07:16:35+00:00
 url: /blog/iracionalne-rozhodnutia-nase-kazdodenne/
 categories:
   - Nezaradené
-
+description: Myšlení, rychlé a pomalé nám umožňuje nahliadnuť do fungovania dvoch mentálnych systémov, ktoré nám v hovoria nielen to, čo máme robiť, ale aj to, čo si máme myslieť, že sú naše dôvody to urobiť.
 ---
 Mám čitateľa, ktorý keď sa rozhodne ísť do nákupného centra, si cieľavedomo vyberie obchod, do ktorého chce ísť, kúpi si produkt, na ktorý má racionálny dôvod za cenu, ktorá mu pripadá rozumná. Normálny dospelý človek, však? To je však omyl. Celý život trpí tým, že robí iracionálne rozhodnutia, odhaduje pravdepodobnosti na základe toho, čo chce a nie podľa štatistiky a necháva sa podprahovo ovplyvňovať všetkým, okolo čoho prejde. To však nie je to najhoršie: problém je, že si potom nájde kvázi-racionálne vysvetlenie pre svoje činy a to mu stačí. Bohužiaľ, pre účely tejto recenzie musím odhaliť jeho identitu, aj keď sa mu to nebude páčiť. Si to ty!
 

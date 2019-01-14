@@ -6,7 +6,7 @@ date: 2012-11-05T07:15:25+00:00
 url: /blog/smrt-v-podani-ciernej-diery/
 categories:
   - Nezaradené
-
+description: Vesmír skrýva mnoho nástrah. Mnohé z nich nepoznáme, o niektorých vieme veľmi málo a tie čo poznáme ignorujeme v nádeji, že nám sa predsa nemôže nič stať. Vyhynutie ľudstva by bolo najväčšou katastrofou v dejinách života vo vesmíre. Nie preto, že by sme nemali kapacitu, ale preto, že nám chýba predvídavosť.
 ---
 Vesmír skrýva mnoho nástrah. Mnohé z nich nepoznáme, o niektorých vieme veľmi málo a tie čo poznáme ignorujeme v nádeji, že nám sa predsa nemôže nič stať. Vyhynutie ľudstva by bolo najväčšou katastrofou v dejinách života vo vesmíre. Nie preto, že by sme nemali kapacitu, ale preto, že nám chýba predvídavosť. Druh, ktorý osídli Zem po našom vyhynutí sa bude v múzeách pozerať na naše kostry a bude sa čudovať prečo Homo sapiens s „veľkou hlavou“ dopadol rovnako ako dinosaury s mozgom veľkosti hrášku.
 

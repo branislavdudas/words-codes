@@ -6,7 +6,7 @@ date: 2012-10-22T06:16:23+00:00
 url: /blog/veda-ako-nocne-svetielko-v-temnotach/
 categories:
   - Nezaradené
-
+description: Takmer každé zviera vie, že musí učiť vlastné mláďatá zvykom, ktoré mu jedného dňa v divočine zachránia krk. Pre nás sa však divočina zmenila. Stále vieme priblížiť detskú ručičku k plameňu a povedať výstražným hlasom „Páli!“, ale pritiahnuť malú packu k obrazovke a povedať „Pochybuj!“, „Never!“, alebo „Hlúposť!“ sme si ešte nezvykli.
 ---
 V kníhkupectvách a kinách zakopávame o neduchaplné príbehy plné duchov, upíroch, zombie a UFO. V každom druhom obchode ponúkajú magické kryštály, zázračné gumené náramky a predpovede budúcnosti. Ľudia sa obrátili chrbtom kritickému mysleniu, skepticizmu a vede v časoch, keď sa ich tí, ktorí držia v rukách moc a peniaze naučili používať tak, aby dokázali ovládať masy.
 

@@ -6,7 +6,7 @@ date: 2012-09-24T06:17:16+00:00
 url: /blog/plavanie-proti-prudu/
 categories:
   - Nezaradené
-
+description: Hovorí sa, že len mŕtve ryby plávajú s prúdom. V prírode to platí, najmä ak je ten prúd elektrický, v ľudskej spoločnosti ak je ním názor väčšiny.
 ---
 Hovorí sa, že len mŕtve ryby plávajú s prúdom. V prírode to platí, ak je ten prúd elektrický, v ľudskej spoločnosti ak je ním názor väčšiny. Ľudská inteligencia je nositeľom zázračnej vlastnosti – inteligencia skupiny je vždy nižšia ako súčet rozumových schopností jej jednotlivcov. Bez tohto fenoménu by nikdy nemohlo vzniknúť slovo demagóg. Nekriticky prijať cudziu myšlienku a neobhajovať svoj názor je vzdaním sa jediného podstatného rozdielu medzi nami a zvieratami.
 

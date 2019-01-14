@@ -6,7 +6,7 @@ date: 2012-12-10T07:14:10+00:00
 url: /blog/misionarska-poloha-matka-tereza-v-teorii-a-praxi/
 categories:
   - Nezaradené
-
+description: Matka Tereza je pre mnohých osoba, ktorú si predstavia pri slove svätica, misionár a charita. Bohužiaľ podobne ako pri iných slávnych hodnotíme jej skutky a slová podľa jej reputácie a nie naopak. Aká bola naozaj? Zaslúži si svoj kult?
 ---
 Matka Tereza je pre mnohých osoba, ktorú si predstavia pri slove svätica, misionár a charita. Bohužiaľ podobne ako pri iných slávnych hodnotíme jej skutky a slová podľa jej reputácie a nie naopak. Aká bola naozaj? Zaslúži si svoj kult?
 

@@ -6,11 +6,9 @@ date: 2012-05-07T16:58:17+00:00
 url: /blog/obezita-tlaci-aj-na-mozog/
 categories:
   - Nezaradené
-
+description: Čo nám bráni robiť s informáciami presne to isté, čo robíme s jedlom? Ochutnávajme. Vyberajme si podniky podľa kuchárov, nie podľa dekorácie, ceny a počtu výkričníkov. Hľadajte ľudí, ktorí majú dobrý vkus. Tých, ktorí vedia o veciach vždy niečo viac. Vy viete koho myslím.
 ---
 Pred pár týždňami na Novom Zélande umrela tridsaťročná žena. Nečudujem sa: Denne vypila zhruba pätnásť litrov coly. Väčšina z nás si povie, že je to choré. Pri mentálnom stravovaní však robíme presne to isté. Denne prijímame kilá mentálneho junk foodu. Mentálny tuk na pláži aj tak nevidno. A do duše už nám nik nepozerá.
-  
-<!--more-->
 
 Vybudovali sme si komerčné siete informačných fastfoodov, ktoré nám denne servírujú lacné a umelé informačné kalórie. Inak by to ani nemohlo byť v prostredí industrializovaných médií ovládaných dopytom. Ľudia chcú radšej počuť to, čo ich uistí v ich názoroch, ako pravdu. Sme pohodlní. Radšej spracujeme informáciu obohatenú o mentálne preháňadlo, po ktorej ostane na ďalší deň iba pachuť v mysli. Hlavne nech je jej veľa a nech sme zajtra zase prázdni.
 

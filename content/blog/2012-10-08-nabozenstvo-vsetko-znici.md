@@ -6,7 +6,7 @@ date: 2012-10-08T06:00:32+00:00
 url: /blog/nabozenstvo-vsetko-znici/
 categories:
   - Nezaradené
-
+description: Z nejakého dôvodu majú ľudia zábrany kritizovať cudziu vieru a ak to urobia, stávajú sa obeťami kritiky nielen zo strán veriacich, ale aj povýšeneckých neveriacich, ktorí to vnímajú akoby niekto bral postihnutým deťom ich hračky.
 ---
 V dobe keď píšem tieto slová, ako aj v dobe, keď ich čítate, chystajú príslušníci náboženstiev moje a vaše zničenie, ako aj zničenie všetkých úspechov, ktoré kedy ľudstvo dosiahlo. Náboženstvo totiž povoľuje ľuďom správať sa spôsobom, nad ktorým by aj správcovia bordelov a etnickí čističi zdvihli obočie.<!--more-->
 

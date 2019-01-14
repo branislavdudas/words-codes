@@ -6,7 +6,7 @@ date: 2012-07-09T08:57:45+00:00
 url: /blog/mozete-vziat-ludi-zo-savany-ale-nie-savanu-z-ludi/
 categories:
   - Nezaradené
-
+description: Naše telá sú geneticky naprogramované prijímať tú istú potravu, ako prijímali naši predkovia lovci a zberači v dobe kamennej. A ak ju nedostávajú, kazia sa a chorľavejú. To je základná premisa životného štýlu nazvaného Paleo.
 ---
 Ako dlho sú ľudia ľuďmi? Dvestotisíc rokov? Celkom dlhá doba. To na človeku zanechá stopy. Omnoho kratšie obdobia stačia na to, aby sa nám niečo dostalo pod kožu. A naše pôvodné stravovacie návyky sa nám dostávali pod kožu celých dvestotisíc rokov mínus cca. desaťtisíc od prvej domestifikácie rastlín a živočíchov. Naše telá sú geneticky naprogramované prijímať tú istú potravu, ako prijímali naši predkovia lovci a zberači v dobe kamennej. A ak ju nedostávajú, kazia sa a chorľavejú. To je základná premisa životného štýlu nazvaného Paleo.
 

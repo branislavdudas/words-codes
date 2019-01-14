@@ -6,7 +6,7 @@ date: 2012-07-19T08:41:29+00:00
 url: /blog/vsezravcova-dilema/
 categories:
   - Nezaradené
-
+description: Ak ste koala, máte to jednoduché. Na raňajky si dáte eukalyptus, na obed eukalyptus a na večeru zbytky z obeda. Kolegovia všežravci to majú ťažšie. Nemajú geneticky zakódovanú encyklopédiu jedlých surovín a už vôbec nie kuchársku knihu.
 ---
 Ak ste koala, máte to jednoduché. Na raňajky si dáte eukalyptus, na obed eukalyptus a na večeru zbytky z obeda. Kolegovia všežravci to majú ťažšie. Nemajú geneticky zakódovanú encyklopédiu jedlých surovín a už vôbec nie kuchársku knihu. V prírode sa každý všežravý jedinec musí sám naučiť, ktoré jedlá sú pre neho dobré a ktoré nie. Potkan každého kandidáta na jedlo najprv ochutná a počká aby zistil, čo to s ním urobí (Preto je také ťažké ich otráviť). Človek je iný. Vďaka svojim schopnostiam zaznamenávať informácie a šíriť ich ďalej, nemusí každý z nás rozmýšľať, ako by asi chutila tá vtipná červená huba s bielymi bodkami. Naša dilema už neznie, čo môžeme zjesť a prežiť, ale &#8222;Čo bude dnes na večeru?&#8220;
 

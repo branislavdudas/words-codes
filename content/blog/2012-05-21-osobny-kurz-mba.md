@@ -6,11 +6,9 @@ date: 2012-05-21T17:53:48+00:00
 url: /blog/osobny-kurz-mba/
 categories:
   - Nezaradené
-
+description: Biznis by mal byť o vytváraní a odovzdávaní hodnôt platiacim zákazníkom, a nie o organizovaní legálneho podvodu. Nanešťastie pre nás všetkých, obchodné školy potlačili to prvé, aby mohli učiť to druhé.
 ---
 Tipnite si, o čom bude prvá kniha, ktorú chytí do rúk čerstvý absolvent ekonómie? Pravdepodobne nie o ekonómii, však? Chyba. Kniha, ktorú som začal čítať hneď po štátniciach sa volá Osobný Kurz MBA. A začína zaujímavo: podľa autora Josha Kaufmana nemá zmysel platiť za štúdium ekonómie. Všetky potrebné informácie k tomu aby ste boli spôsobilí začať podnikať nájdete aj na pultoch kníhkupectiev. Keby s tým prišiel o päť rokov skôr, možno by som nad tým rozmýšľal&#8230;
-  
-<!--more-->
 
 > Biznis by mal byť o vytváraní a odovzdávaní hodnôt platiacim zákazníkom, a nie o organizovaní legálneho podvodu. Nanešťastie pre nás všetkých, obchodné školy potlačili to prvé, aby mohli učiť to druhé.
 

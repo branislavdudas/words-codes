@@ -6,7 +6,7 @@ date: 2012-10-01T06:23:11+00:00
 url: /blog/ubavime-sa-k-smrti/
 categories:
   - Nezaradené
-
+description: Podľa kritikov televízie robia programy z ľudí hlupákov. Podľa kritikov národa vysielajú televízie presne to, čo si hlupáci pýtajú. Môžu mať pravdu obe strany?
 ---
 Podľa kritikov televízie robia programy z ľudí hlupákov. Podľa kritikov národa vysielajú televízie presne to, čo si hlupáci pýtajú. Môžu mať pravdu obe strany? Riadi sa chlieb náš mediálny príslovečným &#8222;bohatým (duchom) sa pridá a chudobným sa odoberie&#8220;? A prečo sa dnes toľko ľudí nedokáže po pár vetách textu sústrediť?
 

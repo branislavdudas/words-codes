@@ -6,7 +6,7 @@ date: 2012-09-17T12:49:07+00:00
 url: /blog/kto-vchadza-skratkami-do-vasej-mysle/
 categories:
   - Nezaradené
-
+description: Existuje šesť základných metód, ako niekoho zmanipulovať bez toho, aby o tom vedel. Tieto postupy sú postavené na základnom fungovaní ľudského mozgu. Evolučne máme zakódované mechanizmy, ktoré sa spustia vždy, keď niekto stlačí gombík.
 ---
 Ľudia sú druh náchylný k manipulácii. Vo všeobecnosti s týmto tvrdením ľudia súhlasia, avšak pojem ľudia je pre mnohých synonymom slova oni. Ja predsa nepatrím medzi ovečky&#8230; S mentálnym diabolským smiechom voláme burnsovské „Znamenitě!“ vždy, keď nič netušiacu obeť oblafneme, aby urobila to, čo chceme. Ak sú však zbrane vplyvu úspešne použité proti nám a my sa to dozvieme, to už je iná káva. Najmä keď ide o peniaze. Aké sú najčastejšie používané taktiky manipulácie a ako sa im brániť?<!--more-->
 

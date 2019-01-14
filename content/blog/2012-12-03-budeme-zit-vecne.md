@@ -6,7 +6,7 @@ date: 2012-12-03T07:17:44+00:00
 url: /blog/budeme-zit-vecne/
 categories:
   - Nezaradené
-
+description: Čo by sa muselo zmeniť na našej kultúre, na vzťahoch, ak by sme dosiahli skutočnú nemrtesľnoť? Boli by súčasné lásky až za hrob naozaj večné? Uvidíme. A možno nie.
 ---
 Na každom druhom maturitnom oznamku stojí: &#8222;Rozhodol som sa, že budem žiť večne a umriem len ak by sa mi to nepodarilo.&#8220; Známy citát z Hellerovej Hlavy XXII. poznajú asi všetci. Je to krásny znak mladíckej sebadôvery a životného elánu. Ale čo ak… Čo ak by to bolo naozaj možné, poraziť smrť?<!--more-->
 

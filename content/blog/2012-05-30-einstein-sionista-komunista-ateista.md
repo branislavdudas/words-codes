@@ -6,7 +6,7 @@ date: 2012-05-30T18:01:20+00:00
 url: /blog/einstein-sionista-komunista-ateista/
 categories:
   - Nezaradené
-
+description: Albert Einstein bol prvou celosvetovou vedeckou celebritou a svojim výstredným správaním a vzhľadom sa stal tvárou minulého storočia. Ako dieťa bol však trochu pomalší, dlho nevedel rozprávať a jeho rodina si myslela, že bude postihnutý. Opak však bol pravdou. Jeho genialita a zvedavosť sa ešte len prebúdzala.
 ---
 Albert Einstein bol prvou celosvetovou vedeckou celebritou a svojim výstredným správaním a vzhľadom sa stal tvárou minulého storočia. Ako dieťa bol však trochu pomalší, dlho nevedel rozprávať a jeho rodina si myslela, že bude postihnutý. Opak však bol pravdou. Jeho genialita a zvedavosť sa ešte len prebúdzala.
 

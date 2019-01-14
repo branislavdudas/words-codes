@@ -6,9 +6,9 @@ date: 2012-06-06T09:37:09+00:00
 url: /blog/vsetko-co-ste-chceli-vediet-o-ekonomii-ale-bali-ste-sa-opytat/
 categories:
   - Nezaradené
-
+description: Aj napriek štúdiu ekonómie mám na mnohých ekonómov svoj názor. V mnohých prípadoch sú to podobní šarlatáni ako meteorológovia.
 ---
-Aj napriek štúdiu ekonómie mám na mnohých ekonómov svoj názor. V mnohých prípadoch sú to podobní šarlatáni ako meteorológovia. V čase najväčšej krízy sa jedného z tele-ekonómov pýtali, ako sa bude vyvíjať kríza. Odpoveď: Kríza bude mať rapídny vývoj. Ale ešte nevieme či pozitívny alebo negatívny. Ak sa nechceme nechať kŕmiť podobnými rečami, neostáva nám nič iné, ako vzdelávať sa.<!--more-->
+Aj napriek štúdiu ekonómie mám na mnohých ekonómov svoj názor. V mnohých prípadoch sú to podobní šarlatáni ako meteorológovia. V čase najväčšej krízy sa jedného z tele-ekonómov pýtali, ako sa bude vyvíjať kríza. Odpoveď: Kríza bude mať rapídny vývoj. Ale ešte nevieme či pozitívny alebo negatívny. Ak sa nechceme nechať kŕmiť podobnými rečami, neostáva nám nič iné, ako vzdelávať sa.
 
 Charles Wheelan, ktorý píše pre The Economist napísal skvelú knihu o ekonómii. Volá sa Odhalená ekonómia (Naked Economics). Poviem to priamo: Tak dobrú knihu o ekonómii som ešte nečítal. Police kníhkupectiev sú plné kníh o podnikaní, ale pochopiteľných kníh o &#8222;tvrdej&#8220; ekonómii je ako šafránu.
 

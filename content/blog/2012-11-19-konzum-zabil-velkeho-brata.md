@@ -6,7 +6,7 @@ date: 2012-11-19T07:20:28+00:00
 url: /blog/konzum-zabil-velkeho-brata/
 categories:
   - Nezaradené
-
+description: Orwella je klasika. Napriek tomu, že dnes už málo ľudí skutočne číta, pojem Veľký brat pozná asi každý. Pri pohľade na svet, v ktorom žijeme, mi dochádza, že pravdu mal ten druhý. Volal sa Huxley. Aldous Huxley.
 ---
 Orwell je klasika. Desivá, strašidelná klasika. Ale ľudia sú tvory nebojácne. Šelmu uhnali, zabili a teraz sa ňou pred telkou kŕmia, zapíjajú ju colou zajedajú ju hranolkami. Dokonca sme zosmiešnili jej meno a použili ho pre show, ktorá nemá nič spoločné s realitou.
 

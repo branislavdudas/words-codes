@@ -6,7 +6,7 @@ date: 2012-05-01T19:50:56+00:00
 url: /blog/podte-so-mnou-hladat-mimozemstanov/
 categories:
   - Nezaradené
-
+description: Existuje vo vesmíre iný život ako na Zemi? Alebo sme v tomto šialene veľkom priestore sami? Tieto otázky si často kladú vedci aj autori sci-fi. Odpoveď zatiaľ nepoznáme. Aké sú naše šance ho objaviť?
 ---
 Existuje vo vesmíre iný život ako na Zemi? Alebo sme v tomto šialene veľkom priestore sami? Tieto otázky si často kladú vedci aj autori sci-fi. Odpoveď zatiaľ nepoznáme. Aké sú naše šance ho objaviť?
 

@@ -6,9 +6,9 @@ date: 2012-05-28T16:29:03+00:00
 url: /blog/mala-bledomodra-bodka/
 categories:
   - Nezaradené
-
+description: Kdekoľvek na Zemi stojíte, ak sa pozriete hore vidíte oceán. Oceán hviezd. Oceán svetov. Nepreniknuteľný oceán, rovnaký ako ten, ktorý videli naši predkovia predtým, než sa naučili stavať lode. Nie je čas ísť ďalej?
 ---
-99,9% existencie nášho druhu, sme boli lovci a zberači, pustovníci naprieč savanami a stepmi. Neexistovali hraničné kontroly ani colníci. Jediné hranice, ktoré nás dokázali zastaviť boli oceán a obloha. Aj to nie nadlho. Dnes sa už vieme dostať na každé obývateľné miesto našej planéty. Zastali sme, ale túžba po výpravách do neznáma vo väčšine z nás pretrváva. Nie je čas ísť ďalej?<!--more-->
+99,9% existencie nášho druhu, sme boli lovci a zberači, pustovníci naprieč savanami a stepmi. Neexistovali hraničné kontroly ani colníci. Jediné hranice, ktoré nás dokázali zastaviť boli oceán a obloha. Aj to nie nadlho. Dnes sa už vieme dostať na každé obývateľné miesto našej planéty. Zastali sme, ale túžba po výpravách do neznáma vo väčšine z nás pretrváva. Nie je čas ísť ďalej?
 
 Kdekoľvek na Zemi stojíte, ak sa pozriete hore vidíte oceán. Oceán hviezd. Oceán svetov. Nepreniknuteľný oceán, rovnaký ako ten, ktorý videli naši predkovia predtým, než sa naučili stavať lode. Pravda, poslali sme do vesmíru satelity, ktoré boli našimi očami a ušami. S ich pomocou sme preskúmali úžasné miesta našej slnečnej sústavy. Videli sme vďaka nim aj niečo, čo nám zmenilo perspektívu. Našu Zem. Ako malú bledomodrú bodku.
 

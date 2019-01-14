@@ -6,7 +6,7 @@ date: 2012-07-23T17:33:32+00:00
 url: /blog/muz-ktory-silou-vole-ohybal-realitu/
 categories:
   - Nezaradené
-
+description: Steve Jobs. Mnohí ho milovali, mnohí ho nenávideli a priznajme si, sú aj takí, ktorí o ňom nikdy doteraz nepočuli. Svojimi silnými stránkami privádzal svet do vytrženia a slabými svoje okolie do šialenstva. Aký bol naozaj sa dozvieme už len sprostredkovane.
 ---
 Steve Jobs. Mnohí ho milovali, mnohí ho nenávideli a priznajme si, sú aj takí, ktorí o ňom nikdy doteraz nepočuli. Svojimi silnými stránkami privádzal svet do vytrženia a slabými svoje okolie do šialenstva. Aký bol naozaj sa dozvieme už len sprostredkovane.
 

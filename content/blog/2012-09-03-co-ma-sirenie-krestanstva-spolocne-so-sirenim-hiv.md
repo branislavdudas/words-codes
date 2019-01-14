@@ -6,7 +6,7 @@ date: 2012-09-03T06:21:49+00:00
 url: /blog/co-ma-sirenie-krestanstva-spolocne-so-sirenim-hiv/
 categories:
   - Nezaradené
-
+description: Ak si odmyslíme zatracovanie kondómov, medzi pôvodným rastom kresťanstva z bezvýznamnej židovskej sekty do súčasnej podoby najväčšieho náboženstva a rozširovaním víru HIV existuje veľmi silná podobnosť. Rovnaká, ako medzi fungovaním webu a výberom tých najničivejších teroristických cieľov. Tieto spojenia nie sú náhodné.
 ---
 Ak si odmyslíme zatracovanie kondómov, medzi pôvodným rastom kresťanstva z bezvýznamnej židovskej sekty do súčasnej podoby najväčšieho náboženstva a rozširovaním víru HIV existuje veľmi silná podobnosť. Rovnaká, ako medzi fungovaním webu a výberom tých najničivejších teroristických cieľov. Tieto spojenia nie sú náhodné, náš svet má tendenciu vytvárať siete.<!--more-->
 

@@ -6,7 +6,7 @@ date: 2012-08-13T06:37:25+00:00
 url: /blog/media-zmanipulovany-manipulator/
 categories:
   - Nezaradené
-
+description: Keďže dnes už novinári nekontrolujú, ale kopírujú (alebo v lepšom prípade na seba nadväzujú) a s Wikipédiou sa už konzultuje naozaj všetko, ani sa nenazdáte a z klamstva sa stane pravda.
 ---
 Politik XY v rozhovore s médiami úmyselne zaklame. Aby získal pre toto klamstvo krytie, je okamžite doplnené na Wikipédiu. Aby sa overila dôveryhodnosť editácie, pridá sa citácia s odkazom na spomínané interview. Keďže dnes už novinári nekontrolujú, ale kopírujú (alebo v lepšom prípade na seba nadväzujú) a s Wikipédiou sa už konzultuje naozaj všetko, ani sa nenazdáte a z klamstva sa stane pravda. Môžete si povedať, že vaše obľúbené noviny si fakty overujú (neoverujú), ale v dave na tom už aj tak nezáleží. Médiá, ako všetky spoločenské zvieratá, behajú v stáde.
 

@@ -6,7 +6,7 @@ date: 2012-08-06T06:27:55+00:00
 url: /blog/vas-mozog-sa-dokaze-zmenit/
 categories:
   - Nezaradené
-
+description: Ak prestanete používať časť mozgu, neostane len tak ležať. Nevyužité neuróny budú zabraté používanými časťami mozgu. Ako boj o územie práve zaniknutého štátu – jeho najsilnejší sused zaberie nevyužitú pôdu a začne čerpať cenné nerastné suroviny.
 ---
 Dám vám hádanku: Vyzerá to ako vlašský orech, konzistenciou je to ako huba a je to najvýkonnejší počítač na svete. Čo je to? Ak ste povedali mozog, máte pravdu. Ľudský mozog je jeden z najúžasnejších vynálezov prírody a predsa o ňom vieme tak žalostne málo.
 

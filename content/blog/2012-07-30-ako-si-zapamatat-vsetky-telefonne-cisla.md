@@ -6,7 +6,7 @@ date: 2012-07-30T07:57:34+00:00
 url: /blog/ako-si-zapamatat-vsetky-telefonne-cisla/
 categories:
   - Nezaradené
-
+description: Koľko telefónnych čísel viete naspamäť? Zrejme nie veľa. Kde sú tie časy, keď si ľudia pamätali všetky čísla, adresy a dátumy narodenín? Dnes by sme boli bez múdrych telefónov stratení.
 ---
 Koľko telefónnych čísel viete naspamäť? Zrejme nie veľa. Kde sú tie časy, keď si ľudia pamätali všetky čísla, adresy a dátumy narodenín? Dnes by sme boli bez múdrych telefónov stratení. A predsa sú medzi nami ľudia, ktorí sa dokážu na počkanie naučiť poradie pomiešaného balíčku hracích kariet, stociferné číslo alebo desiatky telefónnych čísel. A nie, nie sú to (len) autisti. Pred pár týždňami boli ešte ako vy a ja.
 

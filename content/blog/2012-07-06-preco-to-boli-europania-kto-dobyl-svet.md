@@ -6,7 +6,7 @@ date: 2012-07-06T11:25:09+00:00
 url: /blog/preco-to-boli-europania-kto-dobyl-svet/
 categories:
   - Nezaradené
-
+description: Čo  spôsobilo, že kým v Úrodnom polmesiaci a v Číne vznikali ohromné civilizácie, Amerika nikdy nezačala používať písmo a koleso? Prečo Cortéz iba s dvesto mužmi rozbil ríšu Inkov? Jared Diamond vie.
 ---
 Jared Diamond raz pri prechádzke po pláži dostal od istého Papuánca otázku prečo je cargo rozdelené nerovnomerne, prečo ho máme my, západný svet, dostatok a zvyšok sveta je chudobný. Prečo je teda svetové bohatstvo rozdelené nerovnomerne. A vôbec, prečo sme to boli my Európania, kto dobyl a kolonizoval svet a nie napr. Inkovia?<!--more-->
 

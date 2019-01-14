@@ -6,7 +6,7 @@ date: 2012-10-29T07:20:09+00:00
 url: /blog/nesmrtelnost-henrietty-lacksovej/
 categories:
   - Nezaradené
-
+description: Smrť. Niekto sa jej bojí viac, niekto menej. Vytvorili sme ceremónie, aby sme sa s ňou zmierili. A predsa dúfame, že práve nám sa podarí stať sa prvým reálnym členom klubu nesmrteľných. Jednej žene sa to už podarilo.
 ---
 Smrť. Niekto sa jej bojí viac, niekto menej. Predstavuje hranicu nepoznaného, ktorú by mnohí najradšej nikdy neprekročili. Vytvorili sme ceremónie a mytológie, aby sme sa s ňou zmierili. A predsa dúfame, že práve nám sa podarí stať sa prvým reálnym členom klubu nesmrteľných, zasadnúť po boku Utnapištima, Saint Germaina, Doriana Greya a ich kolegov. Jednej žene sa to už podarilo. Jej meno je Henrietta Lacks.
 

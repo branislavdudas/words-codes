@@ -6,7 +6,7 @@ date: 2012-06-28T13:28:43+00:00
 url: /blog/mala-cervena-kniha-o-behani/
 categories:
   - Nezaradené
-
+description: Informácie o tom koľko behať, ako postupne zvyšovať zabehnuté vzdialenosti ale aj rýchlosť, čo si obuť, čo zjesť pred a po behaní, okrem potrebných vedomostí priniesli aj nutnú motiváciu.
 ---
 Keď sa mi ako začínajúcemu bežcovi dostala do rúk Douglasova Malá červená kniha o behaní, nemal som inú možnosť, ako po nej siahnuť, hneď ako to bolo možné. A dobre som urobil.
 

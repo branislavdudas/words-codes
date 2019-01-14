@@ -6,11 +6,9 @@ date: 2012-08-27T06:05:18+00:00
 url: /blog/dnes-sci-fi-zajtra-realita/
 categories:
   - Nezaradené
-
+description: Skvelý H.G. Wells písal o návštevníkoch z iných dimenzií, cestovaní v čase, ale aj o neviditeľnosti. Zápletky súčasných sci-fi autorov sú plné ešte odvážnejších technologických konceptov. Dočkáme sa ich však niekedy?
 ---
 Sir William Osler raz povedal: &#8222;Filozofie jedného veku sa stali absurditami nasledujúceho a včerajšie bláznovstvá budú múdrosťami zajtrajška.&#8220; Fantázie, ktoré ľudia v minulosti považovali za nedosiahnuteľné, sú dnes chlebom každodenným. Stáročia sa alchymisti (vrátane Isaaca Newtona) pokúšali o premenu olova na zlato. Dnes fyzici dokážu zmeniť chemický prvok na iný alebo dokonca tvoriť nové prvky. Možno vám to tak nepripadá, náš životný štýl by bol pred storočím považovaný za sci-fi.
-
-<!--more-->
 
 Dnes už klasickí autori vedeckej fikcie sa aktívne zaujímali o najnovšie vedecké objavy a s veľkou mierou predstavivosti na nich postavili svoje najslávnejšie diela. Jules Verne je asi najlepším príkladom. Koncepty, ktoré dnes fyzici označujú za možné, sa v sci-fi literatúre vyskytujú už dlhšie. Skvelý H.G. Wells písal o návštevníkoch z iných dimenzií, cestovaní v čase, ale aj o neviditeľnosti. Zápletky súčasných sci-fi autorov sú plné ešte odvážnejších technologických konceptov. Dočkáme sa ich však niekedy? Odpoveď vám poskytne Michio Kaku.
 
