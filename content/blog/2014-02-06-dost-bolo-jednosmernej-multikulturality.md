@@ -6,7 +6,7 @@ date: 2014-02-06T06:10:37+00:00
 url: /blog/dost-bolo-jednosmernej-multikulturality/
 categories:
   - Nezaradené
-
+description: Tolerancia je krásna. Ale je až taká krásna, že by sme mali tolerovať aj intoleranciu? Kde končí ochota tolerovať iné kultúry a kde začína zneužívanie?
 ---
 Kultúra nie je symbolický vzor, ktorý by mal byť chránený a uchovávaný ako motýľ zaliaty v jantári. Jej miesto nie je v múzeu, ale v činnostiach každodenného života, kde sa vyvíja pod tlakom súperiacich cieľov a konkurenčných kultúr. Kultúry neexistujú ako nemenné rozdiely, ktoré by mali byť uctievané, súťažia medzi sebou ako lepšie a horšie spôsoby ako niečo dokázať, nie z pohľadu nejakého externého pozorovateľa, ale z pohľadu nás, ľudí, ktorí sa snažia čeliť drsnej realite života.
 

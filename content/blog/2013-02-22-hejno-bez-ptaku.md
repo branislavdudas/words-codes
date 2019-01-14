@@ -6,7 +6,7 @@ date: 2013-02-22T06:32:28+00:00
 url: /blog/hejno-bez-ptaku/
 categories:
   - Nezaradené
-
+description: Po rokoch som našiel svoju čiernu labuť, pôvodnú domácu československú beletriu, ktorá sa výborne číta, má myšlienku, nie je zbytočne vulgárna a čitateľsky mi proste sadla.
 ---
 Po rokoch som našiel svoju čiernu labuť, pôvodnú domácu československú beletriu, ktorá sa výborne číta, má myšlienku, nie je zbytočne vulgárna a čitateľsky mi proste sadla. Týmto nehľadaným ale nájdeným knižným pokladom sa mi stala kniha Hejno bez ptáků od Filipa Douška.<!--more-->
 

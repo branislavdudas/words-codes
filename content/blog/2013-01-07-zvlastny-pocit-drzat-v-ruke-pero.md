@@ -6,7 +6,7 @@ date: 2013-01-07T07:12:55+00:00
 url: /blog/zvlastny-pocit-drzat-v-ruke-pero/
 categories:
   - Nezaradené
-
+description: Ak máte chuť si zaspomínať na časy, keď písanie rukou bolo najbežnejšou voľbou, tento článok je pre vás.
 ---
 Zvláštny pocit, držať v ruke pero. Kĺzať ním po papieri, podobne ako prstom po dotykovom telefóne, ale inak. Spôsobom akým sa v zime korčuľujú slušné slečny. Určovať jeho trasu a zároveň sledovať jeho stopu s obavami o výsledný obraz. Už je to dávno…
 

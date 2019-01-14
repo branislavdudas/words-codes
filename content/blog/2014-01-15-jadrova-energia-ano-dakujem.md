@@ -6,7 +6,7 @@ date: 2014-01-15T21:07:08+00:00
 url: /blog/jadrova-energia-ano-dakujem/
 categories:
   - Nezaradené
-
+description: Jadrová energia je potencionálna bezpečnostná hrozba, ak sa niečo pokazí. Uhoľné elektrárne sú hrozbou, ak fungujú tak ako majú.
 ---
 Sledovať diskusie a vedecké správy o zmene klímy mi pripomína starý vtip o dvoch mužoch letiacich v balóne. Bohužiaľ, jeden z nich vypadol. Našťastie, pod nimi bola kopa sena. Bohužiaľ, z nej trčali vidly. Našťastie, ich padajúci muž minul. Bohužiaľ, minul aj kopu sena. A presne takéto sínusoidy zažíva môj mozog, keď počujem niekoho prejsť od ochrany prírody k zákazu jadrovej energie a späť k elektromobilom, ktoré, mimochodom, nie sú nabíjané zo zelených zdrojov.<!--more-->
 

@@ -6,7 +6,7 @@ date: 2013-02-13T06:49:44+00:00
 url: /blog/skutocni-zivi-mrtvi/
 categories:
   - Nezaradené
-
+description: Nejasne si uvedomujeme, aký krehký je život jednotlivca (najmä nášho druhu) a nemáme potrebný nadhľad na to, aby sme si uvedomili, že takmer denne ničíme unikátne druhy života…
 ---
 Žijú medzi nami a čakajú na smrť, na ktorú sme ich a ich rodiny odsúdili. Možno majú šťastie a nevedia o tom, možno niečo tušia. Dúfam, že nie. Bohužiaľ, jediní možní záchrancovia sú ich vrahovia. A tí očividne nemajú zľutovanie.<!--more-->
 

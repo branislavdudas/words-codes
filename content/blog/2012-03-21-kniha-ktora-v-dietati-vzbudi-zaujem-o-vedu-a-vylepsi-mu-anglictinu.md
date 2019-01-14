@@ -6,7 +6,7 @@ date: 2012-03-21T12:52:59+00:00
 url: /blog/kniha-ktora-v-dietati-vzbudi-zaujem-o-vedu-a-vylepsi-mu-anglictinu/
 categories:
   - Nezaradené
-
+description: Mágia reality, po anglicky The Magic of Reality, je krásna detská kniha o vede, vedeckom zmýšľaní a skepticizme. S jednoduchou angličtinou je super pre deti a večných začiatočníkov.
 ---
 Mnohé predchádzajúce generácie nevedeli, čo zapríčiňuje striedanie dňa a noci, ročných období, ako vzniká dúha a iné prírodné úkazy. Ako vysvetlenie si vytvorili mýty a legendy o bohoch a hrdinoch, ktorí stoja za oponou a riadia svet okolo nás. Dnes už máme vďaka vedcom na mnohé otázky odpovede. Majú ich však aj naše deti?<!--more-->
 

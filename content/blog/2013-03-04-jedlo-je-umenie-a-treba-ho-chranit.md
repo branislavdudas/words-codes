@@ -6,7 +6,7 @@ date: 2013-03-04T06:55:06+00:00
 url: /blog/jedlo-je-umenie-a-treba-ho-chranit/
 categories:
   - Nezaradené
-
+description: Poctivá príprava poctivého jedla pomaly vymiera. Možno aj preto dnes nemalé percento obsahu sociálnych sietí tvoria mobilom robené amatérske akty jedla na tanieri. Pre mladých ľudí je dnes už aj dobrá praženica umením.
 ---
 &#8222;Jedlo že treba chrániť? Veď nie je ohrozený druh, sú ho plné supermarkety!&#8220; Možno&#8230; Záleží to od toho, čo všetko považujete za jedlo. Niekedy len tak blúdim obchodmi a hľadám jedlo. Teda Jedlo, nie &#8222;jedlo&#8220;. A dáva to zabrať.<!--more-->
 

@@ -6,7 +6,7 @@ date: 2013-05-12T08:33:45+00:00
 url: /blog/som-rad-ze-zijem-v-tejto-dobe-lepsie-este-nebolo/
 categories:
   - Nezaradené
-
+description: Ak si myslíte, že doba je zlá, že to, že sa ženy odhaľujú a muži sú vulgárni poukazuje na úpadok mravov, mýlite sa. Žijeme v spoločnosti natoľko civilizovanej, že sa nemusíme báť násilia ako následku svojho konania.
 ---
 Som presvedčený o tom, že žijeme v dobe s historicky najnižšou mierou násilia. Pravdepodobne si teraz myslíte, že som dostal od niekoho po hlave a mám niečo s mozgom. Nezatracujte ma, kto veľa zatracuje, málo chápe.<!--more-->
 
