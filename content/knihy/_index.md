@@ -11,7 +11,7 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 ## Práve čítam:
 
-- [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](#https://amzn.to/2SRSMhX;
+- [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](https://amzn.to/2SRSMhX);
 - [The Histories – Herodotus, Tom Holland](https://amzn.to/2H89Nmj);
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
