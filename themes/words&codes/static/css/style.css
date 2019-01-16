@@ -18,10 +18,6 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 /* CSS variables */
 
 :root {
-  --bg-color: #fff;
-  --bd-color: #e31c37;
-  --text-color: #111;
-  --grey: #666;
   --text-big: 3vw;
   --text-small: 1.5vw;
   --mobile-width: 520px;
@@ -29,16 +25,16 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 }
 
 .light {
-  --bg-color: #fff;
+  --bg-color: #fafafa;
   --bd-color: #e31c37;
-  --text-color: #111;
+  --text-color: #1e1e1e;
   --grey: #666;
 }
 
 .dark {
   --bg-color: #1e1e1e;
   --bd-color: #e31c37;
-  --text-color: #fff;
+  --text-color: #fafafa;
   --grey: #666;
 }
 
@@ -46,7 +42,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
   :root {
     --bg-color: #1e1e1e;
     --bd-color: #e31c37;
-    --text-color: #fff;
+    --text-color: #fafafa;
     --grey: #666;
   }
 }
