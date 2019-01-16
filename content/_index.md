@@ -1,13 +1,13 @@
 ---
-title: Words & Codes – Kreatívny content a copywriting pre vašu značku
+title: Kreatívny content a copywriting pre vašu značku – Words & Codes
 author: Branislav Dudáš
 type: index
 date: 2012-01-05T18:19:52+00:00
 description: Words & Codes je kreatívny copywriting a inteligentný content pre vašu značku. Vaše texty píše Branislav Dudáš
 url: /
 ---
-# Slová, ktoré sa ľahko čítajú, sa ťažko píšu.
-Pomôžem vám písať **príbehy** o&nbsp;vašom poslaní, o&nbsp;vašich produktoch a pre vaše publikum. Príbehy, ktoré sa budú šíriť naprieč viacerými komunikačnými kanálmi — pretože budú jasné, zaujímavé a&nbsp;ľudské.
+# Kreatívny content a copywriting pre vašu značku
+Slová, ktoré sa ľahko čítajú, sa ťažko píšu. Pomôžem vám písať **príbehy** o&nbsp;vašom poslaní, o&nbsp;vašich produktoch a pre vaše publikum. Príbehy, ktoré sa budú šíriť naprieč viacerými komunikačnými kanálmi — pretože budú jasné, zaujímavé a&nbsp;ľudské.
 
 Príbehy sú miléniami overený spôsob ako organizovať **content.** Hovoria svetu **kto ste, čo robíte a&nbsp;za čím stojíte.**
 
@@ -43,7 +43,7 @@ Aké príbehy hovoria klienti o mne?
 >Braňo je šikovný kreatívec s&nbsp;veľkou snahou pochopiť ciele zadávateľa. Vytvára zrozumiteľné a&nbsp;efektívne riešenia pre rôzne médiá v súlade so&nbsp;stratégiou a&nbsp;dokonca spolupracuje pri úprave stratégie. Výnimočný je Braňov vyjadrovací talent v&nbsp;písomnej forme a&nbsp;schopnosť vytvoriť aj z&nbsp;bežnej témy niečo výnimočné a&nbsp;zároveň presne cielené, čo umožňuje jeho všeobecný prehľad a&nbsp;zároveň nadhľad nad množstvom tém.
 > <footer>Peter Pokojný – Sales Manager, Pelikan Group</footer>
 
-## Vytvorme spolu niečo super
+## Kontakt: vytvorme spolu niečo super
 Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A&nbsp;ja napíšem vám — čo budete chcieť.
 
 ## Katalóg článkov
