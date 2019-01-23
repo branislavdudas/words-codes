@@ -16,7 +16,10 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 3 knihy)
+## 2019 (spolu zatiaľ 6 kníh)
+[Reputation: What it is and Why it Matters – Gloria Origgi](https://amzn.to/2T5xDAF) &bull;
+[Company of One: Why Staying Small is the Next Big Thing for Business – Paul Jarvis](https://amzn.to/2WatLAu) &bull;
+[100 Ways to Improve Your Writing – Gary Provost](https://amzn.to/2RII8xm) &bull;
 [Wit's End: What Wit Is, How It Works, and Why We Need It – James Geary](https://amzn.to/2Ru6Zor) &bull;
 [The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination – Ursula K. Le Guin](https://amzn.to/2AKM3z6) &bull;
 [Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling](https://www.martinus.sk/?uItem=308832&z=branod&utm_source=z%3Dbranod&utm_medium=url&utm_campaign=partner) &bull;
