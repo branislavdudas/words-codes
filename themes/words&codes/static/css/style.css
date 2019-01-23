@@ -624,3 +624,42 @@ article > footer > .recommended > h3 {
 #nav-light button:focus {
   outline: none;
 }
+
+.article-profile {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  grid-column-gap: 30px;
+  width: 39%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  align-items: center;
+}
+
+.article-profile > img {
+  grid-column: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+}
+
+.article-profile > p {
+  grid-column: 2;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  font-size: 80%;
+}
+
+@media all and (max-width: 520px) {
+  .article-profile {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    grid-column-gap: 10px;
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+  }
+}
