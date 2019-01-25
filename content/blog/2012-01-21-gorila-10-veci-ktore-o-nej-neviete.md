@@ -1,12 +1,12 @@
 ---
-title: 'Gorila: 10 vecí, ktoré o nej neviete'
+title: 'Gorila: 10 zaujímavostí, ktoré o nej neviete'
 author: Branislav Dudáš
 type: post
 date: 2012-01-21T19:28:05+00:00
 url: /blog/gorila-10-veci-ktore-o-nej-neviete/
 categories:
   - Nezaradené
-description: Desať v slovenských podmienkach máloznámych faktov o gorile. 
+description: Gorily sú zaujímavé zvieratá. Sú najväčšie žijúce primáty, majú ohromnú inteligenciu a silu a váhu. Poznáme tri druhy goríl, najviac ohrozená je gorila horská.
 ---
 1. Gorily sú najväčšie žijúce primáty – rad živočíchov, ktorý v sebe zahŕňa opice, opy a ľudí. Dospelý samec gorily dosahuje výšku dva metre a hmotnosť 140 až 250 kilogramov. Rozsah jeho ramien môže byť až dva a pol metra. Jeden samec sa silou vyrovná ôsmim dospelým mužom. Dospelé samice dosahujú zhruba polovičné veľkosti.
 
@@ -28,4 +28,4 @@ description: Desať v slovenských podmienkach máloznámych faktov o gorile.
 
 10. Gorily sú prirodzene plaché a pokojné. Ich jediným nepriateľom je človek. V niktorých častiach Afriky sú lovené kvôli mäsu a trofejám. Často skončia v pasciach určených iným zvieratám. V minulosti pri chytaní gorilích mláďat do zoo lovci vyvraždili celý kmeň, ktorý sa snažil mláďatá brániť. V súčasnosti je najväčšou hrozbou pre gorily expanzia ľudskej populácie. Stále viac ľudí zaberá pôdu kvôli poľnohospodárstvu, ťažbe a priemyslu a gorily už nemajú kam ísť.
 
-PS: Vzdelávaním sa dá zabrániť výskytu nižších primátov v politických inštitúciách.
+PS: Ak ste dúfali, že v tomto článku nájdete konšpirácie o politickej kauze Gorila, sklamem vás. Pozitívne však je, že celoživotným vzdelávaním sa na vlastnú päsť sa dá zabrániť výskytu nižších primátov v politických inštitúciách.
