@@ -1,5 +1,6 @@
 @font-face {
-  src: url("../fonts/VAR/SourceSerifVariable-Roman.otf.woff2"),
+  src: local('Source Serif Pro'),
+    url("../fonts/VAR/SourceSerifVariable-Roman.otf.woff2"),
     url("../fonts/VAR/SourceSerifVariable-Roman.ttf.woff2");
   font-family: "Source Serif Variable";
   font-style: normal;
@@ -7,7 +8,8 @@
 }
 
 @font-face {
-  src: url("../fonts/VAR/SourceSerifVariable-Italic.otf.woff2"),
+  src: local('Source Serif Pro'),
+    url("../fonts/VAR/SourceSerifVariable-Italic.otf.woff2"),
     url("../fonts/VAR/SourceSerifVariable-Italic.ttf.woff2");
   font-family: "Source Serif Variable";
   font-style: italic;
