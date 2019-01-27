@@ -62,7 +62,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 
 body {
   background-color: var(--bg-color);
-  font-family: "Source Serif Variable", "Georgia", Times, serif;
+  font-family: "Source Serif Variable", Georgia, 'Times New Roman', Times, serif;
   font-size: var(--text-small);
   font-weight: 400;
   color: var(--text-color);
