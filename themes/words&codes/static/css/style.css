@@ -156,7 +156,7 @@ img {
 }
 
 figcaption {
-  font-size: 0.75rem;
+  font-size: 1rem;
   text-align: center;
   color: var(--bd-color);
 }
