@@ -51,7 +51,7 @@ Vytvorím za vás návrhy obsahu a&nbsp;formy, premyslený plán príspevkov na 
 <a name="weby">![Web stránky od Words & Codes](/images/web-stranky.svg)</a>
 
 ## Webstránka, ktorú neprehliadne žiadny prehliadač
-Pravdepodobne patríte do skupiny podnikov, ktoré potrebujú web stránku. Ale sú weby a&nbsp;WEBY. Ja robím tie menšie. Rýchlejšie. Jednoduchšie. Tie, na ktorých zákazník ostane kvôli obsahu, nie kvôli pomalému načítavaniu. [**Objednajte&nbsp;si&nbsp;ma.**](mailto:branislav.dudas@gmail.com)
+Pravdepodobne patríte do skupiny podnikov, ktoré potrebujú web stránku. Ale sú weby a&nbsp;WEBY. Ja robím tie menšie. Rýchlejšie. Jednoduchšie. Tie, na ktorých zákazník ostane kvôli obsahu, nie kvôli pomalému načítavaniu. [Viac o kvalitných web stránkach](https://words.codes/sluzby/webstranka/) [**Objednajte&nbsp;si&nbsp;ma.**](mailto:branislav.dudas@gmail.com)
 
 <a name="graphic">![Grafický dizajn od Words & Codes](/images/design.svg)</a>
 
