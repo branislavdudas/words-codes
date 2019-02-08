@@ -7,7 +7,7 @@ url: /sluzby/webstranka/
 categories:
   - webdizajn
 draft: false
-description: Zabudnite na facebook. Kvalitná webstránka je dlhodobá investícia, ktorá platí účty. Ak chcete mať kvalitný web, zamerajte sa na obsah, techniku a&nbsp;dizajn. Takto.
+description: Zabudnite na facebook. Kvalitná webstránka je dlhodobá investícia, ktorá platí účty. Ak chcete mať kvalitný web, zamerajte sa na obsah, techniku a dizajn. Takto.
 keywords: webstránka, webová stránka, webdizajn, dizajn, web
 og_image: 
 ---
@@ -196,4 +196,6 @@ Problém mnohých webstránok je, že ich dizajnér nevie takmer nič o&nbsp;opt
 
 Nečudo, že z&nbsp;toho majiteľov malých podnikov, živnostníkov či freelancerov bolí hlava. Väčšinou sú po krk ponorení vo vlastnej práci a&nbsp;nemajú záujem na vlastnú päsť riešiť problém z&nbsp;úplne cudzieho odvetvia, akým tvorba webstránok nepochybne&nbsp;je.
 
-Ste jedným z&nbsp;nich? Práve pre vás som tu ja. Pomôžem, poradím alebo pre vás priamo vytvorím kvalitnú a&nbsp;krásnu webstránku na mieru. Bude technicky optimalizovaná pre vyhľadávače a, ak chcete, pomôžem vám ju plniť kvalitným obsahom relevantným pre vaše odvetvie. A&nbsp;to všetko bez toho, aby ste museli platiť tri rozdielne špecializované agentúry. Win-Win. Ste in? [**Napíšte&nbsp;mi.**](mailto:branislav.dudas@gmail.com?subject=webstr%C3%A1nka&body=Ahoj%2C%20Bra%C5%88o%2C%20%C4%8D%C3%ADtal%20som%20Tvoj%20%C4%8Dl%C3%A1nok%20o%20webstr%C3%A1nkach%20a%20chcel%20by%20som)
+Ste jedným z&nbsp;nich? Práve pre vás som tu ja. Pomôžem, poradím alebo pre vás priamo vytvorím kvalitnú a&nbsp;krásnu webstránku na mieru. Bude technicky optimalizovaná pre vyhľadávače a, ak chcete, pomôžem vám ju plniť kvalitným obsahom relevantným pre vaše odvetvie. A&nbsp;to všetko bez toho, aby ste museli platiť tri rozdielne špecializované agentúry.
+
+Ak máte stránku, pošlite mi na ňu odkaz a ja vám **nezáväzne a zadarmo** spíšem pár odporúčaní, ako ju urobiť ešte lepšou. Alebo, ak stránku ešte nemáte, môžeme sa nezáväzne porozprávať o tom, aké máte možnosti. Win-Win. Ste in? [**Napíšte&nbsp;mi.**](mailto:branislav.dudas@gmail.com?subject=webstr%C3%A1nka&body=Ahoj%2C%20Bra%C5%88o%2C%20%C4%8D%C3%ADtal%20som%20Tvoj%20%C4%8Dl%C3%A1nok%20o%20webstr%C3%A1nkach%20a%20chcel%20by%20som)
