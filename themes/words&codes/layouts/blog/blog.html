@@ -16,7 +16,7 @@
 
 
               <div id="blog-archives" class="category" class="archive">
-                {{ range (where .Site.Pages "Type" "post") }}
+                {{ range (where .Site.RegularPages "Type" "in" (slice "post" "service")) }}
 
 
                    <div class="archive-list">
