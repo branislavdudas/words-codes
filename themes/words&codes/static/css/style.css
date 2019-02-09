@@ -47,7 +47,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
     --bg-color: #1e1e1e;
     --bd-color: #e31c37;
     --text-color: #fafafa;
-    --grey: #666;
+    --grey: #555;
   }
 }
 
@@ -238,6 +238,14 @@ figcaption {
   margin-bottom: 0;
 }
 
+.homepage > p > a {
+  color: inherit; text-decoration: none; transition: color 0.2s ease; border: 0; box-shadow: inset 0 -5px 0 var(--bd-color);
+}
+
+.homepage > p > a:hover {
+  color: var(--bd-color); box-shadow: inset 0 -5px 0 var(--bd-color);
+}
+
 .homepage > h1,
 h2,
 h3,
@@ -277,6 +285,14 @@ h6 {
   .homepage > blockquote {
     font-size: 4.5vw;
     width: 100%;
+  }
+
+  .homepage > p > a {
+    box-shadow: inset 0 -2px 0 var(--bd-color);
+  }
+  
+  .homepage > p > a:hover {
+    box-shadow: inset 0 -2px 0 var(--bd-color);
   }
 
   .homepage {
@@ -392,27 +408,16 @@ a {
   text-decoration: none;
 }
 
-p > a:hover {
-  background: rgba(189, 0, 0, 0.1);
-  -moz-transition-property: background;
-  -webkit-transition-property: background;
-  transition-property: background;
-  -moz-transition-duration: 0.2s;
-  -webkit-transition-duration: 0.2s;
-  transition-duration: 0.2s;
-  border-radius: 8px;
+p > a {
+  color: inherit; text-decoration: none; transition: color 0.2s ease; border: 0; box-shadow: inset 0 -2px 0 var(--bd-color);
 }
 
-p > a:after {
-  position: relative;
-  content: "※";
-  margin-left: 0.1em;
-  color: var(--bd-color);
+p > a:hover {
+  color: var(--bd-color); box-shadow: inset 0 -2px 0 var(--bd-color);
 }
 
 aside > a {
-  color: var(--bd-color);
-  text-decoration: underline;
+  box-shadow: inset 0 -1px 0 var(--bd-color);
 }
 
 /* Footer */
@@ -452,20 +457,6 @@ article > footer > .newsletter > h3 {
   width: 100%;
   text-transform: uppercase;
   margin: auto;
-}
-
-article > footer > .profile {
-  padding-top: 30px;
-  margin: auto;
-  width: 33%;
-  margin: auto;
-}
-
-article > footer > .profile > img {
-  border-radius: 50%;
-  width: 150px;
-  float: left;
-  margin-right: 30px;
 }
 
 article > footer > .recommended > h3 {
@@ -691,5 +682,5 @@ article > footer > .recommended > h3 {
 
 
         .sharethis .twittershare:hover, .sharethis .facebookshare:hover {
-            background-color: #333;
+            background-color: var(--bd-color);
           }
