@@ -395,7 +395,7 @@ section > ul {
 
 @media all and (max-width: 520px) {
   aside {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     background: var(--bg-color);
     padding: 0.5rem;
     width: 90%;
