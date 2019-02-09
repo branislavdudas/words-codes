@@ -126,6 +126,14 @@ ul {
   list-style-position: outside;
 }
 
+@media all and (max-width: 600px) {
+  ol,
+  ul {
+    padding-left: 10%;
+    list-style-position: outside;
+  }
+}
+
 ol li {
   list-style-type: lower-roman;
 }
@@ -308,9 +316,8 @@ h6 {
   }
 }
 
-.homepage > ol,
-ul {
-  padding-left: 0;
+.homepage > ol, ul {
+  padding-left: 10;
   list-style-position: outside;
   line-height: var(--line-height);
   font-size: var(--text-big);
