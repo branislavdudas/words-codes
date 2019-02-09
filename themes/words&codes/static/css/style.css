@@ -32,14 +32,14 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
   --bg-color: #fafafa;
   --bd-color: #e31c37;
   --text-color: #1e1e1e;
-  --grey: #666;
+  --grey: #efefef;
 }
 
 .dark {
   --bg-color: #1e1e1e;
   --bd-color: #e31c37;
   --text-color: #fafafa;
-  --grey: #666;
+  --grey: #555;
 }
 
 @media (prefers-dark-interface) {
@@ -637,9 +637,11 @@ article > footer > .recommended > h3 {
   grid-column-gap: 30px;
   width: 39%;
   margin: auto;
-  padding-top: 30px;
+  margin-top: 3em;
+  padding-top: 2em;
   padding-bottom: 30px;
   align-items: center;
+  border-top: 3px double var(--grey);
 }
 
 .article-profile > img {
@@ -669,3 +671,25 @@ article > footer > .recommended > h3 {
     align-items: center;
   }
 }
+
+/* Social sharing */
+
+.sharethis { text-align: center; padding-top: 1em; }
+        .sharethis a { border: none; box-shadow: none; }
+        .sharethis .twittershare, .sharethis .facebookshare {
+            width: 35px;
+            height: 35px;
+            margin: 0px 3px;
+            display: inline-block;
+            background-color: var(--grey);
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            -moz-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
+            -webkit-transition: all 0.3s ease;
+          }
+
+
+        .sharethis .twittershare:hover, .sharethis .facebookshare:hover {
+            background-color: #333;
+          }
