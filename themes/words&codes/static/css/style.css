@@ -54,7 +54,8 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 @media all and (max-width: 520px) {
   :root {
     --text-big: 5vw;
-    --text-small: 4.5vw;
+    --text-small: 5vw;
+    --line-height: 1.4;
   }
 }
 
@@ -100,6 +101,10 @@ h1 {
 @media all and (max-width: 600px) {
   h1 {
     width: 90vw;
+    font-size: 11vw;
+    line-height: 1.1;
+    text-align: left;
+    font-weight: 600;
   }
 }
 
@@ -201,6 +206,7 @@ figcaption {
 
   .navbar > li {
     padding: 5px;
+    font-weight: 400;
   }
 
   .navbar > li:first-child {
@@ -208,7 +214,9 @@ figcaption {
   }
 
   .navbar > .logo {
-    padding-top: 0px;
+    padding-top: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 
   .nav-first {
@@ -561,7 +569,7 @@ article > footer > .recommended > h3 {
 
   section {
     display: grid;
-    grid-template-columns: 10px 1fr;
+    grid-template-columns: 0px 1fr;
     grid-column-gap: 0px;
   }
 
@@ -657,6 +665,7 @@ article > footer > .recommended > h3 {
     grid-column-gap: 10px;
     width: 100%;
     margin: auto;
+    margin-top: 2em;
     padding-top: 20px;
     padding-bottom: 20px;
     align-items: center;
