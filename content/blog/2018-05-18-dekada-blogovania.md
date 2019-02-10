@@ -16,12 +16,12 @@ Za desať rokov som napísal mnoho článkov, ktoré sa našťastie stratili v&n
 
 Môj blog prešiel za desať rokov mnohými zmenami. Dizajn som menil pravidelne, niekedy rýchlejšie, než som stíhal písať. Chvíľu som písal o&nbsp;kreativite pod značkou **crea-t-witty.** Približne rok som pravidelne písaval len recenzie na knihy, ktoré som prečítal. Každý týždeň v utorok pribudol na web nový článok. A&nbsp;potom tu bol mesiac, keď som písal každý deň jeden článok, potom každý týždeň. A&nbsp;niekedy aj raz za rok… <aside>Výzvu každodenného písania si plánujem v&nbsp;blízkej budúcnosti vyskúšať&nbsp;znovu.</aside>
 
-Až na krátku slepú uličku, ktorou bolo blogovanie na <span style="font-variant:small-caps;">sme</span>.sk, som vždy písal na svojej doméne. Ale desať rokov… dekáda si zaslúži nový článok. A samozrejme nový dizajn. A nový brand. A novú doménu. A nový začiatok.
+Až na krátku slepú uličku, ktorou bolo blogovanie na <span style="font-variant:small-caps;">sme</span>.sk, som vždy písal na svojej doméne. Ale desať rokov… dekáda si zaslúži nový článok. A samozrejme nový dizajn. A nový brand. A novú doménu. A [novú webstránku](/sluzby/webstranka/). A nový začiatok.
 
 Mám pre vás pripravených kopec tém o&nbsp;písaní, ľudskej mysli (prevažne mojej), o&nbsp;mýtoch a&nbsp;príbehoch, náboženstve a&nbsp;filozofii, ale aj o&nbsp;marketingu, samozrejme o&nbsp;knihách. Tešíte sa? <aside>Ak áno, pod článkom je možnosť odoberať mailový newsletter. Aj to je jedna z&nbsp;noviniek.</aside>
 
 ## Technická stránka
-Túto novú stránku som zbúchal sám a&nbsp;na kolene. Programovanie i&nbsp;dizajn. Naučil som sa vďaka nej čo sú CSS Grid a&nbsp;Flexbox, ako funguje Github a&nbsp;generátor statických stránok Hugo. Ak niečo nevyzerá tak, ako by malo, ak niekde narazíte na problém, dajte mi vedieť. Stále je to work in progress. A&nbsp;stále&nbsp;bude…
+Túto novú stránku som zbúchal sám a&nbsp;na kolene. [Programovanie i&nbsp;dizajn](/sluzby/webstranka/). Naučil som sa vďaka nej čo sú CSS Grid a&nbsp;Flexbox, ako funguje Github a&nbsp;generátor statických stránok Hugo. Ak niečo nevyzerá tak, ako by malo, ak niekde narazíte na problém, dajte mi vedieť. Stále je to work in progress. A&nbsp;stále&nbsp;bude…
 
 ![Page speed test results](/images/dekada-blogovania/test.png) <aside>Celkom dobrý výsledok na amatéra, čo&nbsp;poviete?</aside>
 
