@@ -17,6 +17,8 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 
 ## 2019 (spolu zatiaľ 6 kníh)
+
+The Design of Everyday Things – Don Norman &bull;
 [Reputation: What it is and Why it Matters – Gloria Origgi](https://amzn.to/2T5xDAF) &bull;
 [Company of One: Why Staying Small is the Next Big Thing for Business – Paul Jarvis](https://amzn.to/2WatLAu) &bull;
 [100 Ways to Improve Your Writing – Gary Provost](https://amzn.to/2RII8xm) &bull;
