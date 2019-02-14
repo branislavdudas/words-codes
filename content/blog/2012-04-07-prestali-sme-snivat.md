@@ -6,7 +6,8 @@ date: 2012-04-07T08:07:25+00:00
 url: /blog/prestali-sme-snivat/
 categories:
   - Nezaradené
-description: Prepis a preklad monológu Neila deGrasse Tysona z videa We stopped dreaming. 
+description: Prepis a preklad monológu Neila deGrasse Tysona z videa We stopped dreaming.
+draft: true
 ---
 Neil deGrasse Tyson: V šesťdesiatych rokoch sme boli vo vojne so Sovietskym zväzom. Studená vojna. A trochu viac horúca vojna v juhovýchodnej Ázii. Báli sme sa ich, pretože vystrelili Sputnik, čo bol, a na čo ľudia zabúdajú, prázdny plášť medzikontinentálnej raketovej strely. Slovo Sputnik samo o sebe znamená spolucestujúci, čiže je mierové, ale bola to balistická raketa bez výbušnín. Bol to signál a my v Amerike sme šaleli. NASA založili kvôli strachu zo Sputnika. Na Mesiac sme išli kvôli tomu, že sme sa báli, že Rusi budú ovládať oblohu. Po tom ako sme boli na Mesiaci v 1969, vesmírni nadšenci tvrdili, že do desiatich rokov budeme na Marse. Absolútne nepochopili, prečo sme vôbec išli na Mesiac. Boli sme vo vojne. Hneď ako sme zistili, že Rusi nie sú pripravení pristáť na Mesiaci, prestali sme na Mesiac chodiť. To by nemalo prekvapovať nikoho, kto sa pozerá na toto obdobie. <!--more-->
 

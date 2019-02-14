@@ -6,6 +6,7 @@ date: 2012-06-21T17:05:05+00:00
 url: /blog/male-zamyslenie-sa-o-knihach/
 categories:
   - Nezaradené
+draft: true
 description: Aký úžasná vec je kniha! Je to plochý predmet, ktorý bol pôvodne kusom stromu, s pohyblivými časťami a má v sebe otlačené tisícky malých tmavých machúľ. Ale stačí vám jediný pohľad do jej vnútra a ocitáte sa v mysli inej osoby, možno už tisícky rokov mŕtvej.
 ---
 Aký úžasná vec je kniha! Je to plochý predmet, ktorý bol pôvodne kusom stromu, s pohyblivými časťami a má v sebe otlačené tisícky malých tmavých machúľ. Ale stačí vám jediný pohľad do jej vnútra a ocitáte sa v mysli inej osoby, možno už tisícky rokov mŕtvej. Ich autori ticho, ale zreteľne, prehovárajú priamo k nám, v našich hlavách naprieč miléniami. Písmo kníh je asi najväčší ľudský vynález. Spája ľudí z rôznych epoch, ktorí sa nikdy nemohli poznať. Knihy rozbíjajú okovy času. Kniha je dôkaz, že človek dokáže vytvoriť niečo magické.<!--more-->

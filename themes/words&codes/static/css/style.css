@@ -682,21 +682,28 @@ article > footer > .recommended > h3 {
 /* Social sharing */
 
 .sharethis { text-align: center; padding-top: 1em; }
-        .sharethis a { border: none; box-shadow: none; }
-        .sharethis .twittershare, .sharethis .facebookshare {
-            width: 35px;
-            height: 35px;
-            margin: 0px 3px;
-            display: inline-block;
-            background-color: var(--grey);
-            border-radius: 3px;
-            transition: all 0.3s ease;
-            -moz-transition: all 0.3s ease;
-            -o-transition: all 0.3s ease;
-            -webkit-transition: all 0.3s ease;
-          }
+  .sharethis a { border: none; box-shadow: none; }
+  .sharethis .twittershare, .sharethis .facebookshare {
+      width: 35px;
+      height: 35px;
+      margin: 0px 3px;
+      display: inline-block;
+      background-color: var(--grey);
+      border-radius: 3px;
+      transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      -webkit-transition: all 0.3s ease;
+      }
 
 
-        .sharethis .twittershare:hover, .sharethis .facebookshare:hover {
-            background-color: var(--bd-color);
-          }
+  .sharethis .twittershare:hover, .sharethis .facebookshare:hover {
+      background-color: var(--bd-color);
+      }
+
+
+/* Reading progress */
+.c-progress {margin: unset; position: fixed; top: 0; left: 0; width: 100%; height: 3px; -webkit-appearance: none; -moz-appearance: none; appearance: none; background: transparent; border: none; color: #e31c37; z-index: 5;}
+  .c-progress::-webkit-progress-bar { background: transparent;}
+  .c-progress::-webkit-progress-value {background: #e31c37;}
+  .c-progress::-moz-progress-bar {background: #e31c37;}

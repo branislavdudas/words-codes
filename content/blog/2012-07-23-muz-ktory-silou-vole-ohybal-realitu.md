@@ -1,5 +1,5 @@
 ---
-title: Muž, ktorý silou vôle ohýbal realitu
+title: Steve Jobs – muž, ktorý silou vôle ohýbal realitu
 author: Branislav Dudáš
 type: post
 date: 2012-07-23T17:33:32+00:00

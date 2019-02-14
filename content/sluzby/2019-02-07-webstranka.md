@@ -9,7 +9,7 @@ categories:
 draft: false
 description: Zabudnite na facebook. Kvalitná webstránka je dlhodobá investícia, ktorá platí účty. Ak chcete mať kvalitný web, zamerajte sa na obsah, techniku a dizajn. Takto.
 keywords: webstránka, webová stránka, webdizajn, dizajn, web
-og_image: 
+og_image: https://res.cloudinary.com/words-codes/image/upload/v1549870341/og-images/og-image-webstranka.jpg
 ---
 Biznis bez webstránky je ako obchod bez výkladu. Webová stránka je miestom prvého kontaktu s&nbsp;potenciálnymi zákazníkmi. Buduje vaše meno dvadsaťštyri hodín denne, sedem dní v&nbsp;týždni, za každého počasia a&nbsp;aj počas štátnych sviatkov. To pre vás neurobí žiadny zamestnanec. Preto, ak si dávate záležať na výbere zamestnancov, mali by ste si dať záležať aj na&nbsp;webstránke.
 

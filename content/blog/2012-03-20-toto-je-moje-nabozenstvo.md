@@ -4,6 +4,7 @@ author: Branislav Dudáš
 type: post
 date: 2012-03-20T21:07:03+00:00
 url: /blog/toto-je-moje-nabozenstvo/
+draft: true
 categories:
   - Nezaradené
 description: Prepis a preklad monológu Neila deGrasse Tysona z videa The most astounding fact pre časopis TIME. 
