@@ -4,6 +4,7 @@ author: Branislav Dudáš
 type: post
 date: 2012-02-24T16:20:45+00:00
 url: /blog/chyba-mi-macgyver/
+draft: true
 categories:
   - Nezaradené
 description: Nostalgická spomienka na najobľúbenejší seriál môjho detstva – kultový MacGyver.

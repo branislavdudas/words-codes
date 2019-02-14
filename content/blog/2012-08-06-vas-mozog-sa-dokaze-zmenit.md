@@ -1,5 +1,5 @@
 ---
-title: Váš mozog sa dokáže zmeniť
+title: Váš mozog sa dokáže zmeniť – neuroplasticita v praxi
 author: Branislav Dudáš
 type: post
 date: 2012-08-06T06:27:55+00:00

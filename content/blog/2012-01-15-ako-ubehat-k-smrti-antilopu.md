@@ -1,5 +1,5 @@
 ---
-title: Ako ubehať k smrti antilopu
+title: Ako ubehať k smrti antilopu? Dozviete sa v knihe Born to Run
 author: Branislav Dudáš
 type: post
 date: 2012-01-15T16:59:00+00:00

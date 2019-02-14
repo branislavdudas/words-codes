@@ -1,5 +1,5 @@
 ---
-title: Existuje vôbec boh? Nie
+title: Existuje vôbec boh? Je to blud, hovorí Richard Dawkins
 author: Branislav Dudáš
 type: post
 date: 2012-01-05T18:19:52+00:00
