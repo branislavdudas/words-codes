@@ -1,0 +1,58 @@
+<script type="application/ld+json">
+  { "@context": "http://schema.org", 
+   "@type": "BlogPosting",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://words.codes/"
+ },
+   "headline": "{{ .Title | markdownify }}",
+
+   {{ if .Params.og_image }}
+   "image": "{{ .Params.og_image | absURL }}",
+   {{ end }}
+
+   "editor": "Branislav Dudáš", 
+
+   {{ if .Params.keywords }}
+   "keywords": "{{ .Params.keywords }}",
+   {{ end }}
+
+   {{ if .Params.wordcount }}
+   "wordcount": "{{ .Params.wordcount }}",
+   {{ end }}
+
+   "publisher": {
+    "@type": "Organization",
+    "name": "Words & Codes",
+    "url": "https://words.codes/",
+    "logo": {
+      "@type": "ImageObject",
+      "name": "Words & Codes",
+      "width": "405",
+      "height": "60",
+      "url": "https://words.codes/logo/logoWC.jpg"
+  }
+  },
+
+   
+   "datePublished": "{{ .Params.date }}",
+   "dateCreated": "{{ .Params.date }}",
+
+   {{ if .Params.date_modified }}
+   "dateModified": "{{ .Params.date_modified }}",
+   {{ end }}
+
+   "description": "{{ .Description }}",
+
+     "author": {
+      "@type": "Person",
+      "name": "Branislav Dudáš",
+      "jobTitle": "Content Creation Specialist",
+      "image": "https://words.codes/images/branislav-dudas-words-codes.jpg",
+      "url": "https://words.codes/",
+	      "sameAs" : [ "https://www.linkedin.com/in/branislavdudas",
+        "http://twitter.com/branislavdudas",
+        "https://github.com/branislavdudas/"]
+    }
+   }
+  </script>
