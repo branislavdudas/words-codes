@@ -16,8 +16,9 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 6 kníh)
+## 2019 (spolu zatiaľ 7 kníh)
 
+Digital Minimalism: Choosing a Focused Life in a Noisy World – Cal Newport &bull;
 The Design of Everyday Things – Don Norman &bull;
 [Reputation: What it is and Why it Matters – Gloria Origgi](https://amzn.to/2T5xDAF) &bull;
 [Company of One: Why Staying Small is the Next Big Thing for Business – Paul Jarvis](https://amzn.to/2WatLAu) &bull;
