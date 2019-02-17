@@ -1,12 +1,12 @@
 ---
-title: 'Gorila: 10 zaujímavostí, ktoré o nej neviete'
+title: 10 zaujímavostí o gorilách
 author: Branislav Dudáš
 type: post
 date: 2012-01-21T19:28:05+00:00
 url: /blog/gorila-10-veci-ktore-o-nej-neviete/
 categories:
   - Nezaradené
-description: Gorily sú zaujímavé zvieratá. Sú najväčšie žijúce primáty, majú ohromnú inteligenciu a silu a váhu. Poznáme tri druhy goríl, najviac ohrozená je gorila horská.
+description: Gorily sú najväčšie žijúce primáty, majú ohromnú inteligenciu a silu a váhu. Poznáme tri druhy goríl, najviac ohrozená je gorila horská. Dožívajú viac ako 50 rokov.
 ---
 1. Gorily sú najväčšie žijúce primáty – rad živočíchov, ktorý v sebe zahŕňa opice, opy a ľudí. Dospelý samec gorily dosahuje výšku dva metre a hmotnosť 140 až 250 kilogramov. Rozsah jeho ramien môže byť až dva a pol metra. Jeden samec sa silou vyrovná ôsmim dospelým mužom. Dospelé samice dosahujú zhruba polovičné veľkosti.
 
