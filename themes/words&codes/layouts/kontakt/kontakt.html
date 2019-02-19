@@ -1,0 +1,75 @@
+{{ define "title" }}{{ .Title | markdownify }}{{ end }}
+
+{{ define "main" }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+
+<article>
+  <header>
+
+  </header>
+
+  <div>{{ .Content }}</div>
+
+  <div class="contact">
+
+    <div class="contact-text">
+
+      <h1>Kontakt</h1>
+
+        <ul>
+          <li><strong>Branislav Dudáš</strong></li>
+          <li>Nobelova&nbsp;12/A</li>
+          <li>831&nbsp;02 Bratislava</li>
+          <li><a href="tel:+421948238327">+421 948 238 327</a></li>
+        </ul>
+
+        <ul>
+          <li>IČO: 50776924</li>
+          <li>DIČ: 1080192201</li>
+        </ul>
+
+    </div>
+
+    <div class="contact-form">
+
+      <form id="contact-form">
+        <p>
+          <label for="your-name">Volám sa</label>
+          <input type="text" name="your-name" id="your-name" minlength="3" placeholder="(vaše meno)" required>
+          a  
+          <label for="subject">mám</label>
+          <input type="text" name="subject" id="subject" minlength="3" placeholder="(web, nápad, prácu…)" required>
+          a hodila by sa mi tvoja pomoc. Ozvi sa mi čo najskôr na
+          <label for="email">e&#8209;mail</label>
+          <input type="email" name="your-email" id="email" placeholder="(váš e-mail)" required>
+          aby sme sa do toho mohli pustiť.
+        </p>        
+        <p>
+          <button type="submit">
+            <small>—&nbsp;odoslať</small>
+          </button>
+        </p>
+      </form>
+
+      
+
+    </div>
+
+
+
+
+
+
+  </div>
+
+  {{ partial "website-schema.html" . }}
+
+  <footer>
+
+  </footer>
+
+</article>
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}
