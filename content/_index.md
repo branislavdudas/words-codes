@@ -44,7 +44,7 @@ Aké príbehy hovoria klienti o mne?
 > <footer>Peter Pokojný – Sales Manager, Pelikan Group</footer>
 
 ## Kontakt: vytvorme spolu niečo super
-Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](mailto:branislav.dudas@gmail.com) A&nbsp;ja napíšem vám — čo budete chcieť.
+Ak chcete aj vy, aby sa vaše idey šírili myšlienkami, slovami, skutkami, ak chcete rozpovedať dôležitý príbeh slovami, ktoré budú spievať, ak chcete využívať slová ako mocný nástroj namiesto korporátnych klišé, [**napíšte mi.**](/kontakt/) A&nbsp;ja napíšem vám — čo budete chcieť.
 
 ## Katalóg článkov
-Na Words&nbsp;&&nbsp;Codes nájdete aj **„nekomerčné texty“** – blog. Píšem o&nbsp;príbehoch, ktoré si hovoríme, o&nbsp;mýtoch, v&nbsp;ktorých žijeme a&nbsp;o&nbsp;tom, ako slová ovplyvňujú naše myšlienky a&nbsp;naopak. Zoznam článkov nájdete v&nbsp;[**archíve**](/blog/index.html) a&nbsp;budúce články môžete dostať poštou.
+Na Words&nbsp;&&nbsp;Codes nájdete aj **„nekomerčné texty“** – blog. Píšem o&nbsp;príbehoch, ktoré si hovoríme, o&nbsp;mýtoch, v&nbsp;ktorých žijeme a&nbsp;o&nbsp;tom, ako slová ovplyvňujú naše myšlienky a&nbsp;naopak. Zoznam článkov nájdete v&nbsp;[**archíve**](/blog/) a&nbsp;budúce články môžete dostať poštou.

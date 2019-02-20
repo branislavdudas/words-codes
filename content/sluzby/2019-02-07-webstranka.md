@@ -199,4 +199,4 @@ Nečudo, že z&nbsp;toho majiteľov malých podnikov, živnostníkov či freelan
 
 Ste jedným z&nbsp;nich? Práve pre vás som tu ja. Pomôžem, poradím alebo pre vás priamo vytvorím kvalitnú a&nbsp;krásnu webstránku na mieru. Bude technicky optimalizovaná pre vyhľadávače a, ak chcete, pomôžem vám ju plniť kvalitným obsahom relevantným pre vaše odvetvie. A&nbsp;to všetko bez toho, aby ste museli platiť tri rozdielne špecializované agentúry.
 
-Ak máte stránku, pošlite mi na ňu odkaz a ja vám **nezáväzne a zadarmo** spíšem pár odporúčaní, ako ju urobiť ešte lepšou. Alebo, ak stránku ešte nemáte, môžeme sa nezáväzne porozprávať o tom, aké máte možnosti. Win-Win. Ste in? [**Napíšte&nbsp;mi.**](mailto:branislav.dudas@gmail.com?subject=webstr%C3%A1nka&body=Ahoj%2C%20Bra%C5%88o%2C%20%C4%8D%C3%ADtal%20som%20Tvoj%20%C4%8Dl%C3%A1nok%20o%20webstr%C3%A1nkach%20a%20chcel%20by%20som)
+Ak máte stránku, pošlite mi na ňu odkaz a ja vám **nezáväzne a zadarmo** spíšem pár odporúčaní, ako ju urobiť ešte lepšou. Alebo, ak stránku ešte nemáte, môžeme sa nezáväzne porozprávať o tom, aké máte možnosti. Win-Win. Ste in? [**Napíšte&nbsp;mi.**](/kontakt/)

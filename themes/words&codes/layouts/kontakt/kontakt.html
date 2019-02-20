@@ -32,7 +32,10 @@
 
     <div class="contact-form">
 
-      <form id="contact-form">
+      <form id="contact-form" name="contact-page" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+        <p hidden>
+          <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+        </p>
         <p>
           <label for="your-name">Volám sa</label>
           <input type="text" name="your-name" id="your-name" minlength="3" placeholder="(vaše meno)" required>
@@ -46,7 +49,7 @@
         </p>        
         <p>
           <button type="submit">
-            <small>—&nbsp;odoslať</small>
+            <small>—&nbsp;Odoslať</small>
           </button>
         </p>
       </form>
