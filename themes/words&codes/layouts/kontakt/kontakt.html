@@ -65,7 +65,21 @@
 
   </div>
 
-  {{ partial "website-schema.html" . }}
+  <script type="application/ld+json">
+
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://words.codes/",
+      "contactPoint": [
+        { "@type": "ContactPoint",
+          "telephone": "+421948238327",
+          "contactType": "customer service"
+        }
+      ]
+    }
+    
+  </script>
 
   <footer>
 
