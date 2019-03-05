@@ -1,9 +1,9 @@
 ---
-title: Knihy
+title: Zoznam prečítaných kníh
 author: Branislav Dudáš
 type: index
 date: 2018-09-14T18:19:52+00:00
-description: Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal.
+description: Na tejto stránke nenájdete nič zaujímavé. Nechoďte sem. Je to len monolitický zoznam kníh, ktoré som prečítal, aby som vedel perfektne písať. Varoval som vás. Nechoďte sem.
 url: /knihy/
 ---
 # Knihy
