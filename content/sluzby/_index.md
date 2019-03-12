@@ -12,7 +12,7 @@ Remeslo má zlaté dno. Ale prečo sa držať pri dne, keď môžete byť na vrc
 
 <p style="text-align: center;">
 <a href="#copywriting"><b>Copywriting</b></a> – 
-<a href="#seo"><b>SEO optimalizácia pre vyhľadávače</b></a> – 
+<a href="#seo"><b>SEO/optimalizácia pre vyhľadávače</b></a> – 
 <a href="#social"><b>Správa sociálnych sietí</b></a> – 
 <a href="#weby"><b>Tvorba web stránok</b></a> – 
 <a href="#graphic"><b>Grafický dizajn</b></a> – 
@@ -38,7 +38,7 @@ Všetko, čo sa oplatí povedať, sa oplatí povedať štýlovo. Pomôžem vám 
 
 <a name="seo">![SEO – optimalizácia pre vyhľadávače od Words & Codes](/images/seo.svg)</a>
 
-## SEO - optimalizácia pre vyhľadávače
+## SEO/optimalizácia pre vyhľadávače
 Všetky oči sveta sa upierajú na content. Kým copywriting je tvorba obsahu, ktorý sa páči ľuďom, SEO je tvorba obsahu, ktorý sa páči Googlu. Pretože prvotriedna ponuka bez prvej pozície v&nbsp;Googli dopyt nevytvorí. So správne vystavaným obsahom a&nbsp;s&nbsp;dobrou web stránkou sa do povedomia a na prvé priečky vo vyhľadávaní dostanete raz-dva. [**Objednajte&nbsp;si&nbsp;ma.**](mailto:branislav.dudas@gmail.com)
 
 <a name="social">![Správa sociálnych sietí od Words & Codes](/images/social.svg)</a>
