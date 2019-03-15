@@ -7,7 +7,7 @@ url: /blog/ludia-sa-menia-poviedka/
 categories:
   - Nezaradené
 keywords: poviedka, rodina, test, DNA, dcéra, mimomanželské, dieťa, smrť, láska
-description: Krátka poviedka o vyrovnávaní sa s koncom vzťahu a o láske otca k dieťaťu. 
+description: Ako sa vyrovnať s tragickým koncom vzťahu? A môže zmeniť jeden list lásku otca k dieťaťu? – poviedka
 ---
 Chcel by som na teba kričať. Nadávať ti. Udrieť ťa. Áno, udrieť ťa. Cítiť ako chrbát mojej ruky narazí na tvoje líce. Tak veľmi by som chcel citíť pokožku tvojich tvári, opäť v mojich rukách. Neviem čo by som robil, ak by si tu bola.<!--more--> Bože, ako veľmi chcem aby si tu bola. Viem, že aj ty by si to chcela, ak by si ešte mohla niečo chcieť. Lenže nemôžeš. Už nie si. A tak tu stojím sám.
 
@@ -15,37 +15,37 @@ Pamätám si ten deň, keď si ma presvedčila, keď som sa rozhodol zmeniť svo
 
 Bol to ten deň, keď si ma presvedčila, aby sme mali dieťa. Sľúbila si, že väčšinu starostí na seba plne vezmeš ty. Spätne si uvedomujem, aký smiešny sľub to bol. Bol to ten deň, keď by sme sa začali snažiť. Lenže snaha si vyžaduje opakovania a nám sa to, zázračne, podarilo na prvý pokus. Dnes už mi to ako zázrak nepripadá.
 
-Vždy som sa tešil, ako tu na tomto balkóne raz budeme počas letných večerov spolu piť ružové víno a rozprávať sa o filozofii. Lenže, prvé leto, keď sme sem prišli, do väčšieho, si víno nemohla a namiesto filozofie si riešila zariadenie detskej izby. Druhé leto si si so mnou nepripila tiež, lebo mlieko a tretie&#8230; Tretie leto som tu už trávil sám, premýšľaním o tom, ako dlho trvá pád z piateho podlažia.
+Vždy som sa tešil, ako tu na tomto balkóne raz budeme počas letných večerov spolu piť ružové víno a rozprávať sa o filozofii. Lenže, prvé leto, keď sme sem prišli, do väčšieho, si víno nemohla a namiesto filozofie si riešila zariadenie detskej izby. Druhé leto si si so mnou nepripila tiež, lebo mlieko a tretie. Tretie leto som tu už trávil sám, premýšľaním o tom, ako dlho trvá pád z piateho podlažia.
 
 Za mojím chrbtom, za veľkým francúzskym oknom, sedí na podlahe dievčatko a rozlieva vymyslený čaj do vymyslených hrnčekov. Zdvihne hlavu od hry a ja, keďže sa dnes večer nedokážem usmiať, zdvihnem nasilu kútiky a pohybom hlavy jej pokyniem, aby prišla za mnou.
 
-Kým prejde z jednej miestnosti do inej a potom ku mne, prejdem očami naposledy list v mojich rukách. Na prvý pohľad je jasné, že je zo súkromnej kliniky. Nie som si istý, ale štátna nemocnica by asi neinvestovala do dizajnu a už vôbec nie do typografie. Napríklad, písmeno N v slove Negatívny je nádherné&#8230;
+Kým prejde z jednej miestnosti do inej a potom ku mne, prejdem očami naposledy list v mojich rukách. Na prvý pohľad je jasné, že je zo súkromnej kliniky. Nie som si istý, ale štátna nemocnica by asi neinvestovala do dizajnu a už vôbec nie do typografie. Napríklad, písmeno N v slove Negatívny je nádherné.
 
-Dve veci však viem iste. Prvá: Naše dievčatko nemá moje gény&#8230;
+Dve veci však viem iste. Prvá: Naše dievčatko nemá moje gény.
 
 Otvorila dvere a objala ma okolo stehna.
   
-&#8211; Poď si so mnou pozrieť západ slnka, zlatíčko.
+– Poď si so mnou pozrieť západ slnka, zlatíčko.
   
 Natiahla krk, ale ponad plné zábradlie nemohla vidieť nič.
   
-&#8211; Viem, že som ti to zakázal, ale stúpni si sem na stoličku. Dnes je špeciálny deň, urobíme výnimku, dobre? Uvidíš lepšie.
+– Viem, že som ti to zakázal, ale stúpni si sem na stoličku. Dnes je špeciálny deň, urobíme výnimku, dobre? Uvidíš lepšie.
   
 Prekvapilo ju to, ale po chvíli sa usmiala a opatrne vyliezla na stoličku, ktorú som prirazil až úplne ku kraju. Potom sa naklonila ponad zábradlie.
   
 Chytil som ju rukou za pás nohavíc.
   
-&#8211; Budem ťa trochu držať, dobre?
+– Budem ťa trochu držať, dobre?
   
 Prikývla a ja som ju jedným voľným prstom pohladil po chrbte.
   
-&#8211; Páči sa ti to? Krásne však?
+– Páči sa ti to? Krásne však?
   
 Chvíľu sme len tak stáli vedľa seba. Ona pravdepodobne ešte nevedela na čo sa má pozerať a ja, ja som sa snažil čo najlepšie si zapamätať jesennú oblohu, tak nádherne červenú. Možno, ak si raz na tento večer niekto spomenie, povie, že mala farbu krvi.
   
 Naklonil som sa k nej, pobozkal ju na temeno a zhlboka som vdýchol vôňu jej vlasov.
   
-&#8211; Ľúbim ťa.
+– Ľúbim ťa.
 
 A druhá: Neprestanem ľúbiť svoju dcéru len kvôli hlúpej genetickej vade.
 

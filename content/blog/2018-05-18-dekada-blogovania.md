@@ -6,7 +6,7 @@ date: 2018-05-18T12:00:00+00:00
 url: /blog/dekada-blogovania
 categories:
   - Nezaradené
-description: Zhodnotenie po jednej dekáde blogovania a úplne nový dizajn, technológia a adresa blogu.
+description: Zhodnotenie jednej dekády blogovania a predstavenie úplne nového dizajnu, technológie a adresy blogu.
 keywords: design, dizajn, refresh, blogovanie, blog, branislav, dudáš, výkon, cms, písanie, copywriting
 og_image: https://words.codes/images/dekada-blogovania/test.png
 ---
