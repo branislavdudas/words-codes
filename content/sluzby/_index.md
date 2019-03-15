@@ -3,7 +3,7 @@ title: Marketingové služby, ktoré fungujú | Words & Codes
 author: Branislav Dudáš
 type: index
 date: 2018-09-14T18:19:52+00:00
-description: Words & Codes je kreatívny copywriting a inteligentný content pre vašu značku. Vaše texty píše Branislav Dudáš
+description: Hľadáte reklamné texty, strategické kampane, novú korporátnu identitu alebo web stránku? Words & Codes je kreatívny copywriting a inteligentný content pre vašu značku.
 url: /sluzby/
 og_image: 
 ---
