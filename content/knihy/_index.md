@@ -16,8 +16,14 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 7 kníh)
+## 2019 (spolu zatiaľ 12 kníh)
 
+Na volné noze – Robert Vlach &bull;
+What the Buddha Taught – Walpola Rahula &bull;
+Zen and the Art of Tea – D.T. Suzuki &bull;
+Tao Te Ching: The Essential Translation of the Ancient Chinese Book of the Tao – Lao Tzu & John Minford &bull;
+Debt - Updated and Expanded: The First 5,000 Years – David Graeber &bull;
+Ethics in the Real World: 82 Brief Essays on Things That Matter – Peter Singer &bull;
 Digital Minimalism: Choosing a Focused Life in a Noisy World – Cal Newport &bull;
 The Design of Everyday Things – Don Norman &bull;
 [Reputation: What it is and Why it Matters – Gloria Origgi](https://amzn.to/2T5xDAF) &bull;
