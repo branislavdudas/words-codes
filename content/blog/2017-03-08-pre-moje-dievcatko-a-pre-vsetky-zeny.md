@@ -7,7 +7,7 @@ url: /blog/pre-moje-dievcatko-a-pre-vsetky-zeny/
 categories:
   - Nezaradené
 keywords: dievča, žena, dcéra, feminizmus, láska, tipy
-description: Pár viet, ktoré chcem ako otec povedať svojej dcére o tom, ako byť ženou v modernom svete
+description: Ako otec povedať svoju dcéru naučiť čo najviac o tom, ako byť silnou a sebavedomou ženou v modernom svete
 ---
 Ešte to nevieš, ale narodila si sa s pokladom vo vienku. Je skrytý hlboko v tebe, pod dvoma krížikmi XX. Jedného dňa v tvojom živote budú ľudia, ktorí sa ťa pokúsia presvedčiť, že tvoj poklad nie je poklad, alebo že patrí im.<!--more--> Nie je to pravda. A ak to nedovolíš, ani to pravdou nikdy nebude. Prosím, nedovoľ to.
 
