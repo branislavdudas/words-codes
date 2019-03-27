@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /knihy
+Sitemap: https://words.codes/sitemap.xml
