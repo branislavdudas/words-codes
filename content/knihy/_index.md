@@ -16,8 +16,10 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 12 kníh)
+## 2019 (spolu zatiaľ 16 kníh)
 
+The Sleep Solution: Why Your Sleep is Broken and How to Fix It – Christopher Winter &bull;
+Work Clean: The life-changing power of mise-en-place to organize your life, work, and mind – Dan Charnas &bull;
 Na volné noze – Robert Vlach &bull;
 What the Buddha Taught – Walpola Rahula &bull;
 Zen and the Art of Tea – D.T. Suzuki &bull;
