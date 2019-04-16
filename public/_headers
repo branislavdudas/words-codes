@@ -5,4 +5,4 @@
   X-Content-Type-Options: nosniff
   link: <https://res.cloudinary.com>; rel=preconnect
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src * data:; script-src 'self' 'unsafe-inline'; style-src 'self'; font-src 'self'; report-uri https://4519e791f7f4aa42f9b940fc80a54723.report-uri.com/r/d/csp/enforce;
+  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src * data:; script-src 'self' unpkg.com netlify.com 'unsafe-inline'; style-src 'self'; font-src 'self'; report-uri https://4519e791f7f4aa42f9b940fc80a54723.report-uri.com/r/d/csp/enforce;
