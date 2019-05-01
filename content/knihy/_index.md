@@ -16,8 +16,10 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 18 kníh)
+## 2019 (spolu zatiaľ 20 kníh)
 
+Cutting Through Spiritual Materialism – Chögyam Trungpa &bull;
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease – Michael Greger &bull;
 The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting – Dr. Jason Fung, Jimmy Moore &bull;
 Secular Buddhism – Noah Rasheta &bull;
 The Sleep Solution: Why Your Sleep is Broken and How to Fix It – Christopher Winter &bull;
