@@ -16,8 +16,10 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 20 kníh)
+## 2019 (spolu zatiaľ 22 kníh, aktualizované 2. mája 2019)
 
+Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation – Lynne Truss &bull;
+Silence: In the Age of Noise – Erling Kagge &bull;
 Cutting Through Spiritual Materialism – Chögyam Trungpa &bull;
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease – Michael Greger &bull;
 The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting – Dr. Jason Fung, Jimmy Moore &bull;
