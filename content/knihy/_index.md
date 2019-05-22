@@ -16,9 +16,11 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 22 kníh, aktualizované 2. mája 2019)
+## 2019 (spolu zatiaľ 24 kníh, aktualizované 22. mája 2019)
 
-Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation – Lynne Truss &bull;
+The Science of Storytelling – Will Storr &bull;
+Superintelligence: Paths, Dangers, Strategies – Nick Bostrom &bull;
+Meditations on First Philosophy – René Descartes &bull;
 Silence: In the Age of Noise – Erling Kagge &bull;
 Cutting Through Spiritual Materialism – Chögyam Trungpa &bull;
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease – Michael Greger &bull;
