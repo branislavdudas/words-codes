@@ -13,11 +13,13 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 
 - [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](https://amzn.to/2SRSMhX);
 - [The Histories – Herodotus, Tom Holland](https://amzn.to/2H89Nmj);
-- [Mastering The Core Teachings of The Buddha – Daniel M. Ingram](https://amzn.to/2RpYlYg)
 
 
-## 2019 (spolu zatiaľ 24 kníh, aktualizované 22. mája 2019)
+## 2019 (spolu zatiaľ 27 kníh, aktualizované 30. mája 2019)
 
+Confession of a Buddhist Atheist – Stephen Batchelor &bull;
+Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book (Second Edition Revised and Expanded) – Daniel M. Ingram &bull;
+On the Nature of Things – Titus Lucretius Carus &bull;
 The Science of Storytelling – Will Storr &bull;
 Superintelligence: Paths, Dangers, Strategies – Nick Bostrom &bull;
 Meditations on First Philosophy – René Descartes &bull;
