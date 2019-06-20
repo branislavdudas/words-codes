@@ -14,9 +14,12 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](https://amzn.to/2SRSMhX);
 - [The Histories – Herodotus, Tom Holland](https://amzn.to/2H89Nmj);
 
+## 2019 (spolu zatiaľ 31 kníh, aktualizované 20. júna 2019)
 
-## 2019 (spolu zatiaľ 27 kníh, aktualizované 30. mája 2019)
-
+Hooked: How to Build Habit-Forming Products – Nir Eyal &bull;
+Surfaces and Essences - Analogy as the Fuel and Fire of Thinking – Douglas Hofstadter &bull;
+How to Do Nothing: Resisting the Attention Economy – Jenny Odell &bull;
+The Essential Dogen: Writings of the Great Zen Master – Peter Levitt &bull;
 Confession of a Buddhist Atheist – Stephen Batchelor &bull;
 Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book (Second Edition Revised and Expanded) – Daniel M. Ingram &bull;
 On the Nature of Things – Titus Lucretius Carus &bull;
