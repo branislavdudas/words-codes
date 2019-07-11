@@ -14,8 +14,12 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - [Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky](https://amzn.to/2SRSMhX);
 - [The Histories – Herodotus, Tom Holland](https://amzn.to/2H89Nmj);
 
-## 2019 (spolu zatiaľ 31 kníh, aktualizované 20. júna 2019)
+## 2019 (spolu zatiaľ 35 kníh, aktualizované 11. júla 2019)
 
+The Varieties of Religious Experience: A Study in Human Nature – William James &bull;
+Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition – Christopher D Wallis &bull;
+The Consolation of Philosophy – Ancius Boethius &bull;
+The Iliad: A New Translation by Caroline Alexander – Homer &bull;
 Hooked: How to Build Habit-Forming Products – Nir Eyal &bull;
 Surfaces and Essences - Analogy as the Fuel and Fire of Thinking – Douglas Hofstadter &bull;
 How to Do Nothing: Resisting the Attention Economy – Jenny Odell &bull;
