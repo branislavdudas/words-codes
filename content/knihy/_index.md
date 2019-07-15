@@ -14,8 +14,9 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky;
 - The Histories – Herodotus, Tom Holland;
 
-## 2019 (spolu zatiaľ 36 kníh, aktualizované 12. júla 2019)
+## 2019 (spolu zatiaľ 37 kníh, aktualizované 15. júla 2019)
 
+Narrow Road to the Interior: And Other Writings – Matsuo Bashō &bull;
 Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered – Austin Kleon &bull;
 The Varieties of Religious Experience: A Study in Human Nature – William James &bull;
 Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition – Christopher D Wallis &bull;
