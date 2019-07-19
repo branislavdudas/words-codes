@@ -14,8 +14,12 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky;
 - The Histories – Herodotus, Tom Holland;
 
-## 2019 (spolu zatiaľ 37 kníh, aktualizované 15. júla 2019)
+## 2019 (spolu zatiaľ 41 kníh, aktualizované 19. júla 2019)
 
+The Song of Achilles – Madeline Miller &bull;
+Keep Going: 10 Ways to Stay Creative in Good Times and Bad – Austin Kleon &bull;
+The Jhanas in Theravada Buddhist Meditation – Henepola Gunaratana &bull;
+Pursuit of Truth – Willard Van Orman Quine &bull;
 Narrow Road to the Interior: And Other Writings – Matsuo Bashō &bull;
 Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered – Austin Kleon &bull;
 The Varieties of Religious Experience: A Study in Human Nature – William James &bull;
