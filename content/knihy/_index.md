@@ -14,8 +14,9 @@ Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii
 - Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky;
 - The Histories – Herodotus, Tom Holland;
 
-## 2019 (spolu zatiaľ 41 kníh, aktualizované 19. júla 2019)
+## 2019 (spolu zatiaľ 42 kníh, aktualizované 22. júla 2019)
 
+Seven Types of Atheism – John N. Gray &bull;
 The Song of Achilles – Madeline Miller &bull;
 Keep Going: 10 Ways to Stay Creative in Good Times and Bad – Austin Kleon &bull;
 The Jhanas in Theravada Buddhist Meditation – Henepola Gunaratana &bull;
