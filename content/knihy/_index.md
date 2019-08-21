@@ -9,13 +9,14 @@ url: /knihy/
 # Knihy
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
-## Práve čítam:
 
-- Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky;
-- The Histories – Herodotus, Tom Holland;
+## 2019 (spolu zatiaľ 47 kníh, aktualizované 21. augusta 2019)
 
-## 2019 (spolu zatiaľ 42 kníh, aktualizované 22. júla 2019)
-
+The Case Against Reality: Why Evolution Hid the Truth from Our Eyes – Donald Hoffman &bull;
+Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career – Scott Young &bull;
+The Overstory – Richard Powers &bull;
+Peak: Secrets from the New Science of Expertise – K. Anders Ericsson,  Robert Pool &bull;
+Circe – Madeline Miller &bull;
 Seven Types of Atheism – John N. Gray &bull;
 The Song of Achilles – Madeline Miller &bull;
 Keep Going: 10 Ways to Stay Creative in Good Times and Bad – Austin Kleon &bull;

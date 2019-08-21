@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# These lines should *not* be indented
+media_folder: "static/images/" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "hidden", default: "Branislav Dudáš"}
+      - {label: "Type", name: "type", widget: "text", default: "blog"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Edit Date", name: "date_modified", widget: "datetime"}
+      - {label: "URL", name: "url", widget: "text", default: "/blog/post/"}
+      - {label: "Open Graph Image", name: "og_image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text", default: "Popis do 160 znakov"}
+      - {label: "Keywords", name: "keywords", widget: "text", default: "Popis do 160 znakov"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
