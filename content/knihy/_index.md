@@ -10,8 +10,13 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 47 kníh, aktualizované 21. augusta 2019)
+## 2019 (spolu zatiaľ 52 kníh, aktualizované 6. septembra 2019)
 
+The Book: On the Taboo Against Knowing Who You Are – Alan Watts &bull;
+Old Path White Clouds: Walking in the Footsteps of the Buddha – Thich Nhat Hanh  &bull;
+The Myth of Freedom and the Way of Meditation – Chögyam Trungpa &bull;
+Walden – Live in the Woods – Henry David Thoreau  &bull;
+Wisdom Wide and Deep: A Practical Handbook for Mastering Jhana and Vipassana – Shaila Catherine &bull;
 The Case Against Reality: Why Evolution Hid the Truth from Our Eyes – Donald Hoffman &bull;
 Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career – Scott Young &bull;
 The Overstory – Richard Powers &bull;
