@@ -10,8 +10,13 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 52 kníh, aktualizované 6. septembra 2019)
+## 2019 (spolu zatiaľ 57 kníh, aktualizované 17. septembra 2019)
 
+In Love with the World: A Monk's Journey Through the Bardos of Living and Dying – Yongey Mingyur Rinpoche  &bull;
+The Buddha Before Buddhism: Wisdom from the Early Teachings – Gil Fronsdal  &bull;
+Sacred Knowledge: Psychedelics and Religious Experiences – William A. Richards  &bull;
+Reflections on the Self – Jiddu Krishnamurti  &bull;
+No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism – Chris Niebauer  &bull;
 The Book: On the Taboo Against Knowing Who You Are – Alan Watts &bull;
 Old Path White Clouds: Walking in the Footsteps of the Buddha – Thich Nhat Hanh  &bull;
 The Myth of Freedom and the Way of Meditation – Chögyam Trungpa &bull;
