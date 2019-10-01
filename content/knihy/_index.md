@@ -10,8 +10,11 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 57 kníh, aktualizované 17. septembra 2019)
+## 2019 (spolu zatiaľ 60 kníh, aktualizované 1. októbra 2019)
 
+The Origin of Consciousness in the Breakdown of the Bicameral Mind – Julian Jaynes  &bull;
+Seeing Like a State – James C. Scott  &bull;
+The Perennial Philosophy – Aldous Huxley  &bull;
 In Love with the World: A Monk's Journey Through the Bardos of Living and Dying – Yongey Mingyur Rinpoche  &bull;
 The Buddha Before Buddhism: Wisdom from the Early Teachings – Gil Fronsdal  &bull;
 Sacred Knowledge: Psychedelics and Religious Experiences – William A. Richards  &bull;
