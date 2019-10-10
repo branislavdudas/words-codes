@@ -10,8 +10,10 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 60 kníh, aktualizované 1. októbra 2019)
+## 2019 (spolu zatiaľ 62 kníh, aktualizované 10. októbra 2019)
 
+On Having No Head: Zen and the Re-discovery of the Obvious – Douglas Harding  &bull;
+The Doors of Perception – Aldous Huxley  &bull;
 The Origin of Consciousness in the Breakdown of the Bicameral Mind – Julian Jaynes  &bull;
 Seeing Like a State – James C. Scott  &bull;
 The Perennial Philosophy – Aldous Huxley  &bull;
