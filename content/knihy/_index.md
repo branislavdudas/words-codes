@@ -10,8 +10,11 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 67 kníh, aktualizované 12. novembra 2019)
+## 2019 (spolu zatiaľ 69 kníh, aktualizované 22. novembra 2019)
 
+The Tibetan Yogas Of Dream And Sleep – Tenzin Wangyal &bull;
+Nonduality: In Buddhism and Beyond – David R. Loy &bull;
+Vzpomínka na Zemi – Liou Cch’-sin &bull;
 Temný les – Liou Cch’-sin &bull;
 Problém tří těles – Liou Cch’-sin &bull;
 The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become Healthier, Slimmer, Faster, and Fitter – Patrick McKeown &bull;
