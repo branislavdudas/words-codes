@@ -23,7 +23,7 @@ Prekvapivo, kniha Proč spíme nie je o&nbsp;tom, prečo spíme, ale skôr o&nbs
 
 Oslabenou imunitou. Miznúcim mentálnym výkonom. Rastúcim rizikom rakoviny. Klesajúcou krásou. Mizerným metabolizmom. Skoršou smrťou. Skrátka, spánok je spôsob, ktorým dáva život kontra smrti. A&nbsp;spánková deprivácia je podľa Walkera nenápadný spôsob pomalej&nbsp;seba-eutanázie.
 
-Samozrejme, Walker sa živí nielen vedou o spánku, ale aj marketingom svojich teórií a mnohé tvrdenia a hyperbolizácie v knihe to potvrdzujú. Tak ako všetko, treba ju brať s rezervou. Napriek tomu je očividné, že populárny životný štýl spánku nepraje.
+Samozrejme, Walker sa živí nielen vedou o spánku, ale aj marketingom svojich teórií a mnohé tvrdenia a hyperbolizácie v&nbsp;knihe to potvrdzujú. Tak ako všetko, treba ju brať s rezervou. Napriek tomu je očividné, že populárny životný štýl spánku nepraje.
 
 Očividne, kniha ma presvedčila a&nbsp;považujem ju aj napriek mnohým hyperbolizáciám za natoľko dôležitú, že som o&nbsp;nej rozprával pár mesiacov každému, kto bol ochotný ma aspoň chvíľu počúvať a&nbsp;pár ľudí ju odo mňa dostalo ako&nbsp;darček.
 
