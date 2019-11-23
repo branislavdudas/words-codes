@@ -10,7 +10,7 @@ categories:
 draft: false
 description: Ak spíte kvalitne, pravidelne a dostatočne dlho, zvyšujete svoj subjektívny pocit šťastia, mentálnu aj fyzickú výkonnosť, schopnosť učiť sa a posilňujete svoj imunitný systém. Preto je spánok ten najlepší lifehack.
 keywords: kniha, recenzia, čítanie, spánok, proč spíme, Matthew Walker
-og_image: https://c1.staticflickr.com/8/7858/45818779424_1cc2203bd7_k.jpg
+og_image: https://res.cloudinary.com/words-codes/image/upload/v1574504671/og-images/og-image-proc-spime.jpg
 --- 
 Ak spíte kvalitne, pravidelne a dostatočne dlho, zvyšujete svoj subjektívny pocit šťastia, mentálnu aj fyzickú výkonnosť, schopnosť učiť sa a&nbsp;posilňujete svoj imunitný systém. Preto je spánok ten najlepší&nbsp;lifehack.
 
