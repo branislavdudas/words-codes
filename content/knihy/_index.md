@@ -10,8 +10,11 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 69 kníh, aktualizované 22. novembra 2019)
+## 2019 (spolu zatiaľ 72 kníh, aktualizované 22. novembra 2019)
 
+Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict – Tsultrim Allione &bull;
+Haiku – Macuo Bašó &bull;
+Our Pristine Mind: A Practical Guide to Unconditional Happiness – Orgyen Chowang &bull;
 The Tibetan Yogas Of Dream And Sleep – Tenzin Wangyal &bull;
 Nonduality: In Buddhism and Beyond – David R. Loy &bull;
 Vzpomínka na Zemi – Liou Cch’-sin &bull;
