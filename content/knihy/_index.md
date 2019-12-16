@@ -10,8 +10,13 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 72 kníh, aktualizované 22. novembra 2019)
+## 2019 (spolu zatiaľ 78 kníh, aktualizované 16. decembra 2019)
 
+The Undoing Project: A Friendship That Changed Our Minds – Michael Lewis &bull;
+A New Buddhist Path: Enlightenment, Evolution, and Ethics in the Modern World – David R. Loy &bull;
+The Enigma of Reason – Hugo Mercier, Dan Sperber &bull;
+The Spirit of Zen – Sam Van Schaik &bull;
+Marcus du Sautoy – What We Cannot Know: Explorations at the Edge of Knowledge &bull;
 Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict – Tsultrim Allione &bull;
 Haiku – Macuo Bašó &bull;
 Our Pristine Mind: A Practical Guide to Unconditional Happiness – Orgyen Chowang &bull;
@@ -23,25 +28,25 @@ Problém tří těles – Liou Cch’-sin &bull;
 The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become Healthier, Slimmer, Faster, and Fitter – Patrick McKeown &bull;
 Leonardo Da Vinci – Walter Isaacson &bull;
 The Farther Reaches of Human Nature – Abraham H. Maslow &bull;
-On Having No Head: Zen and the Re-discovery of the Obvious – Douglas Harding  &bull;
-The Doors of Perception – Aldous Huxley  &bull;
-The Origin of Consciousness in the Breakdown of the Bicameral Mind – Julian Jaynes  &bull;
-Seeing Like a State – James C. Scott  &bull;
-The Perennial Philosophy – Aldous Huxley  &bull;
-In Love with the World: A Monk's Journey Through the Bardos of Living and Dying – Yongey Mingyur Rinpoche  &bull;
-The Buddha Before Buddhism: Wisdom from the Early Teachings – Gil Fronsdal  &bull;
-Sacred Knowledge: Psychedelics and Religious Experiences – William A. Richards  &bull;
-Reflections on the Self – Jiddu Krishnamurti  &bull;
-No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism – Chris Niebauer  &bull;
+On Having No Head: Zen and the Re-discovery of the Obvious – Douglas Harding &bull;
+The Doors of Perception – Aldous Huxley &bull;
+The Origin of Consciousness in the Breakdown of the Bicameral Mind – Julian Jaynes &bull;
+Seeing Like a State – James C. Scott &bull;
+The Perennial Philosophy – Aldous Huxley &bull;
+In Love with the World: A Monk's Journey Through the Bardos of Living and Dying – Yongey Mingyur Rinpoche &bull;
+The Buddha Before Buddhism: Wisdom from the Early Teachings – Gil Fronsdal &bull;
+Sacred Knowledge: Psychedelics and Religious Experiences – William A. Richards &bull;
+Reflections on the Self – Jiddu Krishnamurti &bull;
+No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism – Chris Niebauer &bull;
 The Book: On the Taboo Against Knowing Who You Are – Alan Watts &bull;
-Old Path White Clouds: Walking in the Footsteps of the Buddha – Thich Nhat Hanh  &bull;
+Old Path White Clouds: Walking in the Footsteps of the Buddha – Thich Nhat Hanh &bull;
 The Myth of Freedom and the Way of Meditation – Chögyam Trungpa &bull;
-Walden – Live in the Woods – Henry David Thoreau  &bull;
+Walden – Live in the Woods – Henry David Thoreau &bull;
 Wisdom Wide and Deep: A Practical Handbook for Mastering Jhana and Vipassana – Shaila Catherine &bull;
 The Case Against Reality: Why Evolution Hid the Truth from Our Eyes – Donald Hoffman &bull;
 Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career – Scott Young &bull;
 The Overstory – Richard Powers &bull;
-Peak: Secrets from the New Science of Expertise – K. Anders Ericsson,  Robert Pool &bull;
+Peak: Secrets from the New Science of Expertise – K. Anders Ericsson, Robert Pool &bull;
 Circe – Madeline Miller &bull;
 Seven Types of Atheism – John N. Gray &bull;
 The Song of Achilles – Madeline Miller &bull;
@@ -91,8 +96,8 @@ Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes &bull;
 Blindsight – Peter Watts &bull;
 The Bestseller Code: Anatomy of the Blockbuster Novel – Jodie Archer, Matthew L. Jockers &bull;
 Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) – Nicole Felton, Kate Kiefer Lee &bull;
-Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear  &bull;
-Creative Confidence: Unleashing the Creative Potential Within Us All – David M. Kelley, Tom Kelley  &bull;
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones – James Clear &bull;
+Creative Confidence: Unleashing the Creative Potential Within Us All – David M. Kelley, Tom Kelley &bull;
 The Thousand Autumns of Jacob de Zoet – David Mitchell &bull;
 The Effective Executive, 50th Anniversary Edition – Peter F. Drucker &bull;
 The Denial of Death – Ernest Becker &bull;
@@ -113,7 +118,7 @@ Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Bod
 The Collected Songs of Cold Mountain – Cold Mountain (Han Shan), Red Pine &bull;
 The Dhammapada – Gil Fronsdal &bull;
 One Robe, One Bowl: The Zen Poetry of Ryokan – John Stevens &bull;
-Buddhism Plain and Simple: The Practice of Being Aware, Right Now, Every Day  – Steve Hagen &bull;
+Buddhism Plain and Simple: The Practice of Being Aware, Right Now, Every Day – Steve Hagen &bull;
 After Buddhism: Rethinking the Dharma for a Secular Age – Stephen Batchelor &bull;
 Vipassana for Hackers – Steven Deobald &bull;
 How to Change Your Mind: The New Science of Psychedelics – Michael Pollan &bull;
