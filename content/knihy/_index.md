@@ -10,8 +10,10 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 78 kníh, aktualizované 16. decembra 2019)
+## 2019 (spolu zatiaľ 80 kníh, aktualizované 19. decembra 2019)
 
+Indistractable: How to Control Your Attention and Choose Your Life – Nir Eyal &bull;
+The Death of Ivan Ilyich – Leo Tolstoy &bull;
 The Undoing Project: A Friendship That Changed Our Minds – Michael Lewis &bull;
 A New Buddhist Path: Enlightenment, Evolution, and Ethics in the Modern World – David R. Loy &bull;
 The Enigma of Reason – Hugo Mercier, Dan Sperber &bull;
