@@ -880,6 +880,27 @@ article > footer > .recommended > h3 {
   }
 }
 
+/* Typography marks */
+
+section>p:last-child:after {
+  content: "\25FC";
+  display: inline;
+  color: rgba(var(--bd-color), 1);
+}
+
+hr {
+  border: none;
+  margin-bottom: 1.5em;
+}
+
+hr:after {
+  content: "\2042";
+  display: block;
+  text-align: center;
+  color: rgba(var(--bd-color), 1);
+  font-weight: 900;
+}
+
 /* Social sharing */
 
 .sharethis {
