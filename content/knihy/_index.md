@@ -10,8 +10,11 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2019 (spolu zatiaľ 80 kníh, aktualizované 19. decembra 2019)
+## 2020 (spolu zatiaľ 0 kníh)
 
+## 2019 (spolu 81 kníh)
+
+Lost Connections: Why You’re Depressed and How to Find Hope – Johann Hari &bull;
 Indistractable: How to Control Your Attention and Choose Your Life – Nir Eyal &bull;
 The Death of Ivan Ilyich – Leo Tolstoy &bull;
 The Undoing Project: A Friendship That Changed Our Minds – Michael Lewis &bull;
