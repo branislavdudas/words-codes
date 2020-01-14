@@ -10,8 +10,9 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 3 knihy – aktualizované 10.&nbsp;01.&nbsp;2020)
+## 2020 (spolu zatiaľ 3 knihy – aktualizované 14.&nbsp;01.&nbsp;2020)
 
+Tehanu – Ursula K. Le Guin &bull;
 The Farthest Shore – Ursula K. Le Guin &bull;
 The Tombs of Atuan – Ursula K. Le Guin &bull;
 A Wizard of Earthsea – Ursula K. Le Guin
