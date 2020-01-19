@@ -10,7 +10,7 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 6 knihy – aktualizované 19.&nbsp;01.&nbsp;2020)
+## 2020 (spolu zatiaľ 6 kníh – aktualizované 19.&nbsp;01.&nbsp;2020)
 
 The Other Wind – Ursula K. Le Guin &bull;
 Tales from Earthsea – Ursula K. Le Guin &bull;
