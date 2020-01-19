@@ -10,8 +10,10 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 3 knihy – aktualizované 14.&nbsp;01.&nbsp;2020)
+## 2020 (spolu zatiaľ 6 knihy – aktualizované 19.&nbsp;01.&nbsp;2020)
 
+The Other Wind – Ursula K. Le Guin &bull;
+Tales from Earthsea – Ursula K. Le Guin &bull;
 Tehanu – Ursula K. Le Guin &bull;
 The Farthest Shore – Ursula K. Le Guin &bull;
 The Tombs of Atuan – Ursula K. Le Guin &bull;
@@ -99,7 +101,7 @@ Company of One: Why Staying Small is the Next Big Thing for Business – Paul Ja
 100 Ways to Improve Your Writing – Gary Provost &bull;
 Wit's End: What Wit Is, How It Works, and Why We Need It – James Geary &bull;
 The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination – Ursula K. Le Guin &bull;
-Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling &bull;
+Faktomluva – Hans Rosling, Anna Rosling Rönnlund, Ola Rosling
 
 ## 2018 (spolu 52 kníh)
 Cognitive Gadgets: The Cultural Evolution of Thinking – Cecilia Heyes &bull;
@@ -153,7 +155,7 @@ Reasons and Persons – Derek Parfit &bull;
 The Elephant in the Brain – Robin Hanson & Kevin Simler &bull;
 Väzenia, v ktorých sme sa rozhodli žiť – Doris Lessing &bull;
 Konec prokrastinace – Petr Ludwig &bull;
-Getting Things Done: The Art of Stress-Free Productivity – David Allen](#)
+Getting Things Done: The Art of Stress-Free Productivity – David Allen
 
 
 ## 2017 (spolu 35 kníh)
@@ -192,7 +194,7 @@ Ficciones – Jorge Luis Borges &bull;
 Král světla - Arabské mýty, legendy a pohádky – Jiří Tomek &bull;
 A Universal History of Iniquity – Jorge Luis Borges &bull;
 The Complete Cosmicomics – Calvino Italo &bull;
-Žert – Milan Kundera](#)
+Žert – Milan Kundera
 
 
 ## 2016 (spolu 45 kníh)
@@ -241,7 +243,7 @@ When Breath Becomes Air – Paul Kalanithi &bull;
 The Good Gut: Taking Control of Your Weight, Your Mood, and Your Long-term Health – Justin Sonnenburg &bull;
 A Monster Calls – Patrick Ness &bull;
 Sapiens: A Brief History of Humankind – Yuval Noah Harari &bull;
-Som mama – Kristína Farkašová](#)
+Som mama – Kristína Farkašová
 
 
 ## 2015 (spolu 43 kníh)
@@ -288,7 +290,7 @@ Information Doesn't Want to Be Free: Laws for the Internet Age – Cory Doctorow
 In the Heart of the Sea: The Tragedy of the Whaleship Essex – Nathaniel Philbrick &bull;
 Thoughts Without A Thinker: Psychotherapy From A Buddhist Perspective – Mark Epstein &bull;
 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works – Dan Harris &bull;
-Zrnko Pravdy – Zygmunt Miłoszewski](#)
+Zrnko Pravdy – Zygmunt Miłoszewski
 
 
 ## 2014 (spolu 61 kníh)
@@ -353,7 +355,7 @@ The Story of the Human Body: Evolution, Health, and Disease – Daniel E. Lieber
 The Believing Brain: From Ghosts and Gods to Politics and Conspiracies How We Construct Beliefs and Reinforce Them as Truths – Michael Shermer &bull;
 The Naked Ape: A Zoologist's Study of the Human Animal – Desmond Morris &bull;
 Incognito: The Secret Lives of the Brain – David Eagleman &bull;
-Intuition Pumps And Other Tools for Thinking – Daniel C. Dennett](#)
+Intuition Pumps And Other Tools for Thinking – Daniel C. Dennett
 
 
 ## 2013 (spolu 54 kníh)
@@ -411,7 +413,7 @@ The Social Conquest of Earth – Edward O. Wilson &bull;
 The Information Diet: A Case for Conscious Consumption – Clay A. Johnson &bull;
 In Defense of Food: An Eater's Manifesto – Michael Pollan &bull;
 The Art of Travel – Alain de Botton &bull;
-How to Think More About Sex – Alain de Botton](#)
+How to Think More About Sex – Alain de Botton
 
 
 ## 2012 (spolu 70 kníh)
@@ -485,7 +487,7 @@ The Greatest Show on Earth: The Evidence for Evolution – Richard Dawkins &bull
 Switch: How to Change Things When Change Is Hard – Chip Heath &bull;
 A Short History of Nearly Everything – Bill Bryson &bull;
 Contact – Carl Sagan &bull;
-The God Delusion – Richard Dawkins](#)
+The God Delusion – Richard Dawkins
 
 
 ## Staršie:
