@@ -10,17 +10,18 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 15 kníh – aktualizované 18.&nbsp;02.&nbsp;2020)
+## 2020 (spolu zatiaľ 16 kníh – aktualizované 20.&nbsp;02.&nbsp;2020)
 
-A Way of Being –  Carl R. Rogers
-Tajný život stromů – Peter Wohlleben
-Hermann Hesse – Damian
-Becoming Animal: An Earthly Cosmology – David Abram
-The Spell of the Sensuous: Perception and Language in a More-Than-Human World – David Abram
-King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine – Robert L. Moore
-How to Eat – Thich Nhat Hanh
-The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness – Ichiro Kishimi
-The Master and His Emissary: The Divided Brain and the Making of the Western World – Iain McGilchrist
+The Parent's Tao Te Ching: Ancient Advice for Modern Parents – William Martin &bull;
+A Way of Being –  Carl R. Rogers &bull;
+Tajný život stromů – Peter Wohlleben &bull;
+Hermann Hesse – Damian &bull;
+Becoming Animal: An Earthly Cosmology – David Abram &bull;
+The Spell of the Sensuous: Perception and Language in a More-Than-Human World – David Abram &bull;
+King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine – Robert L. Moore &bull;
+How to Eat – Thich Nhat Hanh &bull;
+The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness – Ichiro Kishimi &bull;
+The Master and His Emissary: The Divided Brain and the Making of the Western World – Iain McGilchrist &bull;
 The Other Wind – Ursula K. Le Guin &bull;
 Tales from Earthsea – Ursula K. Le Guin &bull;
 Tehanu – Ursula K. Le Guin &bull;
