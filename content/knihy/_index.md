@@ -10,8 +10,9 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 16 kníh – aktualizované 20.&nbsp;02.&nbsp;2020)
+## 2020 (spolu zatiaľ 17 kníh – aktualizované 24.&nbsp;02.&nbsp;2020)
 
+Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma – Pete Walker &bull;
 The Parent's Tao Te Ching: Ancient Advice for Modern Parents – William Martin &bull;
 A Way of Being –  Carl R. Rogers &bull;
 Tajný život stromů – Peter Wohlleben &bull;
