@@ -16,7 +16,7 @@ V priebehu pár dní sa naše životy zmenili na nepoznanie. Ten, kto plánoval 
 
 Mnohí tak postupne v&nbsp;rôznej intenzite trúchlime za životom, ktorý sme žili doteraz a&nbsp;ktorý sme žili v&nbsp;presvedčení, že ho budeme žiť aj naďalej rovnakým&nbsp;spôsobom.
 
-Nemyslím si, že to tak bude. Korona-kríza, ktorou si prechádzame nás prinúti vytvoriť si nové pravidlá a&nbsp;nové spôsoby života. Následky vírusu budú podobné následkom virálnym následkom šírenia smartfónov a&nbsp;internetu – tak ako sa nevieme vrátiť do sveta pred mobilmi sa nebudeme vedieť vrátiť ani do sveta pred&nbsp;COVID-19.
+Nemyslím si, že to tak bude. Korona-kríza, ktorou si prechádzame nás prinúti vytvoriť si nové pravidlá a&nbsp;nové spôsoby života. Následky vírusu budú podobné virálnym následkom šírenia smartfónov a&nbsp;internetu – tak ako sa nevieme vrátiť do sveta pred mobilmi sa nebudeme vedieť vrátiť ani do sveta pred&nbsp;COVID-19.
 
 Minimálne z&nbsp;môjho pohľadu má koronavírus na ľudstvo podobný efekt ako príchod novej veľkej technológie – zasiahol a&nbsp;preorganizoval takmer všetky ľudské aktivity so zodpovedajúcim spoločenskými a&nbsp;psychologickými&nbsp;následkami.
 
