@@ -50,7 +50,7 @@ Je ľahké pozerať sa cez červené okuliare prifarbené hnevom, cez modré poz
 4. Depresia
 5. Prijatie
 
-Určite máte vo svojom okolí ľudí, ktorí si nimi práve prechádzajú. Ľudí, ktorí sa tvária, že sa nič nedeje a&nbsp;že o&nbsp;týždeň bude po všetkom (popieranie). Ľudí, ktorí sa hnevajú na vládu, Čínu, farma-firmy a&nbsp;vedia presne, kto za to všetko môže (hnev). Ľudí, ktorí dúfajú, že stačí dávať si konskú dávku vitamínu&nbsp;C a&nbsp;všetko bude určite v&nbsp;poriadku (vyjednávanie). Ľudí, ktorí majú pocit, že už nemá zmysel vstať z postele – veď už je všetko stratené!&nbsp;(depresia).
+Určite máte vo svojom okolí ľudí, ktorí si nimi práve prechádzajú. Ľudí, ktorí sa tvária, že sa nič nedeje a&nbsp;že vírus sa nás netýka (popieranie). Ľudí, ktorí sa hnevajú, že nemôžu chodiť cvičiť, či stretávať sa s&nbsp;priateľmi (hnev). Ľudí, ktorí dúfajú, že ak ostanú dva–tri týždne doma, budú sa môcť vrátiť k&nbsp;normálnemu životu (vyjednávanie). Ľudí, ktorí majú pocit, že už nemá zmysel vstať z postele – veď už je všetko stratené!&nbsp;(depresia).
 
 A&nbsp;je to v&nbsp;poriadku. Je v&nbsp;poriadku byť smutný. Je v&nbsp;poriadku hnevať sa. Je v&nbsp;poriadku báť sa. Je v&nbsp;poriadku byť v&nbsp;strese. Je v&nbsp;poriadku byť frustrovaný.
 
