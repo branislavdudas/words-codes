@@ -1,16 +1,16 @@
 ---
-title: Spustite reťazovú reakciu dobrých zvykov s knihou Atómové návyky
+title: Zbavte sa zlozvykov a naučte sa dobrým zvykom jednoducho s knihou Atómové návyky
 author: Branislav Dudáš
 type: post
-date: 2020-03-27T07:01:00+00:00
-date_modified: 2020-03-28T07:01:00+00:00
+date: 2020-04-04T07:01:00+00:00
+date_modified: 2020-04-04T07:01:00+00:00
 url: /blog/atomove-navyky/
 categories:
  - Psychológia
 draft: false
-description: .
+description: Najjednoduchším spôsobom, ako si zariadiť lepší život, je robiť tie správne veci automaticky, bez odporu. S knihou Atomové návyky to zvládnete hravo.
 keywords: psychológia, zvyky, atómové návyky, atomic habits, james clear
-og_image: https://res.cloudinary.com/words-codes/image/upload/v1585428252/og-images/og-image-truchlenie.jpg
+og_image: https://res.cloudinary.com/words-codes/image/upload/v1586089371/og-images/og-image.atomove-navyky.jpg
 ---
 Najjednoduchším spôsobom, ako si zariadiť lepší život, je robiť tie správne veci automaticky, bez odporu. Aké by to asi bolo, ak by ste siahli po zdravej strave, bežeckej obuvi, knihe, medzizubnej kefke či pyžame s rovnakou prirodzenosťou, s akou tečie voda dolu kopcom? Krásna predstava, ktorá naozaj nie je nereálna.
 
@@ -68,6 +68,8 @@ Každá z týchto fáz vám dáva páku, na ktorú môžete zatlačiť a ovplyvn
 Tie správne zvyky kvitnú v správnej ekológii. Preto by ste si mali okolo seba vytvoriť prostredie, ktoré priamo reflektuje a podporuje zmenu, ktorú chcete dosiahnuť. Napríklad, ak chcete začať behať, pripravte si každý deň pred dvere bežecké oblečenie a topánky. Ak chcete čítať, [obklopte sa dobrými knihami.](https://words.codes/blog/knihy-2019/)
 
 So správnym prostredím súvisí aj vytvorenie komplikácií pre zlozvyky. Napríklad, [ak trávite veľa času na Instagrame alebo Facebooku,](https://words.codes/blog/deletefacebook/) odinštalujte si z mobilu ich aplikácie. Ak náhodou nevydržíte, budete si ich musieť najprv nainštalovať. A po použití ich opäť odinštalujte.
+
+![Audio kniha Atomové návyky](https://res.cloudinary.com/words-codes/image/upload/v1586085416/article-images/atomic-habits/audio-kniha-atomove-navyky.jpg)
 
 A ak je to možné, naviažte nový zvyk na nejaký starý, s ktorým ste spokojní. Napríklad, ak pozeráte denne Netflix, dajte si záväzok, že ho budete pozerať len zo stacionárneho bicykla. Alebo, po každej prečítanej knihe sa odmeňte dobrou čokoládou.
 
