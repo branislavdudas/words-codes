@@ -48,11 +48,11 @@ Clear v Atomových návykoch ukazuje slučku, pozostávajúcu zo 4 fáz, ktoré 
 
 Podnetom môže byť miesto, čas, emocionálny stav, iná osoba, aktivita alebo predchádzajúci&nbsp;zvyk. 
 
-Napríklad, ak je mojim zvykom piť ráno kávu, podnetom je zobudenie sa a postupný proces preberania&nbsp;sa.
+Napríklad, ak je mojim zvykom ráno meditovať, podnetom je zobudenie sa a postupný proces preberania&nbsp;sa.
 
-Túžba zase vyplýva priamo z podnetu. Je tým, čo očakávame od zvyku. Ak túžim po káve, túžim po nabití energiou. Odozva je zase samotná akcia, ktorú túžba vyvolá – samotné pitie &nbsp;kávy.
+Túžba zase vyplýva priamo z podnetu. Je tým, čo očakávame od zvyku. Ak chcem meditovať, túžim po pokojnom a pozornom mentálnom rozpoložení. Odozva je zase samotná akcia, ktorú túžba vyvolá – samotná sedenie v&nbsp;tichosti.
 
-A nakoniec, odmena je výsledok akcie. V mojom prípade je to dobrá chuť kávy a pocit prebudenia a plnej&nbsp;energie.
+A nakoniec, odmena je výsledok akcie. V mojom prípade je to lepšie prežívanie okolností a stav vyrovanej mysle.
 
 Každá z týchto fáz vám dáva páku, na ktorú môžete zatlačiť a ovplyvniť svoje správanie. Ak si chcete vybudovať dobrý zvyk, zatlačte jedným smerom, ak sa chcete odnaučiť zlý zvyk, zatiahnite iným. Toto je v skratke podstata&nbsp;knihy.
 
@@ -65,7 +65,7 @@ Každá z týchto fáz vám dáva páku, na ktorú môžete zatlačiť a ovplyvn
 
 ## O našich životoch rozhoduje životné prostredie
 
-Tie správne zvyky kvitnú v správnej ekológii. Preto by ste si mali okolo seba vytvoriť prostredie, ktoré priamo reflektuje a podporuje zmenu, ktorú chcete dosiahnuť. Napríklad, ak chcete začať behať, pripravte si každý deň pred dvere bežecké oblečenie a topánky. Ak chcete čítať, [obklopte sa dobrými knihami.](https://words.codes/blog/knihy-2019/)
+Tie správne zvyky kvitnú v správnom ekosystéme. Preto by ste si mali okolo seba vytvoriť prostredie, ktoré priamo reflektuje a podporuje zmenu, ktorú chcete dosiahnuť. Napríklad, ak chcete začať behať, pripravte si každý deň pred dvere bežecké oblečenie a topánky. Ak chcete čítať, [obklopte sa dobrými knihami.](https://words.codes/blog/knihy-2019/)
 
 > Staňte sa dizajnérom, nie konzumentom svojho sveta. 
 > <footer>James Clear, Atomové návyky</footer>
@@ -83,11 +83,11 @@ V čase korona-krízy sa väčšina z nás naučila význam exponenciálneho ras
 
 Clear v knihe Atómové návyky hovorí, že konzistentná úmyselná činnosť je dôležitejšia než pár prelomových pokrokov. Ja len podotknem, že konzistentná úmyselná prax (ang. *deliberate practice*) a prelomové pokroky sa nevylučujú, naopak – prax pre ne vytvára&nbsp;priestor.
 
-Pri budovaní zvykov myslite dlhodobo. Ak sa za jeden deň zlepšíš vo svojej produktivite o 1 percento, zajtra budeš začínať na 1.01-násobku svojej dnešnej produktivity. Zo začiatku to nevyzerá ako veľký pokrok, ale vydrž&nbsp;rok…
+Pri budovaní zvykov myslite dlhodobo. Ak sa za jeden deň zlepšíte vo vašej produktivite o 1 percento, zajtra budete začínať na 1.01-násobku svojej dnešnej produktivity. Zo začiatku to nevyzerá ako veľký pokrok, ale vydržte&nbsp;rok…
 
 >1,01<sup>365</sup> = 37,78
 
-…a si takmer 38-násobne produktívnejší než na začiatku. Ak sa ale budeš denne oddávať zlým zvykom, stiahnu ťa veľmi&nbsp;hlboko.
+…a ste takmer 38-násobne produktívnejší než na začiatku. Ak ale budete denne zhoršovať svoj stav zlými návykmi čo i len o jedno percento, klesnete veľmi&nbsp;hlboko.
 
 >0,99<sup>365</sup> = 0,025
 
@@ -114,4 +114,4 @@ A ako som povedal v úvode, Atómové návyky sú na to tá najlepšia&nbsp;knih
 
 ## Záver
 
-Vo všeobecnosti, <a href="https://www.melvil.cz/kniha-atomove-navyky" rel ="nofollow" rel="sponsored" target="_blank">Atomové návyky od Jamesa Cleara</a> je príjemná kniha plná zaujímavých myšlienok. To, že som ju  čítal zlepšilo môj život len minimálne. Ale v tom je práve tá pointa: časom sa aj minimálna zmena môže v budúcnosti priniesť podstatné&nbsp;výsledky.
+Vo všeobecnosti, <a href="https://www.melvil.cz/kniha-atomove-navyky" rel ="nofollow" rel="sponsored" target="_blank">Atomové návyky od Jamesa Cleara</a> sú príjemná kniha plná zaujímavých myšlienok. To, že som ju  čítal zlepšilo môj život len minimálne. Ale v tom je práve tá pointa: časom sa aj minimálna zmena môže v budúcnosti priniesť podstatné&nbsp;výsledky.
