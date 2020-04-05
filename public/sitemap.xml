@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://words.codes/blog/atomove-navyky/</loc>
+    <lastmod>2020-03-27T07:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/blog/truchlenie-za-zivotom/</loc>
+    <lastmod>2020-03-27T07:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/blog/knihy-2019/</loc>
+    <lastmod>2020-01-01T07:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://words.codes/blog/preco-spime/</loc>
+    <lastmod>2019-11-12T07:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://words.codes/sluzby/webstranka/</loc>
     <lastmod>2019-02-06T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -508,7 +536,8 @@
   
   <url>
     <loc>https://words.codes/tags/</loc>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

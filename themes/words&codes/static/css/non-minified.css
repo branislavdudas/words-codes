@@ -1098,3 +1098,15 @@ button:hover small {
     grid-row: 2;
   }
 }
+
+/* Table */
+
+table {
+  margin-right: auto;  
+}
+
+th, td {
+  padding-right: 15px;
+  text-align: left;
+}
+
