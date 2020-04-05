@@ -1,5 +1,5 @@
 ---
-title: Zbavte sa zlozvykov a naučte sa dobrým zvykom jednoducho s knihou Atómové návyky
+title: Zbavte sa zlozvykov a naučte sa dobrým zvykom jednoducho, s knihou Atómové návyky
 author: Branislav Dudáš
 type: post
 date: 2020-04-04T07:01:00+00:00
