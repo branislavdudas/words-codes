@@ -10,8 +10,23 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 17 kníh – aktualizované 24.&nbsp;02.&nbsp;2020)
+## 2020 (spolu zatiaľ 32 kníh – aktualizované 21.&nbsp;09.&nbsp;2020)
 
+Hyperobjects: Philosophy and Ecology after the End of the World – Timothy Morton &bull;
+Umění milovat – Erich Fromm &bull;
+Wake Up To Your Life: Discovering the Buddhist Path of Attention – Ken McLeod &bull;
+Zen Speaks: Shouts of Nothingness – Tsai Chih Chung &bull;
+Training in Compassion: Zen Teachings on the Practice of Lojong – Zoketsu Norman Fischer &bull;
+Breath: The New Science of a Lost Art – James Nestor &bull;
+Příběh síly – Carlos Castaneda &bull;
+Cesta do Ixtlanu – Carlos Castaneda &bull;
+Oddelená skutečnost – Carlos Castaneda &bull;
+Učení Dona Juana – Carlos Castaneda &bull;
+The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality – Bernardo Kastrup &bull;
+Opening the Hand of Thought: Foundations of Zen Buddhist Practice – Kōshō Uchiyama &bull;
+Kim Scott - Radikální otevřenost &bull;
+Behave: The Biology of Humans at Our Best and Worst – Robert M. Sapolsky &bull;
+Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed – Lori Gottlieb &bull;
 Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma – Pete Walker &bull;
 The Parent's Tao Te Ching: Ancient Advice for Modern Parents – William Martin &bull;
 A Way of Being –  Carl R. Rogers &bull;
