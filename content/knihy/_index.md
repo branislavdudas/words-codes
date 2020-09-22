@@ -10,8 +10,9 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 32 kníh – aktualizované 21.&nbsp;09.&nbsp;2020)
+## 2020 (spolu zatiaľ 33 kníh – aktualizované 22.&nbsp;09.&nbsp;2020)
 
+Theogony / Works and Days – Hesiod &bull;
 Hyperobjects: Philosophy and Ecology after the End of the World – Timothy Morton &bull;
 Umění milovat – Erich Fromm &bull;
 Wake Up To Your Life: Discovering the Buddhist Path of Attention – Ken McLeod &bull;
