@@ -10,8 +10,12 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 33 kníh – aktualizované 22.&nbsp;09.&nbsp;2020)
+## 2020 (spolu zatiaľ 37 kníh – aktualizované 25.&nbsp;09.&nbsp;2020)
 
+The Pleasantries of the Incredible Mulla Nasrudin – Idries Shah &bull;
+The Subtleties of the Inimitable Mulla Nasrudin – Idries Shah &bull;
+Being Nobody, Going Nowhere – Ayya Khema &bull;
+My Voice Will Go with You: The Teaching Tales of Milton H. Erickson – Sidney Rosen &bull;
 Theogony / Works and Days – Hesiod &bull;
 Hyperobjects: Philosophy and Ecology after the End of the World – Timothy Morton &bull;
 Umění milovat – Erich Fromm &bull;
