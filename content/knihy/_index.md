@@ -10,8 +10,10 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 37 kníh – aktualizované 25.&nbsp;09.&nbsp;2020)
+## 2020 (spolu zatiaľ 39 kníh – aktualizované 1.&nbsp;10.&nbsp;2020)
 
+Way of Chuang Tzu – Thomas Merton &bull;
+The Metamorphosis – Franz Kafka &bull;
 The Pleasantries of the Incredible Mulla Nasrudin – Idries Shah &bull;
 The Subtleties of the Inimitable Mulla Nasrudin – Idries Shah &bull;
 Being Nobody, Going Nowhere – Ayya Khema &bull;
