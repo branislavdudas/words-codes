@@ -10,8 +10,12 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 39 kníh – aktualizované 1.&nbsp;10.&nbsp;2020)
+## 2020 (spolu zatiaľ 43 kníh – aktualizované 20.&nbsp;10.&nbsp;2020)
 
+City of Illusions – Ursula K. Le Guin &bull;
+Planet of Exile – Ursula K. Le Guin &bull;
+Rocannon's World – Ursula K. Le Guin &bull;
+Die Wise: A Manifesto for Sanity and Soul – Stephen Jenkinson &bull;
 Way of Chuang Tzu – Thomas Merton &bull;
 The Metamorphosis – Franz Kafka &bull;
 The Pleasantries of the Incredible Mulla Nasrudin – Idries Shah &bull;
