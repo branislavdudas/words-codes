@@ -10,13 +10,18 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 43 kníh – aktualizované 20.&nbsp;10.&nbsp;2020)
+## 2020 (spolu zatiaľ 48 kníh – aktualizované 13.&nbsp;11.&nbsp;2020)
 
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers – Sönke Ahrens &bull;
+The Book of Tea – Okakura Kakuzō &bull;
+Piranesi – Susanna Clarke &bull;
+The Nine Cloud Dream – Kim Man-Jung &bull;
+The Left Hand of Darkness – Ursula K. Le Guin &bull;
 City of Illusions – Ursula K. Le Guin &bull;
 Planet of Exile – Ursula K. Le Guin &bull;
 Rocannon's World – Ursula K. Le Guin &bull;
 Die Wise: A Manifesto for Sanity and Soul – Stephen Jenkinson &bull;
-Way of Chuang Tzu – Thomas Merton &bull;
+The Way of Chuang Tzu – Thomas Merton &bull;
 The Metamorphosis – Franz Kafka &bull;
 The Pleasantries of the Incredible Mulla Nasrudin – Idries Shah &bull;
 The Subtleties of the Inimitable Mulla Nasrudin – Idries Shah &bull;
