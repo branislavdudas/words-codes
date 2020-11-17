@@ -10,8 +10,10 @@ url: /knihy/
 Kto chce dobre písať, musí dobre čítať. Preto dávam verejne k dispozícii zoznam kníh, ktoré som prečítal. Alebo aspoň tých, na ktoré si takto z miesta spomínam. Po rok 2012 sú zoradené chronologicky, staršie sú abecedne.
 
 
-## 2020 (spolu zatiaľ 48 kníh – aktualizované 13.&nbsp;11.&nbsp;2020)
+## 2020 (spolu zatiaľ 50 kníh – aktualizované 17.&nbsp;11.&nbsp;2020)
 
+The Stranger in the Woods: The Extraordinary Story of the Last True Hermit – Michael Finkel &bull;
+Rumi: Bridge to the Soul: Journeys into the Music and Silence of the Heart – Coleman Barks &bull;
 How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers – Sönke Ahrens &bull;
 The Book of Tea – Okakura Kakuzō &bull;
 Piranesi – Susanna Clarke &bull;
